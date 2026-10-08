@@ -1,0 +1,5165 @@
+entity,code,year,spend_pct_gdp,suspect
+Afghanistan,AFG,2010,3.47945,False
+Afghanistan,AFG,2011,3.46201,False
+Afghanistan,AFG,2012,2.60421,False
+Afghanistan,AFG,2013,3.45446,False
+Afghanistan,AFG,2014,3.69522,False
+Afghanistan,AFG,2015,3.25579,False
+Afghanistan,AFG,2016,4.54396,False
+Afghanistan,AFG,2017,4.34319,False
+Albania,ALB,1994,3.44698,False
+Albania,ALB,1995,3.14191,False
+Albania,ALB,1996,3.0503,False
+Albania,ALB,1997,3.32768,False
+Albania,ALB,1998,3.463,False
+Albania,ALB,1999,3.51435,False
+Albania,ALB,2000,3.33045,False
+Albania,ALB,2001,3.34199,False
+Albania,ALB,2002,3.00253,False
+Albania,ALB,2003,3.03534,False
+Albania,ALB,2004,3.1308,False
+Albania,ALB,2005,3.20024,False
+Albania,ALB,2006,3.10271,False
+Albania,ALB,2007,3.14639,False
+Albania,ALB,2011,3.1788132,False
+Albania,ALB,2012,3.2953398,False
+Albania,ALB,2013,3.53355,False
+Albania,ALB,2014,3.1817772,False
+Albania,ALB,2015,3.413,False
+Albania,ALB,2016,3.91997,False
+Albania,ALB,2017,3.54673,False
+Albania,ALB,2018,3.0820136,False
+Albania,ALB,2019,3.87018,False
+Albania,ALB,2020,3.32505,False
+Albania,ALB,2021,3.00556,False
+Albania,ALB,2022,2.72978,False
+Albania,ALB,2023,3.09153,False
+Algeria,DZA,1979,7.18201,False
+Algeria,DZA,1980,6.59742,False
+Algeria,DZA,2008,4.11142,False
+Algeria,DZA,2010,8.691771,False
+Algeria,DZA,2011,9.124535,False
+Algeria,DZA,2012,7.029509,False
+Algeria,DZA,2013,6.6590605,False
+Algeria,DZA,2014,6.548898,False
+Algeria,DZA,2015,6.17633,False
+Algeria,DZA,2016,6.5021086,False
+Algeria,DZA,2017,5.7348237,False
+Algeria,DZA,2018,5.8127513,False
+Algeria,DZA,2019,5.5753655,False
+Algeria,DZA,2020,6.1939173,False
+Algeria,DZA,2021,5.514033,False
+Algeria,DZA,2022,4.7492466,False
+Algeria,DZA,2023,5.610157,False
+Algeria,DZA,2024,8.97772,False
+American Samoa,ASM,2006,14.71705,False
+Andorra,AND,1997,3.71328,False
+Andorra,AND,2002,1.65971,False
+Andorra,AND,2004,1.54412,False
+Andorra,AND,2005,1.64497,False
+Andorra,AND,2006,2.2449,False
+Andorra,AND,2007,2.10469,False
+Andorra,AND,2008,2.87393,False
+Andorra,AND,2009,3.14292,False
+Andorra,AND,2010,2.97663,False
+Andorra,AND,2011,2.98706,False
+Andorra,AND,2012,2.565779,False
+Andorra,AND,2013,2.50616,False
+Andorra,AND,2014,3.07421,False
+Andorra,AND,2015,3.28035,False
+Andorra,AND,2016,3.23707,False
+Andorra,AND,2017,3.21709,False
+Andorra,AND,2018,3.24672,False
+Andorra,AND,2019,3.15061,False
+Andorra,AND,2020,2.6321304,False
+Andorra,AND,2021,2.3819218,False
+Andorra,AND,2022,2.64728,False
+Andorra,AND,2023,1.89868,False
+Angola,AGO,1985,4.09022,False
+Angola,AGO,1986,5.72269,False
+Angola,AGO,1987,5.05851,False
+Angola,AGO,1998,2.56712,False
+Angola,AGO,2000,2.60753,False
+Angola,AGO,2005,2.12011,False
+Angola,AGO,2006,2.28146,False
+Angola,AGO,2010,3.42132,False
+Angola,AGO,2012,3.0819108,False
+Angola,AGO,2013,4.4389496,False
+Angola,AGO,2015,3.4868958,False
+Angola,AGO,2016,2.7549367,False
+Angola,AGO,2017,2.466879,False
+Angola,AGO,2018,2.183513,False
+Angola,AGO,2019,2.0730643,False
+Angola,AGO,2020,2.6674473,False
+Angola,AGO,2021,2.2971969,False
+Angola,AGO,2022,2.385359,False
+Angola,AGO,2023,2.5127366,False
+Anguilla,AIA,2011,3.1543574,False
+Anguilla,AIA,2012,3.370353,False
+Anguilla,AIA,2013,3.3830082,False
+Anguilla,AIA,2014,3.0392213,False
+Anguilla,AIA,2015,2.979637,False
+Anguilla,AIA,2016,3.1401215,False
+Anguilla,AIA,2017,3.6471837,False
+Anguilla,AIA,2018,3.2966974,False
+Anguilla,AIA,2019,2.8129349,False
+Anguilla,AIA,2020,4.063555,False
+Anguilla,AIA,2021,3.5690358,False
+Anguilla,AIA,2022,2.500124,False
+Antigua and Barbuda,ATG,1999,2.52541,False
+Antigua and Barbuda,ATG,2002,3.07878,False
+Antigua and Barbuda,ATG,2009,2.22264,False
+Antigua and Barbuda,ATG,2012,2.1304302,False
+Antigua and Barbuda,ATG,2013,2.3597214,False
+Antigua and Barbuda,ATG,2014,2.304441,False
+Antigua and Barbuda,ATG,2015,1.9934756,False
+Antigua and Barbuda,ATG,2016,2.1714993,False
+Antigua and Barbuda,ATG,2017,2.281583,False
+Antigua and Barbuda,ATG,2018,2.269227,False
+Antigua and Barbuda,ATG,2019,3.3572567,False
+Antigua and Barbuda,ATG,2020,3.005183,False
+Antigua and Barbuda,ATG,2021,2.5089738,False
+Antigua and Barbuda,ATG,2022,2.5036876,False
+Antigua and Barbuda,ATG,2023,3.1050515,False
+Argentina,ARG,1970,1.45809,False
+Argentina,ARG,1972,1.9362,False
+Argentina,ARG,1973,1.78052,False
+Argentina,ARG,1974,1.92352,False
+Argentina,ARG,1975,1.8436,False
+Argentina,ARG,1976,1.16564,False
+Argentina,ARG,1977,1.71984,False
+Argentina,ARG,1978,1.93555,False
+Argentina,ARG,1979,2.40028,False
+Argentina,ARG,1980,2.60715,False
+Argentina,ARG,1982,1.59787,False
+Argentina,ARG,1983,1.6175,False
+Argentina,ARG,1984,2.56972,False
+Argentina,ARG,1985,1.36186,False
+Argentina,ARG,1986,1.26155,False
+Argentina,ARG,1987,1.2823,False
+Argentina,ARG,1989,1.04612,False
+Argentina,ARG,1990,1.06738,False
+Argentina,ARG,1996,3.73198,False
+Argentina,ARG,1998,4.03987,False
+Argentina,ARG,1999,4.52168,False
+Argentina,ARG,2000,4.58031,False
+Argentina,ARG,2001,4.83374,False
+Argentina,ARG,2002,4.01734,False
+Argentina,ARG,2003,3.53505,False
+Argentina,ARG,2004,3.48652,False
+Argentina,ARG,2005,3.86001,False
+Argentina,ARG,2006,4.12821,False
+Argentina,ARG,2007,4.46261,False
+Argentina,ARG,2008,4.84439,False
+Argentina,ARG,2009,5.53105,False
+Argentina,ARG,2010,5.01972,False
+Argentina,ARG,2011,5.29064,False
+Argentina,ARG,2012,5.34584,False
+Argentina,ARG,2013,5.4366,False
+Argentina,ARG,2014,5.36144,False
+Argentina,ARG,2015,5.77611,False
+Argentina,ARG,2016,5.54549,False
+Argentina,ARG,2017,5.45433,False
+Argentina,ARG,2018,4.87774,False
+Argentina,ARG,2019,4.77166,False
+Argentina,ARG,2020,5.2769,False
+Argentina,ARG,2021,4.65393,False
+Argentina,ARG,2022,4.79263,False
+Argentina,ARG,2023,5.00324,False
+Armenia,ARM,1996,1.84843,False
+Armenia,ARM,1999,2.23518,False
+Armenia,ARM,2000,2.77272,False
+Armenia,ARM,2001,2.46944,False
+Armenia,ARM,2002,2.13504,False
+Armenia,ARM,2003,2.14505,False
+Armenia,ARM,2004,2.48673,False
+Armenia,ARM,2005,2.71203,False
+Armenia,ARM,2006,2.71577,False
+Armenia,ARM,2007,3.01894,False
+Armenia,ARM,2008,3.17273,False
+Armenia,ARM,2009,3.84079,False
+Armenia,ARM,2010,3.249,False
+Armenia,ARM,2011,3.14384,False
+Armenia,ARM,2012,2.77248,False
+Armenia,ARM,2013,2.65018,False
+Armenia,ARM,2014,2.24724,False
+Armenia,ARM,2015,2.80591,False
+Armenia,ARM,2016,2.75812,False
+Armenia,ARM,2017,2.70759,False
+Armenia,ARM,2018,2.1133118,False
+Armenia,ARM,2019,2.1598425,False
+Armenia,ARM,2020,2.70556,False
+Armenia,ARM,2021,2.76785,False
+Armenia,ARM,2022,2.4919,False
+Armenia,ARM,2023,2.4387,False
+Aruba,ABW,1998,4.76316,False
+Aruba,ABW,1999,4.39527,False
+Aruba,ABW,2000,4.71468,False
+Aruba,ABW,2001,4.79898,False
+Aruba,ABW,2002,4.8722,False
+Aruba,ABW,2004,4.35699,False
+Aruba,ABW,2005,4.62322,False
+Aruba,ABW,2007,4.70255,False
+Aruba,ABW,2008,4.8273,False
+Aruba,ABW,2009,5.7974,False
+Aruba,ABW,2010,6.75109,False
+Aruba,ABW,2011,5.91467,False
+Aruba,ABW,2012,6.34729,False
+Aruba,ABW,2013,6.44296,False
+Aruba,ABW,2014,5.85128,False
+Aruba,ABW,2015,5.88827,False
+Aruba,ABW,2016,5.49136,False
+Aruba,ABW,2017,4.45582,False
+Aruba,ABW,2018,4.5487638,False
+Aruba,ABW,2019,4.4350367,False
+Aruba,ABW,2021,3.6185575,False
+Australia,AUS,1978,6.00073,False
+Australia,AUS,1979,5.88907,False
+Australia,AUS,1980,5.64617,False
+Australia,AUS,1982,5.47191,False
+Australia,AUS,1983,5.36449,False
+Australia,AUS,1985,5.39746,False
+Australia,AUS,1986,5.26872,False
+Australia,AUS,1987,5.05759,False
+Australia,AUS,1988,4.90701,False
+Australia,AUS,1989,4.73902,False
+Australia,AUS,1990,4.66683,False
+Australia,AUS,1991,4.78474,False
+Australia,AUS,1992,4.68276,False
+Australia,AUS,1993,5.50558,False
+Australia,AUS,1994,5.24482,False
+Australia,AUS,2020,5.38625,False
+Australia,AUS,2021,5.34109,False
+Australia,AUS,2022,5.05915,False
+Austria,AUT,1970,4.16347,False
+Austria,AUT,1971,4.29919,False
+Austria,AUT,1972,4.46765,False
+Austria,AUT,1973,4.53322,False
+Austria,AUT,1974,4.67425,False
+Austria,AUT,1975,5.14812,False
+Austria,AUT,1976,5.25826,False
+Austria,AUT,1977,4.97349,False
+Austria,AUT,1978,5.18008,False
+Austria,AUT,1979,5.05797,False
+Austria,AUT,1980,5.02867,False
+Austria,AUT,1981,5.38892,False
+Austria,AUT,1982,5.38408,False
+Austria,AUT,1983,5.32464,False
+Austria,AUT,1984,5.31529,False
+Austria,AUT,1985,5.31805,False
+Austria,AUT,1986,5.52159,False
+Austria,AUT,1987,5.39726,False
+Austria,AUT,1988,5.21114,False
+Austria,AUT,1989,5.0379,False
+Austria,AUT,1990,4.97674,False
+Austria,AUT,1991,5.12327,False
+Austria,AUT,1992,5.31782,False
+Austria,AUT,1993,5.27264,False
+Austria,AUT,1995,5.4497,False
+Austria,AUT,1996,5.28884,False
+Austria,AUT,1998,6.13727,False
+Austria,AUT,1999,6.13599,False
+Austria,AUT,2000,5.62037,False
+Austria,AUT,2001,5.60476,False
+Austria,AUT,2002,5.56255,False
+Austria,AUT,2003,5.39254,False
+Austria,AUT,2004,5.34224,False
+Austria,AUT,2005,5.28515,False
+Austria,AUT,2006,5.26368,False
+Austria,AUT,2007,5.17918,False
+Austria,AUT,2008,5.29852,False
+Austria,AUT,2009,5.76568,False
+Austria,AUT,2010,5.73626,False
+Austria,AUT,2011,5.62787,False
+Austria,AUT,2012,5.51613,False
+Austria,AUT,2013,5.59405,False
+Austria,AUT,2014,5.49767,False
+Austria,AUT,2015,5.49144,False
+Austria,AUT,2016,5.50954,False
+Austria,AUT,2017,5.40181,False
+Austria,AUT,2018,5.25437,False
+Austria,AUT,2019,5.23678,False
+Austria,AUT,2020,5.57962,False
+Austria,AUT,2021,5.48071,False
+Austria,AUT,2022,5.27749,False
+Azerbaijan,AZE,1992,6.05797,False
+Azerbaijan,AZE,1995,3.33737,False
+Azerbaijan,AZE,1996,3.51257,False
+Azerbaijan,AZE,1998,3.38002,False
+Azerbaijan,AZE,1999,4.21214,False
+Azerbaijan,AZE,2000,3.85399,False
+Azerbaijan,AZE,2001,3.50342,False
+Azerbaijan,AZE,2002,3.15446,False
+Azerbaijan,AZE,2003,3.28615,False
+Azerbaijan,AZE,2004,3.4477,False
+Azerbaijan,AZE,2005,2.97462,False
+Azerbaijan,AZE,2006,2.55552,False
+Azerbaijan,AZE,2007,2.54928,False
+Azerbaijan,AZE,2008,2.44093,False
+Azerbaijan,AZE,2009,3.22431,False
+Azerbaijan,AZE,2010,2.78062,False
+Azerbaijan,AZE,2011,2.43564,False
+Azerbaijan,AZE,2012,2.06763,False
+Azerbaijan,AZE,2013,2.44213,False
+Azerbaijan,AZE,2014,2.63304,False
+Azerbaijan,AZE,2015,2.95168,False
+Azerbaijan,AZE,2016,2.90341,False
+Azerbaijan,AZE,2017,2.47382,False
+Azerbaijan,AZE,2018,2.45543,False
+Azerbaijan,AZE,2019,3.17646,False
+Azerbaijan,AZE,2020,4.33205,False
+Azerbaijan,AZE,2021,3.70208,False
+Azerbaijan,AZE,2022,3.04689,False
+Azerbaijan,AZE,2023,3.66036,False
+Bahamas,BHS,2000,2.23284,False
+Bahamas,BHS,2010,2.45166,False
+Bahamas,BHS,2011,2.3557663,False
+Bahamas,BHS,2012,2.303912,False
+Bahamas,BHS,2013,2.4242885,False
+Bahamas,BHS,2014,2.247147,False
+Bahamas,BHS,2015,2.2723176,False
+Bahamas,BHS,2016,2.587862,False
+Bahamas,BHS,2017,2.6951017,False
+Bahamas,BHS,2018,2.4926412,False
+Bahamas,BHS,2019,2.6257317,False
+Bahamas,BHS,2020,3.712523,False
+Bahamas,BHS,2021,3.0489066,False
+Bahamas,BHS,2022,2.62367,False
+Bahamas,BHS,2023,2.7419157,False
+Bahrain,BHR,1970,2.01217,False
+Bahrain,BHR,1971,2.30781,False
+Bahrain,BHR,1972,2.02393,False
+Bahrain,BHR,2006,2.87441,False
+Bahrain,BHR,2007,2.575,False
+Bahrain,BHR,2008,2.49678,False
+Bahrain,BHR,2010,2.3511498,False
+Bahrain,BHR,2011,2.3123538,False
+Bahrain,BHR,2012,2.54483,False
+Bahrain,BHR,2013,2.38287,False
+Bahrain,BHR,2014,2.36919,False
+Bahrain,BHR,2015,2.55344,False
+Bahrain,BHR,2016,2.8024828,False
+Bahrain,BHR,2017,2.21637,False
+Bahrain,BHR,2018,2.3889399,False
+Bahrain,BHR,2019,2.1114697,False
+Bahrain,BHR,2020,2.0580192,False
+Bahrain,BHR,2021,1.8511595,False
+Bahrain,BHR,2022,1.7119212,False
+Bahrain,BHR,2023,1.8877816,False
+Bangladesh,BGD,1979,1.13094,False
+Bangladesh,BGD,1980,0.9376,False
+Bangladesh,BGD,1981,1.0715,False
+Bangladesh,BGD,1982,1.01164,False
+Bangladesh,BGD,1983,1.03267,False
+Bangladesh,BGD,1984,1.22303,False
+Bangladesh,BGD,1985,1.27118,False
+Bangladesh,BGD,1986,1.34349,False
+Bangladesh,BGD,1987,1.51364,False
+Bangladesh,BGD,1990,1.51912,False
+Bangladesh,BGD,1991,1.42566,False
+Bangladesh,BGD,1992,1.63177,False
+Bangladesh,BGD,1993,1.69263,False
+Bangladesh,BGD,1997,1.95248,False
+Bangladesh,BGD,1999,2.13282,False
+Bangladesh,BGD,2000,2.12507,False
+Bangladesh,BGD,2001,2.17193,False
+Bangladesh,BGD,2002,2.01715,False
+Bangladesh,BGD,2003,2.0694,False
+Bangladesh,BGD,2004,1.94014,False
+Bangladesh,BGD,2006,2.13129,False
+Bangladesh,BGD,2007,2.20222,False
+Bangladesh,BGD,2008,2.05457,False
+Bangladesh,BGD,2009,1.93942,False
+Bangladesh,BGD,2011,2.1327,False
+Bangladesh,BGD,2012,2.1755,False
+Bangladesh,BGD,2013,1.96617,False
+Bangladesh,BGD,2014,2.0987167,False
+Bangladesh,BGD,2015,1.8722541,False
+Bangladesh,BGD,2016,1.28184,False
+Bangladesh,BGD,2017,2.1134288,False
+Bangladesh,BGD,2018,2.0947747,False
+Bangladesh,BGD,2019,1.13095,False
+Bangladesh,BGD,2020,2.1397436,False
+Bangladesh,BGD,2021,2.170909,False
+Bangladesh,BGD,2022,2.0853865,False
+Bangladesh,BGD,2023,2.1621382,False
+Bangladesh,BGD,2024,2.0343847,False
+Barbados,BRB,1971,6.15065,False
+Barbados,BRB,1972,6.79072,False
+Barbados,BRB,1973,6.72242,False
+Barbados,BRB,1974,7.52375,False
+Barbados,BRB,1976,5.9448,False
+Barbados,BRB,1977,6.51716,False
+Barbados,BRB,1991,6.6387,False
+Barbados,BRB,1999,4.34124,False
+Barbados,BRB,2000,4.71586,False
+Barbados,BRB,2001,6.05537,False
+Barbados,BRB,2002,5.88062,False
+Barbados,BRB,2003,6.2457,False
+Barbados,BRB,2004,6.02428,False
+Barbados,BRB,2005,5.66965,False
+Barbados,BRB,2007,5.22061,False
+Barbados,BRB,2008,4.92074,False
+Barbados,BRB,2009,5.1104,False
+Barbados,BRB,2010,6.05262,False
+Barbados,BRB,2012,4.58823,False
+Barbados,BRB,2013,4.50307,False
+Barbados,BRB,2014,5.35951,False
+Barbados,BRB,2015,5.159975,False
+Barbados,BRB,2016,4.1972,False
+Barbados,BRB,2017,3.95621,False
+Barbados,BRB,2018,5.404478,False
+Barbados,BRB,2019,3.72228,False
+Barbados,BRB,2020,3.8653,False
+Barbados,BRB,2021,4.49793,False
+Barbados,BRB,2022,4.14001,False
+Barbados,BRB,2023,3.77545,False
+Barbados,BRB,2024,3.5559318,False
+Belarus,BLR,1999,6.00001,False
+Belarus,BLR,2000,6.19662,False
+Belarus,BLR,2004,5.71226,False
+Belarus,BLR,2005,5.87103,False
+Belarus,BLR,2006,6.07696,False
+Belarus,BLR,2007,5.1521,False
+Belarus,BLR,2009,4.36894,False
+Belarus,BLR,2010,5.22004,False
+Belarus,BLR,2011,4.68479,False
+Belarus,BLR,2012,4.95964,False
+Belarus,BLR,2013,5.00942,False
+Belarus,BLR,2014,4.81831,False
+Belarus,BLR,2015,4.78752,False
+Belarus,BLR,2016,4.94655,False
+Belarus,BLR,2017,4.795,False
+Belarus,BLR,2018,4.83657,False
+Belarus,BLR,2019,4.97949,False
+Belarus,BLR,2020,4.86264,False
+Belarus,BLR,2021,4.60641,False
+Belarus,BLR,2022,4.62823,False
+Belarus,BLR,2023,4.90903,False
+Belarus,BLR,2024,5.04594,False
+Belgium,BEL,1975,5.76282,False
+Belgium,BEL,1976,5.73104,False
+Belgium,BEL,1977,5.98883,False
+Belgium,BEL,1978,5.43634,False
+Belgium,BEL,1979,5.38035,False
+Belgium,BEL,1980,5.31064,False
+Belgium,BEL,1981,5.43532,False
+Belgium,BEL,1982,5.31672,False
+Belgium,BEL,1986,4.85228,False
+Belgium,BEL,1987,4.57712,False
+Belgium,BEL,1988,4.30071,False
+Belgium,BEL,1993,5.37233,False
+Belgium,BEL,1994,5.41104,False
+Belgium,BEL,1995,2.98866,False
+Belgium,BEL,1996,3.04949,False
+Belgium,BEL,2005,5.79585,False
+Belgium,BEL,2008,6.33294,False
+Belgium,BEL,2009,6.43466,False
+Belgium,BEL,2010,6.44078,False
+Belgium,BEL,2011,6.38482,False
+Belgium,BEL,2012,6.56626,False
+Belgium,BEL,2013,6.60136,False
+Belgium,BEL,2014,6.55866,False
+Belgium,BEL,2015,6.46964,False
+Belgium,BEL,2016,6.48613,False
+Belgium,BEL,2017,6.44915,False
+Belgium,BEL,2018,6.38883,False
+Belgium,BEL,2019,6.32381,False
+Belgium,BEL,2020,6.7547,False
+Belgium,BEL,2021,6.38082,False
+Belgium,BEL,2022,6.27611,False
+Belize,BLZ,1999,4.03495,False
+Belize,BLZ,2000,3.68357,False
+Belize,BLZ,2001,4.2352,False
+Belize,BLZ,2003,3.9012,False
+Belize,BLZ,2004,4.00967,False
+Belize,BLZ,2008,4.29996,False
+Belize,BLZ,2009,4.8012,False
+Belize,BLZ,2010,5.24252,False
+Belize,BLZ,2011,5.517869,False
+Belize,BLZ,2012,5.47352,False
+Belize,BLZ,2013,5.12474,False
+Belize,BLZ,2014,5.1395,False
+Belize,BLZ,2015,5.35711,False
+Belize,BLZ,2016,5.72604,False
+Belize,BLZ,2017,5.95072,False
+Belize,BLZ,2018,6.1278,False
+Belize,BLZ,2019,5.96378,False
+Belize,BLZ,2020,5.21302,False
+Belize,BLZ,2021,5.96299,False
+Belize,BLZ,2022,4.60416,False
+Belize,BLZ,2023,4.23143,False
+Belize,BLZ,2024,4.622763,False
+Benin,BEN,1998,2.74788,False
+Benin,BEN,1999,1.92194,False
+Benin,BEN,2000,2.11366,False
+Benin,BEN,2001,2.3651,False
+Benin,BEN,2002,2.15949,False
+Benin,BEN,2003,2.28316,False
+Benin,BEN,2004,2.5669,False
+Benin,BEN,2005,2.65668,False
+Benin,BEN,2006,2.5634,False
+Benin,BEN,2007,2.36331,False
+Benin,BEN,2008,2.77728,False
+Benin,BEN,2009,3.08927,False
+Benin,BEN,2010,3.67997,False
+Benin,BEN,2012,3.56202,False
+Benin,BEN,2013,3.32751,False
+Benin,BEN,2014,3.16179,False
+Benin,BEN,2015,3.17298,False
+Benin,BEN,2016,2.8991,False
+Benin,BEN,2017,3.53559,False
+Benin,BEN,2018,2.93162,False
+Benin,BEN,2019,2.7320473,False
+Benin,BEN,2020,2.8989844,False
+Benin,BEN,2021,3.0969265,False
+Benin,BEN,2022,3.0972643,False
+Benin,BEN,2023,3.2297432,False
+Bermuda,BMU,1973,4.1079,False
+Bermuda,BMU,1975,3.43442,False
+Bermuda,BMU,1985,3.03449,False
+Bermuda,BMU,1990,3.1362,False
+Bermuda,BMU,1991,3.15065,False
+Bermuda,BMU,1992,3.47605,False
+Bermuda,BMU,1998,2.15227,False
+Bermuda,BMU,2003,1.66627,False
+Bermuda,BMU,2004,1.77588,False
+Bermuda,BMU,2005,1.98877,False
+Bermuda,BMU,2009,2.2892,False
+Bermuda,BMU,2010,2.30669,False
+Bermuda,BMU,2011,2.19657,False
+Bermuda,BMU,2012,2.3859713,False
+Bermuda,BMU,2013,2.279503,False
+Bermuda,BMU,2014,1.53688,False
+Bermuda,BMU,2015,1.50164,False
+Bermuda,BMU,2016,2.0390587,False
+Bermuda,BMU,2017,1.32496,False
+Bermuda,BMU,2018,1.9359547,False
+Bermuda,BMU,2019,1.9267982,False
+Bermuda,BMU,2020,1.748348,False
+Bermuda,BMU,2021,1.9456532,False
+Bermuda,BMU,2022,1.7758334,False
+Bermuda,BMU,2023,1.8651044,False
+Bhutan,BTN,1971,1.87579,False
+Bhutan,BTN,1972,1.65056,False
+Bhutan,BTN,1975,3.09239,False
+Bhutan,BTN,1978,2.51002,False
+Bhutan,BTN,1979,3.47624,False
+Bhutan,BTN,2000,5.78676,False
+Bhutan,BTN,2001,5.44985,False
+Bhutan,BTN,2004,6.12312,False
+Bhutan,BTN,2005,6.7642,False
+Bhutan,BTN,2008,4.56951,False
+Bhutan,BTN,2009,4.41888,False
+Bhutan,BTN,2010,3.82319,False
+Bhutan,BTN,2011,4.31659,False
+Bhutan,BTN,2013,5.16566,False
+Bhutan,BTN,2014,5.46185,False
+Bhutan,BTN,2015,6.92886,False
+Bhutan,BTN,2016,6.40446,False
+Bhutan,BTN,2017,6.61725,False
+Bhutan,BTN,2018,6.47811,False
+Bhutan,BTN,2019,4.5098276,False
+Bhutan,BTN,2020,5.469918,False
+Bhutan,BTN,2021,6.5983863,False
+Bhutan,BTN,2022,7.46982,False
+Bhutan,BTN,2023,5.84518,False
+Bolivia,BOL,2006,6.43422,False
+Bolivia,BOL,2007,6.7205,False
+Bolivia,BOL,2008,6.72301,False
+Bolivia,BOL,2009,7.57484,False
+Bolivia,BOL,2010,6.97377,False
+Bolivia,BOL,2011,6.45054,False
+Bolivia,BOL,2012,6.628,False
+Bolivia,BOL,2013,6.80322,False
+Bolivia,BOL,2014,7.47812,False
+Bolivia,BOL,2015,8.14345,False
+Bolivia,BOL,2016,8.15062,False
+Bolivia,BOL,2017,8.09723,False
+Bolivia,BOL,2018,8.01586,False
+Bolivia,BOL,2019,8.09103,False
+Bolivia,BOL,2020,8.43711,False
+Bolivia,BOL,2021,7.96216,False
+Bolivia,BOL,2022,7.57551,False
+Bolivia,BOL,2023,7.89382,False
+Bolivia,BOL,2024,7.5398,False
+Bosnia and Herzegovina,BIH,2014,3.3147397,False
+Bosnia and Herzegovina,BIH,2015,3.018113,False
+Bosnia and Herzegovina,BIH,2016,4.26451,False
+Bosnia and Herzegovina,BIH,2017,2.8386843,False
+Bosnia and Herzegovina,BIH,2018,3.89297,False
+Bosnia and Herzegovina,BIH,2019,4.0445,False
+Bosnia and Herzegovina,BIH,2020,3.0195408,False
+Bosnia and Herzegovina,BIH,2021,4.13623,False
+Bosnia and Herzegovina,BIH,2022,2.97013,False
+Bosnia and Herzegovina,BIH,2023,3.2456484,False
+Botswana,BWA,1971,4.38724,False
+Botswana,BWA,1972,3.90639,False
+Botswana,BWA,1973,3.26279,False
+Botswana,BWA,1974,3.67424,False
+Botswana,BWA,1975,5.64943,False
+Botswana,BWA,1976,6.06396,False
+Botswana,BWA,1977,5.40031,False
+Botswana,BWA,1978,5.95214,False
+Botswana,BWA,1979,6.14173,False
+Botswana,BWA,1980,5.46932,False
+Botswana,BWA,1983,5.55227,False
+Botswana,BWA,1984,5.55166,False
+Botswana,BWA,1985,5.65072,False
+Botswana,BWA,1986,5.18593,False
+Botswana,BWA,1987,6.11773,False
+Botswana,BWA,1988,6.15111,False
+Botswana,BWA,1990,5.73963,False
+Botswana,BWA,1992,6.84061,False
+Botswana,BWA,2005,10.67859,False
+Botswana,BWA,2007,9.04667,False
+Botswana,BWA,2009,9.8253,False
+Botswana,BWA,2011,10.826553,False
+Botswana,BWA,2012,8.109873,False
+Botswana,BWA,2013,8.017206,False
+Botswana,BWA,2014,7.888742,False
+Botswana,BWA,2015,8.39458,False
+Botswana,BWA,2016,8.735893,False
+Botswana,BWA,2017,7.8092446,False
+Botswana,BWA,2018,7.905386,False
+Botswana,BWA,2019,8.398996,False
+Botswana,BWA,2020,8.058336,False
+Brazil,BRA,1995,4.56816,False
+Brazil,BRA,1998,4.75667,False
+Brazil,BRA,1999,3.80062,False
+Brazil,BRA,2000,3.94893,False
+Brazil,BRA,2001,3.84467,False
+Brazil,BRA,2002,3.75037,False
+Brazil,BRA,2004,3.97449,False
+Brazil,BRA,2005,4.47909,False
+Brazil,BRA,2006,4.8706,False
+Brazil,BRA,2007,4.97427,False
+Brazil,BRA,2008,5.26885,False
+Brazil,BRA,2009,5.46355,False
+Brazil,BRA,2010,5.6488,False
+Brazil,BRA,2011,5.73741,False
+Brazil,BRA,2012,5.8551,False
+Brazil,BRA,2013,5.83885,False
+Brazil,BRA,2014,5.94848,False
+Brazil,BRA,2015,6.24106,False
+Brazil,BRA,2016,6.31403,False
+Brazil,BRA,2017,6.32048,False
+Brazil,BRA,2018,6.08851,False
+Brazil,BRA,2019,5.96347,False
+Brazil,BRA,2020,5.77149,False
+Brazil,BRA,2021,5.49698,False
+Brazil,BRA,2022,5.61921,False
+British Virgin Islands,VGB,2010,3.487008,False
+British Virgin Islands,VGB,2012,3.5556073,False
+British Virgin Islands,VGB,2013,4.4581122,False
+British Virgin Islands,VGB,2014,4.009198,False
+British Virgin Islands,VGB,2015,4.7045,False
+British Virgin Islands,VGB,2016,3.254677,False
+British Virgin Islands,VGB,2017,2.4570894,False
+British Virgin Islands,VGB,2018,2.4255607,False
+British Virgin Islands,VGB,2019,2.500968,False
+British Virgin Islands,VGB,2020,2.7053928,False
+British Virgin Islands,VGB,2021,3.0245533,False
+British Virgin Islands,VGB,2022,2.484018,False
+British Virgin Islands,VGB,2023,3.1728384,False
+Brunei,BRN,1970,6.23915,False
+Brunei,BRN,1971,4.99502,False
+Brunei,BRN,1972,4.03929,False
+Brunei,BRN,1973,8.79329,False
+Brunei,BRN,1974,1.57028,False
+Brunei,BRN,1975,0.91789,False
+Brunei,BRN,1976,0.91775,False
+Brunei,BRN,1978,1.00111,False
+Brunei,BRN,1979,0.71693,False
+Brunei,BRN,1980,0.54381,False
+Brunei,BRN,1981,0.75361,False
+Brunei,BRN,1982,0.81021,False
+Brunei,BRN,1987,2.65351,False
+Brunei,BRN,1988,3.20917,False
+Brunei,BRN,1989,2.8097,False
+Brunei,BRN,1990,2.30816,False
+Brunei,BRN,1991,2.16113,False
+Brunei,BRN,1992,2.47772,False
+Brunei,BRN,1993,2.84204,False
+Brunei,BRN,1998,3.83446,False
+Brunei,BRN,1999,3.59609,False
+Brunei,BRN,2000,3.38461,False
+Brunei,BRN,2010,1.84384,False
+Brunei,BRN,2011,3.32214,False
+Brunei,BRN,2012,2.88964,False
+Brunei,BRN,2014,3.35322,False
+Brunei,BRN,2016,4.4254,False
+Bulgaria,BGR,1980,3.52948,False
+Bulgaria,BGR,1990,4.45406,False
+Bulgaria,BGR,1991,5.42962,False
+Bulgaria,BGR,1992,5.26046,False
+Bulgaria,BGR,1993,4.95049,False
+Bulgaria,BGR,1994,4.17066,False
+Bulgaria,BGR,1995,2.37207,False
+Bulgaria,BGR,1996,2.23008,False
+Bulgaria,BGR,1998,2.73943,False
+Bulgaria,BGR,2001,3.38424,False
+Bulgaria,BGR,2002,3.38608,False
+Bulgaria,BGR,2003,3.99845,False
+Bulgaria,BGR,2004,4.24989,False
+Bulgaria,BGR,2005,4.1088,False
+Bulgaria,BGR,2006,3.90346,False
+Bulgaria,BGR,2007,3.68034,False
+Bulgaria,BGR,2008,4.21909,False
+Bulgaria,BGR,2009,4.27429,False
+Bulgaria,BGR,2010,3.85746,False
+Bulgaria,BGR,2011,3.5469,False
+Bulgaria,BGR,2012,3.4765,False
+Bulgaria,BGR,2013,4.05766,False
+Bulgaria,BGR,2014,4.19388,False
+Bulgaria,BGR,2015,3.88469,False
+Bulgaria,BGR,2016,3.81436,False
+Bulgaria,BGR,2017,4.07755,False
+Bulgaria,BGR,2018,4.05201,False
+Bulgaria,BGR,2019,4.2143,False
+Bulgaria,BGR,2020,4.48299,False
+Bulgaria,BGR,2021,4.70924,False
+Bulgaria,BGR,2022,4.50109,False
+Burkina Faso,BFA,1978,1.67983,False
+Burkina Faso,BFA,1980,1.9618,False
+Burkina Faso,BFA,1983,1.75448,False
+Burkina Faso,BFA,1985,1.76396,False
+Burkina Faso,BFA,1988,1.42608,False
+Burkina Faso,BFA,1994,3.45111,False
+Burkina Faso,BFA,1996,1.44026,False
+Burkina Faso,BFA,2005,3.94113,False
+Burkina Faso,BFA,2006,3.98219,False
+Burkina Faso,BFA,2007,4.07982,False
+Burkina Faso,BFA,2010,3.50223,False
+Burkina Faso,BFA,2011,3.98515,False
+Burkina Faso,BFA,2012,3.60316,False
+Burkina Faso,BFA,2013,4.08344,False
+Burkina Faso,BFA,2014,4.0533,False
+Burkina Faso,BFA,2015,3.67009,False
+Burkina Faso,BFA,2017,5.62847,False
+Burkina Faso,BFA,2018,5.48861,False
+Burkina Faso,BFA,2019,5.4561563,False
+Burkina Faso,BFA,2020,5.211483,False
+Burkina Faso,BFA,2021,5.2491336,False
+Burkina Faso,BFA,2022,5.2945676,False
+Burkina Faso,BFA,2023,5.3275785,False
+Burundi,BDI,1979,2.80336,False
+Burundi,BDI,1981,3.34676,False
+Burundi,BDI,1990,3.35933,False
+Burundi,BDI,1991,3.49366,False
+Burundi,BDI,1992,3.80585,False
+Burundi,BDI,1994,4.56527,False
+Burundi,BDI,1995,5.01511,False
+Burundi,BDI,1996,4.08324,False
+Burundi,BDI,1999,3.41745,False
+Burundi,BDI,2000,2.64548,False
+Burundi,BDI,2001,2.90391,False
+Burundi,BDI,2002,3.00493,False
+Burundi,BDI,2004,3.74495,False
+Burundi,BDI,2005,3.63217,False
+Burundi,BDI,2008,5.19289,False
+Burundi,BDI,2009,6.17195,False
+Burundi,BDI,2010,6.77524,False
+Burundi,BDI,2011,6.31926,False
+Burundi,BDI,2012,6.16777,False
+Burundi,BDI,2013,5.9954,False
+Burundi,BDI,2014,6.78452,False
+Burundi,BDI,2015,6.37134,False
+Burundi,BDI,2016,4.692,False
+Burundi,BDI,2017,4.76202,False
+Burundi,BDI,2018,5.07864,False
+Burundi,BDI,2019,5.3466845,False
+Burundi,BDI,2020,5.321585,False
+Burundi,BDI,2021,4.871142,False
+Burundi,BDI,2025,4.50404,False
+Cambodia,KHM,1998,1.25907,False
+Cambodia,KHM,2000,1.6487,False
+Cambodia,KHM,2001,1.65506,False
+Cambodia,KHM,2002,1.62863,False
+Cambodia,KHM,2004,1.56036,False
+Cambodia,KHM,2007,1.36423,False
+Cambodia,KHM,2009,1.38577,False
+Cambodia,KHM,2010,1.24873,False
+Cambodia,KHM,2011,1.20888,False
+Cambodia,KHM,2012,1.23062,False
+Cambodia,KHM,2013,1.57648,False
+Cambodia,KHM,2014,1.4469,False
+Cambodia,KHM,2018,1.60337,False
+Cambodia,KHM,2019,2.1334538,False
+Cambodia,KHM,2020,2.2476463,False
+Cambodia,KHM,2021,1.9623269,False
+Cambodia,KHM,2022,1.9579328,False
+Cambodia,KHM,2023,2.1809127,False
+Cameroon,CMR,1971,3.07987,False
+Cameroon,CMR,1972,3.36389,False
+Cameroon,CMR,1982,2.98497,False
+Cameroon,CMR,1983,3.49689,False
+Cameroon,CMR,1984,3.24637,False
+Cameroon,CMR,1986,2.84834,False
+Cameroon,CMR,1987,2.93091,False
+Cameroon,CMR,1988,2.71473,False
+Cameroon,CMR,1989,2.64896,False
+Cameroon,CMR,1990,3.2871,False
+Cameroon,CMR,1991,3.22023,False
+Cameroon,CMR,1992,2.751,False
+Cameroon,CMR,2000,1.70285,False
+Cameroon,CMR,2001,2.29734,False
+Cameroon,CMR,2003,2.82259,False
+Cameroon,CMR,2004,2.7953,False
+Cameroon,CMR,2005,2.65653,False
+Cameroon,CMR,2006,2.5399,False
+Cameroon,CMR,2007,2.87815,False
+Cameroon,CMR,2008,2.49826,False
+Cameroon,CMR,2009,2.9079,False
+Cameroon,CMR,2010,2.84802,False
+Cameroon,CMR,2011,2.65336,False
+Cameroon,CMR,2012,2.60305,False
+Cameroon,CMR,2013,2.65547,False
+Cameroon,CMR,2014,2.58396,False
+Cameroon,CMR,2015,2.65791,False
+Cameroon,CMR,2016,2.56234,False
+Cameroon,CMR,2017,3.05962,False
+Cameroon,CMR,2018,3.03096,False
+Cameroon,CMR,2019,3.0473995,False
+Cameroon,CMR,2020,3.1039014,False
+Cameroon,CMR,2021,2.8493075,False
+Cameroon,CMR,2022,2.6595237,False
+Cameroon,CMR,2023,2.8390763,False
+Canada,CAN,1971,7.6843,False
+Canada,CAN,1972,7.58981,False
+Canada,CAN,1973,7.01386,False
+Canada,CAN,1974,6.66714,False
+Canada,CAN,1975,6.42133,False
+Canada,CAN,1976,6.69841,False
+Canada,CAN,1977,6.71091,False
+Canada,CAN,1978,7.07383,False
+Canada,CAN,1979,6.6922,False
+Canada,CAN,1980,6.46289,False
+Canada,CAN,1981,6.40901,False
+Canada,CAN,1982,6.49725,False
+Canada,CAN,1983,6.85547,False
+Canada,CAN,1984,6.61841,False
+Canada,CAN,1985,6.18943,False
+Canada,CAN,1986,6.02059,False
+Canada,CAN,1987,6.29828,False
+Canada,CAN,1988,6.15023,False
+Canada,CAN,1989,6.07407,False
+Canada,CAN,1990,5.96922,False
+Canada,CAN,1991,6.85952,False
+Canada,CAN,1992,6.74663,False
+Canada,CAN,1993,7.67835,False
+Canada,CAN,1994,6.6583,False
+Canada,CAN,1995,6.30477,False
+Canada,CAN,1998,5.49377,False
+Canada,CAN,1999,5.5308,False
+Canada,CAN,2000,5.42331,False
+Canada,CAN,2001,4.95304,False
+Canada,CAN,2002,4.99306,False
+Canada,CAN,2005,4.76589,False
+Canada,CAN,2007,4.76643,False
+Canada,CAN,2008,4.62612,False
+Canada,CAN,2009,4.84058,False
+Canada,CAN,2010,5.35638,False
+Canada,CAN,2011,5.26204,False
+Canada,CAN,2013,4.58899,False
+Canada,CAN,2014,4.84359,False
+Canada,CAN,2015,4.73937,False
+Canada,CAN,2016,4.81642,False
+Canada,CAN,2017,4.95998,False
+Canada,CAN,2018,4.88899,False
+Canada,CAN,2019,4.77293,False
+Canada,CAN,2020,4.88795,False
+Canada,CAN,2021,4.74859,False
+Canada,CAN,2022,4.84426,False
+Cape Verde,CPV,1998,6.39177,False
+Cape Verde,CPV,1999,6.80168,False
+Cape Verde,CPV,2002,7.87682,False
+Cape Verde,CPV,2004,7.47664,False
+Cape Verde,CPV,2006,6.5296,False
+Cape Verde,CPV,2007,4.95983,False
+Cape Verde,CPV,2008,5.03465,False
+Cape Verde,CPV,2009,4.86588,False
+Cape Verde,CPV,2010,5.07657,False
+Cape Verde,CPV,2011,4.59786,False
+Cape Verde,CPV,2012,5.3976955,False
+Cape Verde,CPV,2013,4.56156,False
+Cape Verde,CPV,2014,4.52134,False
+Cape Verde,CPV,2015,4.80622,False
+Cape Verde,CPV,2016,4.75476,False
+Cape Verde,CPV,2017,4.59278,False
+Cape Verde,CPV,2018,4.787923,False
+Cape Verde,CPV,2019,4.16529,False
+Cape Verde,CPV,2020,7.094007,False
+Cape Verde,CPV,2021,6.154903,False
+Cape Verde,CPV,2022,4.7252555,False
+Cape Verde,CPV,2023,4.348285,False
+Cayman Islands,CYM,2018,2.1637695,False
+Cayman Islands,CYM,2019,1.1367,False
+Cayman Islands,CYM,2020,1.45542,False
+Cayman Islands,CYM,2021,1.31253,False
+Cayman Islands,CYM,2022,1.48894,False
+Cayman Islands,CYM,2023,1.57024,False
+Central African Republic,CAF,1978,3.17052,False
+Central African Republic,CAF,1986,2.20775,False
+Central African Republic,CAF,1987,2.54805,False
+Central African Republic,CAF,1990,2.2442,False
+Central African Republic,CAF,1991,2.27631,False
+Central African Republic,CAF,1999,1.69002,False
+Central African Republic,CAF,2000,1.61265,False
+Central African Republic,CAF,2002,1.51957,False
+Central African Republic,CAF,2003,1.53979,False
+Central African Republic,CAF,2004,1.62453,False
+Central African Republic,CAF,2005,1.65222,False
+Central African Republic,CAF,2006,1.41506,False
+Central African Republic,CAF,2007,1.31332,False
+Central African Republic,CAF,2008,1.29001,False
+Central African Republic,CAF,2009,1.25458,False
+Central African Republic,CAF,2010,1.11761,False
+Central African Republic,CAF,2011,1.10792,False
+Central African Republic,CAF,2012,1.9803473,False
+Central African Republic,CAF,2013,2.6382143,False
+Central African Republic,CAF,2014,2.2201533,False
+Central African Republic,CAF,2015,1.9102286,False
+Central African Republic,CAF,2016,1.754089,False
+Central African Republic,CAF,2017,1.7536502,False
+Central African Republic,CAF,2018,1.565876,False
+Central African Republic,CAF,2019,1.7679207,False
+Central African Republic,CAF,2020,2.1446805,False
+Central African Republic,CAF,2021,1.8725169,False
+Central African Republic,CAF,2022,2.1150913,False
+Central African Republic,CAF,2023,1.8299592,False
+Chad,TCD,1997,2.27335,False
+Chad,TCD,1998,1.64904,False
+Chad,TCD,1999,3.22787,False
+Chad,TCD,2000,2.64671,False
+Chad,TCD,2001,2.42614,False
+Chad,TCD,2004,1.59295,False
+Chad,TCD,2005,1.30189,False
+Chad,TCD,2009,1.74367,False
+Chad,TCD,2010,1.50397,False
+Chad,TCD,2011,1.64718,False
+Chad,TCD,2012,1.52493,False
+Chad,TCD,2013,2.06696,False
+Chad,TCD,2014,2.3203123,False
+Chad,TCD,2015,2.3428316,False
+Chad,TCD,2016,2.388476,False
+Chad,TCD,2017,1.83902,False
+Chad,TCD,2018,2.259475,False
+Chad,TCD,2019,2.372458,False
+Chad,TCD,2020,2.739604,False
+Chad,TCD,2021,2.01649,False
+Chad,TCD,2022,2.6016119,False
+Chad,TCD,2023,3.2014973,False
+Chile,CHL,1974,3.66648,False
+Chile,CHL,1975,3.50703,False
+Chile,CHL,1978,2.99899,False
+Chile,CHL,1979,3.41297,False
+Chile,CHL,1980,4.14156,False
+Chile,CHL,1981,4.82065,False
+Chile,CHL,1987,2.77899,False
+Chile,CHL,1990,2.23059,False
+Chile,CHL,1993,2.3528,False
+Chile,CHL,1994,2.49259,False
+Chile,CHL,1995,2.55165,False
+Chile,CHL,1996,2.77721,False
+Chile,CHL,1997,2.98517,False
+Chile,CHL,1998,3.32313,False
+Chile,CHL,1999,3.70839,False
+Chile,CHL,2000,3.75707,False
+Chile,CHL,2002,4.04881,False
+Chile,CHL,2003,3.91869,False
+Chile,CHL,2004,3.54307,False
+Chile,CHL,2005,3.28017,False
+Chile,CHL,2006,3.04015,False
+Chile,CHL,2007,3.23316,False
+Chile,CHL,2008,3.7919,False
+Chile,CHL,2009,4.25476,False
+Chile,CHL,2010,4.18954,False
+Chile,CHL,2011,4.06174,False
+Chile,CHL,2013,4.54814,False
+Chile,CHL,2014,4.75169,False
+Chile,CHL,2015,4.9039,False
+Chile,CHL,2016,5.36646,False
+Chile,CHL,2017,5.43279,False
+Chile,CHL,2018,5.47306,False
+Chile,CHL,2019,5.6263,False
+Chile,CHL,2020,5.62992,False
+Chile,CHL,2021,5.00225,False
+Chile,CHL,2022,4.91201,False
+China,CHN,1971,1.38654,False
+China,CHN,1972,1.60219,False
+China,CHN,1973,1.64819,False
+China,CHN,1974,1.75835,False
+China,CHN,1975,1.70581,False
+China,CHN,1976,1.81354,False
+China,CHN,1977,1.74664,False
+China,CHN,1978,1.9556,False
+China,CHN,1979,2.14453,False
+China,CHN,1980,1.90852,False
+China,CHN,1981,1.94532,False
+China,CHN,1982,2.03061,False
+China,CHN,1983,2.07294,False
+China,CHN,1984,1.99482,False
+China,CHN,1985,2.00441,False
+China,CHN,1986,2.05778,False
+China,CHN,1987,1.80107,False
+China,CHN,1988,1.76117,False
+China,CHN,1992,1.64843,False
+China,CHN,1993,1.65107,False
+China,CHN,1994,1.97658,False
+China,CHN,1995,1.83267,False
+China,CHN,1996,1.84321,False
+China,CHN,1998,1.82997,False
+China,CHN,1999,1.87121,False
+China,CHN,2023,3.89714,False
+Colombia,COL,1979,1.75434,False
+Colombia,COL,1980,1.72912,False
+Colombia,COL,1981,2.59724,False
+Colombia,COL,1984,3.00429,False
+Colombia,COL,1985,2.71527,False
+Colombia,COL,1989,2.70525,False
+Colombia,COL,1998,3.92645,False
+Colombia,COL,1999,4.4408,False
+Colombia,COL,2000,3.51121,False
+Colombia,COL,2001,3.70868,False
+Colombia,COL,2002,4.26813,False
+Colombia,COL,2003,4.32514,False
+Colombia,COL,2004,4.07935,False
+Colombia,COL,2005,4.02099,False
+Colombia,COL,2006,3.91672,False
+Colombia,COL,2007,4.08301,False
+Colombia,COL,2008,3.93878,False
+Colombia,COL,2009,4.77652,False
+Colombia,COL,2010,4.83383,False
+Colombia,COL,2011,4.46608,False
+Colombia,COL,2012,4.37039,False
+Colombia,COL,2013,4.87855,False
+Colombia,COL,2014,4.62946,False
+Colombia,COL,2015,4.47039,False
+Colombia,COL,2016,4.47721,False
+Colombia,COL,2017,4.53551,False
+Colombia,COL,2018,4.4491,False
+Colombia,COL,2019,4.51068,False
+Colombia,COL,2020,5.26166,False
+Comoros,COM,1998,2.20136,False
+Comoros,COM,2002,2.25842,False
+Comoros,COM,2008,4.42265,False
+Comoros,COM,2011,2.83045,False
+Comoros,COM,2012,2.74784,False
+Comoros,COM,2013,2.38276,False
+Comoros,COM,2014,2.74473,False
+Comoros,COM,2015,2.54506,False
+Comoros,COM,2020,2.3780508,False
+Comoros,COM,2021,2.274854,False
+Comoros,COM,2022,2.4316442,False
+Comoros,COM,2023,2.341469,False
+Congo,COG,1970,5.7323,False
+Congo,COG,1971,5.55095,False
+Congo,COG,1973,5.23845,False
+Congo,COG,1975,7.74302,False
+Congo,COG,1978,8.41331,False
+Congo,COG,1979,7.03814,False
+Congo,COG,1980,6.35924,False
+Congo,COG,1994,6.37312,False
+Congo,COG,1995,4.91034,False
+Congo,COG,1998,4.06827,False
+Congo,COG,2002,3.20832,False
+Congo,COG,2003,2.83616,False
+Congo,COG,2004,2.28813,False
+Congo,COG,2005,1.68102,False
+Congo,COG,2010,5.68673,False
+Congo,COG,2011,2.6465297,False
+Congo,COG,2012,2.7392306,False
+Congo,COG,2013,5.013881,False
+Congo,COG,2014,3.18256,False
+Congo,COG,2015,3.13883,False
+Congo,COG,2016,4.871141,False
+Congo,COG,2017,4.17236,False
+Congo,COG,2018,2.77167,False
+Congo,COG,2019,3.2471642,False
+Congo,COG,2020,4.222089,False
+Congo,COG,2021,3.3128154,False
+Congo,COG,2022,2.7273824,False
+Congo,COG,2023,3.3400521,False
+Cook Islands,COK,2014,4.2265105,False
+Cook Islands,COK,2015,3.9512832,False
+Cook Islands,COK,2016,3.973337,False
+Cook Islands,COK,2017,2.9169328,False
+Cook Islands,COK,2018,4.015508,False
+Cook Islands,COK,2019,3.5042667,False
+Cook Islands,COK,2020,3.6637855,False
+Cook Islands,COK,2021,4.592104,False
+Cook Islands,COK,2023,4.4173994,False
+Costa Rica,CRI,1980,7.34717,False
+Costa Rica,CRI,1982,4.88507,False
+Costa Rica,CRI,1983,4.95778,False
+Costa Rica,CRI,1986,4.42027,False
+Costa Rica,CRI,1988,4.01323,False
+Costa Rica,CRI,1989,4.07785,False
+Costa Rica,CRI,1995,3.35273,False
+Costa Rica,CRI,1996,3.89071,False
+Costa Rica,CRI,1999,5.39436,False
+Costa Rica,CRI,2000,4.66695,False
+Costa Rica,CRI,2001,4.83204,False
+Costa Rica,CRI,2002,5.15044,False
+Costa Rica,CRI,2003,5.13374,False
+Costa Rica,CRI,2004,4.89063,False
+Costa Rica,CRI,2006,4.61615,False
+Costa Rica,CRI,2007,4.63449,False
+Costa Rica,CRI,2008,4.88697,False
+Costa Rica,CRI,2009,6.01031,False
+Costa Rica,CRI,2010,6.56575,False
+Costa Rica,CRI,2011,6.37989,False
+Costa Rica,CRI,2012,6.5824,False
+Costa Rica,CRI,2013,6.68739,False
+Costa Rica,CRI,2014,6.67953,False
+Costa Rica,CRI,2015,6.8735,False
+Costa Rica,CRI,2016,6.89396,False
+Costa Rica,CRI,2017,7.06982,False
+Costa Rica,CRI,2018,6.76993,False
+Costa Rica,CRI,2019,6.73809,False
+Costa Rica,CRI,2020,6.62899,False
+Costa Rica,CRI,2021,6.24843,False
+Costa Rica,CRI,2022,5.54723,False
+Costa Rica,CRI,2023,5.31209,False
+Cote d'Ivoire,CIV,1970,5.86539,False
+Cote d'Ivoire,CIV,1972,7.53186,False
+Cote d'Ivoire,CIV,1973,7.04561,False
+Cote d'Ivoire,CIV,1974,5.69039,False
+Cote d'Ivoire,CIV,1975,6.78574,False
+Cote d'Ivoire,CIV,1976,6.46212,False
+Cote d'Ivoire,CIV,1978,6.75367,False
+Cote d'Ivoire,CIV,1979,8.23139,False
+Cote d'Ivoire,CIV,1980,6.85976,False
+Cote d'Ivoire,CIV,1992,6.78114,False
+Cote d'Ivoire,CIV,1993,6.50305,False
+Cote d'Ivoire,CIV,1994,4.78869,False
+Cote d'Ivoire,CIV,1995,4.30145,False
+Cote d'Ivoire,CIV,1996,2.72476,False
+Cote d'Ivoire,CIV,1997,2.61812,False
+Cote d'Ivoire,CIV,1998,2.43498,False
+Cote d'Ivoire,CIV,1999,2.68528,False
+Cote d'Ivoire,CIV,2000,2.40031,False
+Cote d'Ivoire,CIV,2001,2.44477,False
+Cote d'Ivoire,CIV,2002,2.81047,False
+Cote d'Ivoire,CIV,2003,2.86438,False
+Cote d'Ivoire,CIV,2004,2.91176,False
+Cote d'Ivoire,CIV,2005,2.91943,False
+Cote d'Ivoire,CIV,2006,2.81999,False
+Cote d'Ivoire,CIV,2007,3.01615,False
+Cote d'Ivoire,CIV,2008,3.09853,False
+Cote d'Ivoire,CIV,2009,3.17394,False
+Cote d'Ivoire,CIV,2010,3.24651,False
+Cote d'Ivoire,CIV,2011,2.86575,False
+Cote d'Ivoire,CIV,2012,3.43446,False
+Cote d'Ivoire,CIV,2013,3.45859,False
+Cote d'Ivoire,CIV,2014,3.31417,False
+Cote d'Ivoire,CIV,2015,3.49413,False
+Cote d'Ivoire,CIV,2016,3.93593,False
+Cote d'Ivoire,CIV,2017,3.73654,False
+Cote d'Ivoire,CIV,2018,3.21165,False
+Cote d'Ivoire,CIV,2019,3.41307,False
+Cote d'Ivoire,CIV,2020,3.78674,False
+Cote d'Ivoire,CIV,2021,3.32718,False
+Cote d'Ivoire,CIV,2022,3.47485,False
+Cote d'Ivoire,CIV,2023,3.39421,False
+Cote d'Ivoire,CIV,2024,3.6128,False
+Croatia,HRV,2002,3.82305,False
+Croatia,HRV,2003,3.8702,False
+Croatia,HRV,2004,3.82387,False
+Croatia,HRV,2007,3.96898,False
+Croatia,HRV,2008,4.27839,False
+Croatia,HRV,2009,4.36217,False
+Croatia,HRV,2010,4.20651,False
+Croatia,HRV,2011,4.10584,False
+Croatia,HRV,2013,4.50128,False
+Croatia,HRV,2017,3.87207,False
+Croatia,HRV,2018,3.92433,False
+Croatia,HRV,2019,3.94556,False
+Croatia,HRV,2020,4.40855,False
+Croatia,HRV,2021,4.09166,False
+Cuba,CUB,1980,8.36909,False
+Cuba,CUB,1991,7.14497,False
+Cuba,CUB,1993,7.07477,False
+Cuba,CUB,1994,5.61948,False
+Cuba,CUB,1998,6.20873,False
+Cuba,CUB,1999,6.75524,False
+Cuba,CUB,2000,7.70481,False
+Cuba,CUB,2001,8.35809,False
+Cuba,CUB,2002,9.57117,False
+Cuba,CUB,2003,9.94086,False
+Cuba,CUB,2004,10.26823,False
+Cuba,CUB,2005,10.55778,False
+Cuba,CUB,2006,9.05717,False
+Cuba,CUB,2007,11.86821,False
+Cuba,CUB,2008,14.05908,False
+Cuba,CUB,2009,13.12486,False
+Cuba,CUB,2010,12.83731,False
+Cuba,CUB,2012,11.551661,False
+Cuba,CUB,2013,10.671696,False
+Cuba,CUB,2014,9.607457,False
+Cuba,CUB,2015,8.963358,False
+Cuba,CUB,2016,9.013093,False
+Cuba,CUB,2017,8.444136,False
+Cuba,CUB,2018,8.024984,False
+Cuba,CUB,2019,9.047005,False
+Cuba,CUB,2020,11.524818,False
+Cuba,CUB,2021,9.385862,False
+Cuba,CUB,2022,8.440864,False
+Curacao,CUW,2011,5.647254,False
+Curacao,CUW,2012,5.382836,False
+Curacao,CUW,2013,5.11633,False
+Curacao,CUW,2014,5.954647,False
+Curacao,CUW,2015,5.950112,False
+Curacao,CUW,2016,6.234954,False
+Curacao,CUW,2017,5.914448,False
+Curacao,CUW,2018,5.9387326,False
+Curacao,CUW,2019,5.8115563,False
+Curacao,CUW,2020,7.116452,False
+Curacao,CUW,2021,6.1816025,False
+Curacao,CUW,2022,6.0816703,False
+Curacao,CUW,2023,5.3007417,False
+Curacao,CUW,2024,5.443137,False
+Cyprus,CYP,1975,4.33502,False
+Cyprus,CYP,1976,3.8197,False
+Cyprus,CYP,1977,3.38549,False
+Cyprus,CYP,1978,3.31234,False
+Cyprus,CYP,1979,3.35313,False
+Cyprus,CYP,1980,3.42601,False
+Cyprus,CYP,1981,3.79132,False
+Cyprus,CYP,1982,3.73178,False
+Cyprus,CYP,1984,3.60191,False
+Cyprus,CYP,1985,3.58696,False
+Cyprus,CYP,1986,3.48897,False
+Cyprus,CYP,1987,3.44871,False
+Cyprus,CYP,1988,3.37547,False
+Cyprus,CYP,1989,3.37627,False
+Cyprus,CYP,1990,3.33924,False
+Cyprus,CYP,1991,3.57539,False
+Cyprus,CYP,1992,3.7803,False
+Cyprus,CYP,1993,4.09555,False
+Cyprus,CYP,1994,4.15997,False
+Cyprus,CYP,1995,3.74123,False
+Cyprus,CYP,1999,4.77208,False
+Cyprus,CYP,2000,4.98954,False
+Cyprus,CYP,2001,5.11552,False
+Cyprus,CYP,2002,5.58167,False
+Cyprus,CYP,2003,6.67023,False
+Cyprus,CYP,2004,6.11772,False
+Cyprus,CYP,2005,6.28667,False
+Cyprus,CYP,2006,6.33028,False
+Cyprus,CYP,2007,6.28084,False
+Cyprus,CYP,2008,6.72277,False
+Cyprus,CYP,2009,7.20547,False
+Cyprus,CYP,2010,6.5256,False
+Cyprus,CYP,2011,6.52042,False
+Cyprus,CYP,2013,6.46747,False
+Cyprus,CYP,2014,6.42111,False
+Cyprus,CYP,2015,6.30491,False
+Cyprus,CYP,2016,6.11811,False
+Cyprus,CYP,2017,5.69962,False
+Cyprus,CYP,2019,5.16293,False
+Cyprus,CYP,2020,5.56462,False
+Cyprus,CYP,2021,5.08248,False
+Cyprus,CYP,2022,4.74211,False
+Czechia,CZE,1992,3.72542,False
+Czechia,CZE,1993,4.12949,False
+Czechia,CZE,1994,4.6173,False
+Czechia,CZE,1995,4.48585,False
+Czechia,CZE,1996,4.21884,False
+Czechia,CZE,1998,3.55989,False
+Czechia,CZE,1999,3.6444,False
+Czechia,CZE,2000,3.61999,False
+Czechia,CZE,2001,3.71491,False
+Czechia,CZE,2002,3.93903,False
+Czechia,CZE,2003,4.10312,False
+Czechia,CZE,2004,3.9813,False
+Czechia,CZE,2005,3.86251,False
+Czechia,CZE,2006,4.19626,False
+Czechia,CZE,2007,3.85007,False
+Czechia,CZE,2008,3.73208,False
+Czechia,CZE,2009,4.15532,False
+Czechia,CZE,2010,3.99342,False
+Czechia,CZE,2011,4.20787,False
+Czechia,CZE,2012,4.1905,False
+Czechia,CZE,2013,4.02133,False
+Czechia,CZE,2014,3.93604,False
+Czechia,CZE,2015,5.71913,False
+Czechia,CZE,2016,5.5008,False
+Czechia,CZE,2017,3.75575,False
+Czechia,CZE,2018,4.21541,False
+Czechia,CZE,2019,4.46737,False
+Czechia,CZE,2020,4.62503,False
+Czechia,CZE,2021,4.65164,False
+Czechia,CZE,2022,4.30292,False
+Democratic Republic of Congo,COD,1980,2.26731,False
+Democratic Republic of Congo,COD,1981,2.53505,False
+Democratic Republic of Congo,COD,1982,2.79982,False
+Democratic Republic of Congo,COD,1983,1.29945,False
+Democratic Republic of Congo,COD,1984,0.70414,False
+Democratic Republic of Congo,COD,1985,0.8257,False
+Democratic Republic of Congo,COD,1986,0.7225,False
+Democratic Republic of Congo,COD,1987,0.8612,False
+Democratic Republic of Congo,COD,1988,0.81484,False
+Democratic Republic of Congo,COD,2010,1.52498,False
+Democratic Republic of Congo,COD,2013,2.0622,False
+Democratic Republic of Congo,COD,2014,1.95143,False
+Democratic Republic of Congo,COD,2015,2.17044,False
+Democratic Republic of Congo,COD,2016,2.11869,False
+Democratic Republic of Congo,COD,2017,1.45495,False
+Democratic Republic of Congo,COD,2020,2.6226385,False
+Democratic Republic of Congo,COD,2021,2.6604848,False
+Democratic Republic of Congo,COD,2022,2.844665,False
+Denmark,DNK,1970,5.95552,False
+Denmark,DNK,1971,6.3934,False
+Denmark,DNK,1972,6.48179,False
+Denmark,DNK,1973,6.26863,False
+Denmark,DNK,1974,6.5882,False
+Denmark,DNK,1975,6.72235,False
+Denmark,DNK,1977,5.68041,False
+Denmark,DNK,1978,5.75756,False
+Denmark,DNK,1979,5.58436,False
+Denmark,DNK,1980,5.93733,False
+Denmark,DNK,1986,5.86021,False
+Denmark,DNK,1987,6.09093,False
+Denmark,DNK,1988,6.33602,False
+Denmark,DNK,1989,5.84318,False
+Denmark,DNK,1991,5.59854,False
+Denmark,DNK,1993,7.7774,False
+Denmark,DNK,1994,7.47797,False
+Denmark,DNK,1995,7.4774,False
+Denmark,DNK,1996,7.89128,False
+Denmark,DNK,1998,8.112,False
+Denmark,DNK,1999,7.93462,False
+Denmark,DNK,2000,8.09002,False
+Denmark,DNK,2001,8.21093,False
+Denmark,DNK,2002,8.206,False
+Denmark,DNK,2003,8.10986,False
+Denmark,DNK,2004,8.18768,False
+Denmark,DNK,2005,8.06474,False
+Denmark,DNK,2006,7.71624,False
+Denmark,DNK,2007,7.59684,False
+Denmark,DNK,2008,7.44197,False
+Denmark,DNK,2009,8.41279,False
+Denmark,DNK,2010,8.55023,False
+Denmark,DNK,2011,8.47716,False
+Denmark,DNK,2012,7.24571,False
+Denmark,DNK,2013,8.46861,False
+Denmark,DNK,2014,7.63834,False
+Denmark,DNK,2016,7.71534,False
+Denmark,DNK,2017,7.37001,False
+Denmark,DNK,2018,7.32748,False
+Denmark,DNK,2019,7.27586,False
+Denmark,DNK,2020,7.38575,False
+Denmark,DNK,2021,6.95916,False
+Denmark,DNK,2022,6.35586,False
+Djibouti,DJI,1999,7.62948,False
+Djibouti,DJI,2000,9.66,False
+Djibouti,DJI,2001,7.8054,False
+Djibouti,DJI,2002,8.44759,False
+Djibouti,DJI,2003,8.88989,False
+Djibouti,DJI,2004,9.26467,False
+Djibouti,DJI,2005,8.36589,False
+Djibouti,DJI,2006,8.27878,False
+Djibouti,DJI,2007,8.40625,False
+Djibouti,DJI,2010,4.49022,False
+Djibouti,DJI,2012,6.3512754,False
+Djibouti,DJI,2013,4.6478252,False
+Djibouti,DJI,2014,4.384075,False
+Djibouti,DJI,2015,3.59896,False
+Djibouti,DJI,2016,3.92226,False
+Djibouti,DJI,2017,3.73345,False
+Djibouti,DJI,2018,3.75143,False
+Dominica,DMA,1989,4.28991,False
+Dominica,DMA,1998,5.73984,False
+Dominica,DMA,1999,4.02858,False
+Dominica,DMA,2012,4.528963,False
+Dominica,DMA,2013,4.354281,False
+Dominica,DMA,2014,4.332166,False
+Dominica,DMA,2015,3.09856,False
+Dominica,DMA,2016,5.1297197,False
+Dominica,DMA,2017,4.71605,False
+Dominica,DMA,2018,5.1536045,False
+Dominica,DMA,2019,4.88722,False
+Dominica,DMA,2020,4.45778,False
+Dominica,DMA,2021,5.716892,False
+Dominica,DMA,2022,6.0431423,False
+Dominica,DMA,2023,4.694237,False
+Dominica,DMA,2024,5.3857217,False
+Dominican Republic,DOM,1970,2.64079,False
+Dominican Republic,DOM,1982,1.53891,False
+Dominican Republic,DOM,1983,1.46383,False
+Dominican Republic,DOM,1984,1.33455,False
+Dominican Republic,DOM,1985,1.21019,False
+Dominican Republic,DOM,1993,0.77395,False
+Dominican Republic,DOM,1994,0.89337,False
+Dominican Republic,DOM,1995,1.0333,False
+Dominican Republic,DOM,1996,1.22725,False
+Dominican Republic,DOM,2000,1.88829,False
+Dominican Republic,DOM,2001,1.96783,False
+Dominican Republic,DOM,2002,1.91401,False
+Dominican Republic,DOM,2003,1.84465,False
+Dominican Republic,DOM,2007,2.04678,False
+Dominican Republic,DOM,2010,1.8872879,False
+Dominican Republic,DOM,2011,1.8792576,False
+Dominican Republic,DOM,2013,3.6281815,False
+Dominican Republic,DOM,2014,3.6224344,False
+Dominican Republic,DOM,2015,3.6040027,False
+Dominican Republic,DOM,2016,3.8504956,False
+Dominican Republic,DOM,2017,3.9202676,False
+Dominican Republic,DOM,2018,3.9284947,False
+Dominican Republic,DOM,2019,4.042769,False
+Dominican Republic,DOM,2020,4.5176983,False
+Dominican Republic,DOM,2021,3.5804327,False
+Dominican Republic,DOM,2022,3.6108887,False
+Dominican Republic,DOM,2023,3.7606478,False
+East Timor,TLS,2008,8.67015,False
+East Timor,TLS,2009,12.90248,False
+East Timor,TLS,2010,11.10658,False
+East Timor,TLS,2011,10.19352,False
+East Timor,TLS,2012,7.16215,False
+East Timor,TLS,2013,5.66633,False
+East Timor,TLS,2014,7.51431,False
+East Timor,TLS,2015,8.46707,False
+East Timor,TLS,2016,8.12838,False
+East Timor,TLS,2017,7.17094,False
+East Timor,TLS,2018,6.84806,False
+East Timor,TLS,2019,4.179689,False
+East Timor,TLS,2020,3.6528735,False
+East Timor,TLS,2021,2.9738941,False
+East Timor,TLS,2023,5.2405286,False
+Ecuador,ECU,1970,2.00283,False
+Ecuador,ECU,1971,1.8794,False
+Ecuador,ECU,1977,2.41884,False
+Ecuador,ECU,1984,4.20342,False
+Ecuador,ECU,1985,5.23335,False
+Ecuador,ECU,1986,6.87238,False
+Ecuador,ECU,1995,1.99764,False
+Ecuador,ECU,1998,2.19537,False
+Ecuador,ECU,1999,1.54734,False
+Ecuador,ECU,2000,1.20266,False
+Ecuador,ECU,2009,4.51763,False
+Ecuador,ECU,2010,4.60029,False
+Ecuador,ECU,2011,4.74425,False
+Ecuador,ECU,2012,4.6531,False
+Ecuador,ECU,2013,4.92998,False
+Ecuador,ECU,2014,5.2102,False
+Ecuador,ECU,2015,5.1057,False
+Ecuador,ECU,2016,4.463977,False
+Ecuador,ECU,2017,4.6066775,False
+Ecuador,ECU,2018,4.625026,False
+Ecuador,ECU,2019,4.24577,False
+Ecuador,ECU,2020,4.26103,False
+Ecuador,ECU,2021,3.65649,False
+Ecuador,ECU,2022,3.61302,False
+Ecuador,ECU,2023,3.81965,False
+Ecuador,ECU,2024,3.69075,False
+Egypt,EGY,1971,4.52992,False
+Egypt,EGY,1972,4.5379,False
+Egypt,EGY,1974,5.22667,False
+Egypt,EGY,1975,4.89243,False
+Egypt,EGY,1976,4.94343,False
+Egypt,EGY,1977,4.54958,False
+Egypt,EGY,1978,4.94112,False
+Egypt,EGY,1980,4.28032,False
+Egypt,EGY,1982,5.6083,False
+Egypt,EGY,1983,5.22149,False
+Egypt,EGY,1988,4.52522,False
+Egypt,EGY,1989,4.60006,False
+Egypt,EGY,1992,4.05067,False
+Egypt,EGY,1993,4.1977,False
+Egypt,EGY,1994,4.58376,False
+Egypt,EGY,1995,4.604,False
+Egypt,EGY,1996,4.67157,False
+Egypt,EGY,2003,4.94563,False
+Egypt,EGY,2004,4.67072,False
+Egypt,EGY,2005,4.79443,False
+Egypt,EGY,2006,4.00178,False
+Egypt,EGY,2007,3.68461,False
+Egypt,EGY,2008,3.76083,False
+El Salvador,SLV,1975,0.90451,False
+El Salvador,SLV,1998,2.54725,False
+El Salvador,SLV,1999,2.56261,False
+El Salvador,SLV,2000,2.83868,False
+El Salvador,SLV,2002,3.24284,False
+El Salvador,SLV,2003,3.13467,False
+El Salvador,SLV,2005,3.17785,False
+El Salvador,SLV,2006,3.49298,False
+El Salvador,SLV,2007,3.60985,False
+El Salvador,SLV,2008,4.45811,False
+El Salvador,SLV,2009,4.6595,False
+El Salvador,SLV,2010,4.04808,False
+El Salvador,SLV,2011,3.89854,False
+El Salvador,SLV,2012,3.71244,False
+El Salvador,SLV,2013,3.80149,False
+El Salvador,SLV,2014,3.82416,False
+El Salvador,SLV,2015,3.90988,False
+El Salvador,SLV,2016,3.82524,False
+El Salvador,SLV,2017,3.72523,False
+El Salvador,SLV,2018,3.60575,False
+El Salvador,SLV,2019,3.38711,False
+El Salvador,SLV,2020,3.66088,False
+El Salvador,SLV,2021,3.57766,False
+El Salvador,SLV,2022,3.26848,False
+El Salvador,SLV,2023,3.18734,False
+El Salvador,SLV,2024,3.31667,False
+Equatorial Guinea,GNQ,1998,2.18797,False
+Eritrea,ERI,1996,1.63855,False
+Eritrea,ERI,1998,4.62058,False
+Eritrea,ERI,1999,5.26281,False
+Eritrea,ERI,2001,4.04716,False
+Eritrea,ERI,2002,3.5239,False
+Eritrea,ERI,2004,3.14897,False
+Eritrea,ERI,2006,2.127,False
+Estonia,EST,1992,5.28141,False
+Estonia,EST,1993,5.69823,False
+Estonia,EST,1994,5.49429,False
+Estonia,EST,1995,5.89866,False
+Estonia,EST,1996,6.05492,False
+Estonia,EST,1997,6.33788,False
+Estonia,EST,1998,6.23536,False
+Estonia,EST,1999,6.65249,False
+Estonia,EST,2000,5.33946,False
+Estonia,EST,2001,5.23217,False
+Estonia,EST,2002,5.43303,False
+Estonia,EST,2003,5.27172,False
+Estonia,EST,2004,4.87567,False
+Estonia,EST,2005,4.80935,False
+Estonia,EST,2007,4.61967,False
+Estonia,EST,2008,5.48376,False
+Estonia,EST,2009,5.95976,False
+Estonia,EST,2010,5.51754,False
+Estonia,EST,2011,4.99514,False
+Estonia,EST,2012,4.67341,False
+Estonia,EST,2013,4.78007,False
+Estonia,EST,2014,4.32586,False
+Estonia,EST,2015,5.05127,False
+Estonia,EST,2016,5.05512,False
+Estonia,EST,2017,4.86288,False
+Estonia,EST,2018,5.13963,False
+Estonia,EST,2019,5.16415,False
+Estonia,EST,2020,5.4418,False
+Estonia,EST,2021,5.21515,False
+Estonia,EST,2022,5.20734,False
+Eswatini,SWZ,1976,3.71435,False
+Eswatini,SWZ,1977,3.9443,False
+Eswatini,SWZ,1978,5.79652,False
+Eswatini,SWZ,1979,6.36428,False
+Eswatini,SWZ,1980,5.2972,False
+Eswatini,SWZ,1981,6.58383,False
+Eswatini,SWZ,1982,6.75364,False
+Eswatini,SWZ,1987,5.8022,False
+Eswatini,SWZ,1988,5.51156,False
+Eswatini,SWZ,1989,5.66129,False
+Eswatini,SWZ,1990,5.48457,False
+Eswatini,SWZ,1994,5.14029,False
+Eswatini,SWZ,1995,5.65314,False
+Eswatini,SWZ,1996,4.93816,False
+Eswatini,SWZ,1999,5.09095,False
+Eswatini,SWZ,2000,5.50848,False
+Eswatini,SWZ,2001,4.83824,False
+Eswatini,SWZ,2002,4.44087,False
+Eswatini,SWZ,2003,5.81677,False
+Eswatini,SWZ,2004,5.40161,False
+Eswatini,SWZ,2005,6.48462,False
+Eswatini,SWZ,2006,6.55476,False
+Eswatini,SWZ,2008,6.61812,False
+Eswatini,SWZ,2009,6.47135,False
+Eswatini,SWZ,2010,6.11837,False
+Eswatini,SWZ,2011,6.86433,False
+Eswatini,SWZ,2012,5.593282,False
+Eswatini,SWZ,2013,5.0846105,False
+Eswatini,SWZ,2014,7.28094,False
+Eswatini,SWZ,2015,5.354947,False
+Eswatini,SWZ,2016,5.433553,False
+Eswatini,SWZ,2017,6.177914,False
+Eswatini,SWZ,2018,5.7368736,False
+Eswatini,SWZ,2019,5.699148,False
+Eswatini,SWZ,2020,5.325463,False
+Eswatini,SWZ,2021,5.287149,False
+Eswatini,SWZ,2022,5.572742,False
+Eswatini,SWZ,2023,5.004316,False
+Eswatini,SWZ,2024,6.030829,False
+Ethiopia,ETH,1971,1.19767,False
+Ethiopia,ETH,1972,1.31443,False
+Ethiopia,ETH,1977,2.15986,False
+Ethiopia,ETH,1978,1.93494,False
+Ethiopia,ETH,1979,2.00423,False
+Ethiopia,ETH,1980,1.8162,False
+Ethiopia,ETH,1981,1.85807,False
+Ethiopia,ETH,1982,2.06093,False
+Ethiopia,ETH,1983,2.24603,False
+Ethiopia,ETH,1984,2.06062,False
+Ethiopia,ETH,1985,2.28066,False
+Ethiopia,ETH,1986,2.0859,False
+Ethiopia,ETH,1993,2.2969,False
+Ethiopia,ETH,1996,2.70708,False
+Ethiopia,ETH,1997,2.6908,False
+Ethiopia,ETH,2000,3.88615,False
+Ethiopia,ETH,2001,3.70029,False
+Ethiopia,ETH,2002,3.63245,False
+Ethiopia,ETH,2006,5.49094,False
+Ethiopia,ETH,2007,5.45111,False
+Ethiopia,ETH,2008,5.4082,False
+Ethiopia,ETH,2009,4.42207,False
+Ethiopia,ETH,2010,4.49659,False
+Ethiopia,ETH,2011,5.48577,False
+Ethiopia,ETH,2012,5.56677,False
+Ethiopia,ETH,2013,4.49855,False
+Ethiopia,ETH,2014,4.60202,False
+Ethiopia,ETH,2015,4.737919,False
+Ethiopia,ETH,2016,5.061514,False
+Ethiopia,ETH,2017,5.4990506,False
+Ethiopia,ETH,2018,5.220112,False
+Ethiopia,ETH,2019,4.4808693,False
+Ethiopia,ETH,2020,4.090565,False
+Ethiopia,ETH,2021,4.065249,False
+Ethiopia,ETH,2022,3.736495,False
+Ethiopia,ETH,2023,2.9272447,False
+Ethiopia,ETH,2024,2.297807,False
+Fiji,FJI,1979,5.19761,False
+Fiji,FJI,1981,5.82121,False
+Fiji,FJI,1983,6.48669,False
+Fiji,FJI,1989,4.8311,False
+Fiji,FJI,1998,5.5247,False
+Fiji,FJI,1999,5.16864,False
+Fiji,FJI,2000,5.87774,False
+Fiji,FJI,2001,5.64311,False
+Fiji,FJI,2002,6.27587,False
+Fiji,FJI,2004,6.20916,False
+Fiji,FJI,2005,5.16706,False
+Fiji,FJI,2006,5.65532,False
+Fiji,FJI,2007,5.89472,False
+Fiji,FJI,2008,4.25357,False
+Fiji,FJI,2009,4.49848,False
+Fiji,FJI,2011,4.17306,False
+Fiji,FJI,2012,4.461506,False
+Fiji,FJI,2013,3.88289,False
+Fiji,FJI,2014,3.7696092,False
+Fiji,FJI,2015,4.8093176,False
+Fiji,FJI,2016,4.8359027,False
+Fiji,FJI,2017,4.6511917,False
+Fiji,FJI,2018,4.7970605,False
+Fiji,FJI,2019,5.152732,False
+Fiji,FJI,2020,5.8051953,False
+Fiji,FJI,2021,4.8526864,False
+Fiji,FJI,2022,3.9383955,False
+Fiji,FJI,2023,4.246798,False
+Finland,FIN,1970,5.413,False
+Finland,FIN,1971,5.3309,False
+Finland,FIN,1972,5.00775,False
+Finland,FIN,1973,5.09292,False
+Finland,FIN,1974,4.48191,False
+Finland,FIN,1975,5.03279,False
+Finland,FIN,1976,5.22786,False
+Finland,FIN,1979,4.79649,False
+Finland,FIN,1980,4.82532,False
+Finland,FIN,1981,4.83412,False
+Finland,FIN,1982,4.78052,False
+Finland,FIN,1983,4.85723,False
+Finland,FIN,1984,4.7005,False
+Finland,FIN,1985,5.04716,False
+Finland,FIN,1986,5.10179,False
+Finland,FIN,1987,5.20251,False
+Finland,FIN,1988,5.06788,False
+Finland,FIN,1989,5.07349,False
+Finland,FIN,1990,5.3386,False
+Finland,FIN,1991,6.33646,False
+Finland,FIN,1992,6.52019,False
+Finland,FIN,1993,7.49573,False
+Finland,FIN,1994,6.86486,False
+Finland,FIN,1995,6.81648,False
+Finland,FIN,1996,6.86611,False
+Finland,FIN,1999,5.87123,False
+Finland,FIN,2000,5.71164,False
+Finland,FIN,2001,5.84085,False
+Finland,FIN,2002,6.01865,False
+Finland,FIN,2003,6.16887,False
+Finland,FIN,2004,6.15824,False
+Finland,FIN,2005,6.02583,False
+Finland,FIN,2006,5.92961,False
+Finland,FIN,2007,5.67165,False
+Finland,FIN,2008,5.83046,False
+Finland,FIN,2009,6.45998,False
+Finland,FIN,2010,6.50431,False
+Finland,FIN,2011,6.45624,False
+Finland,FIN,2012,7.17155,False
+Finland,FIN,2013,7.15288,False
+Finland,FIN,2014,7.13833,False
+Finland,FIN,2015,7.07199,False
+Finland,FIN,2016,6.90873,False
+Finland,FIN,2017,6.40827,False
+Finland,FIN,2018,6.31772,False
+Finland,FIN,2019,6.453,False
+Finland,FIN,2020,6.68128,False
+Finland,FIN,2021,6.5882,False
+Finland,FIN,2022,6.37578,False
+France,FRA,1970,3.46544,False
+France,FRA,1971,3.20759,False
+France,FRA,1972,3.39038,False
+France,FRA,1973,3.25572,False
+France,FRA,1974,4.27874,False
+France,FRA,1975,4.47883,False
+France,FRA,1976,4.47071,False
+France,FRA,1977,4.47384,False
+France,FRA,1978,4.38828,False
+France,FRA,1979,4.32152,False
+France,FRA,1980,4.34961,False
+France,FRA,1981,4.78017,False
+France,FRA,1982,4.90847,False
+France,FRA,1983,4.90945,False
+France,FRA,1984,4.91993,False
+France,FRA,1985,4.90403,False
+France,FRA,1986,4.74811,False
+France,FRA,1987,4.66263,False
+France,FRA,1988,4.58078,False
+France,FRA,1989,4.49352,False
+France,FRA,1990,4.55535,False
+France,FRA,1991,4.88098,False
+France,FRA,1992,4.7756,False
+France,FRA,1993,5.46442,False
+France,FRA,1994,5.65956,False
+France,FRA,1995,5.81207,False
+France,FRA,1996,5.78117,False
+France,FRA,1998,5.71147,False
+France,FRA,2017,5.46483,False
+France,FRA,2018,5.42541,False
+France,FRA,2019,5.36638,False
+France,FRA,2020,5.65871,False
+France,FRA,2021,5.41744,False
+France,FRA,2022,5.32435,False
+Gabon,GAB,1992,2.80552,False
+Gabon,GAB,1998,3.41966,False
+Gabon,GAB,1999,3.08123,False
+Gabon,GAB,2000,3.82709,False
+Gabon,GAB,2010,3.07809,False
+Gabon,GAB,2011,2.98746,False
+Gabon,GAB,2012,3.0134,False
+Gabon,GAB,2013,3.02971,False
+Gabon,GAB,2014,2.66667,False
+Gabon,GAB,2015,2.82436,False
+Gabon,GAB,2016,2.6677308,False
+Gabon,GAB,2017,3.555708,False
+Gabon,GAB,2018,3.071543,False
+Gabon,GAB,2019,2.8743098,False
+Gabon,GAB,2020,3.3987408,False
+Gabon,GAB,2021,2.7007928,False
+Gabon,GAB,2022,2.2077365,False
+Gabon,GAB,2023,2.3159428,False
+Gambia,GMB,1985,4.29515,False
+Gambia,GMB,1986,3.48473,False
+Gambia,GMB,1989,2.97409,False
+Gambia,GMB,1990,2.82584,False
+Gambia,GMB,1991,3.78061,False
+Gambia,GMB,1992,1.16984,False
+Gambia,GMB,1995,2.55356,False
+Gambia,GMB,1996,2.56628,False
+Gambia,GMB,1999,1.56513,False
+Gambia,GMB,2000,1.46587,False
+Gambia,GMB,2001,1.1581,False
+Gambia,GMB,2002,1.44292,False
+Gambia,GMB,2003,1.36338,False
+Gambia,GMB,2004,0.62247,False
+Gambia,GMB,2005,0.69188,False
+Gambia,GMB,2006,0.75163,False
+Gambia,GMB,2007,0.81686,False
+Gambia,GMB,2008,2.1813,False
+Gambia,GMB,2009,1.90814,False
+Gambia,GMB,2010,2.56322,False
+Gambia,GMB,2011,2.50117,False
+Gambia,GMB,2012,2.63757,False
+Gambia,GMB,2013,1.81839,False
+Gambia,GMB,2014,2.23094,False
+Gambia,GMB,2015,2.16003,False
+Gambia,GMB,2016,2.02443,False
+Gambia,GMB,2017,2.4591944,False
+Gambia,GMB,2018,2.36544,False
+Gambia,GMB,2019,2.8080971,False
+Gambia,GMB,2020,2.8873458,False
+Gambia,GMB,2021,3.044777,False
+Gambia,GMB,2022,2.8916874,False
+Gambia,GMB,2023,2.8083816,False
+Georgia,GEO,1994,6.91566,False
+Georgia,GEO,1998,2.10888,False
+Georgia,GEO,1999,2.15513,False
+Georgia,GEO,2000,2.18105,False
+Georgia,GEO,2001,2.1375,False
+Georgia,GEO,2002,2.23502,False
+Georgia,GEO,2003,2.0656,False
+Georgia,GEO,2004,2.9142,False
+Georgia,GEO,2005,2.48432,False
+Georgia,GEO,2006,3.00365,False
+Georgia,GEO,2007,2.69687,False
+Georgia,GEO,2008,2.91955,False
+Georgia,GEO,2009,3.22238,False
+Georgia,GEO,2010,2.7617934,False
+Georgia,GEO,2011,2.51492,False
+Georgia,GEO,2012,1.86034,False
+Georgia,GEO,2013,2.8330967,False
+Georgia,GEO,2014,2.9411395,False
+Georgia,GEO,2015,3.1087036,False
+Georgia,GEO,2016,3.52338,False
+Georgia,GEO,2017,3.52442,False
+Georgia,GEO,2018,3.46095,False
+Georgia,GEO,2019,3.82986,False
+Georgia,GEO,2020,3.8095114,False
+Georgia,GEO,2021,3.59442,False
+Georgia,GEO,2022,3.75498,False
+Georgia,GEO,2023,3.70918,False
+Georgia,GEO,2024,3.9801168,False
+Germany,DEU,1980,4.7,False
+Germany,DEU,1993,4.39174,False
+Germany,DEU,1994,4.31665,False
+Germany,DEU,1995,4.41835,False
+Germany,DEU,1996,4.47798,False
+Germany,DEU,1998,4.44446,False
+Germany,DEU,2008,4.47337,False
+Germany,DEU,2010,4.99525,False
+Germany,DEU,2011,4.88584,False
+Germany,DEU,2012,4.83153,False
+Germany,DEU,2013,4.83912,False
+Germany,DEU,2014,4.82583,False
+Germany,DEU,2015,4.76158,False
+Germany,DEU,2016,4.76322,False
+Germany,DEU,2017,4.77831,False
+Germany,DEU,2018,4.88402,False
+Germany,DEU,2019,5.02758,False
+Germany,DEU,2020,5.51601,False
+Germany,DEU,2021,5.36734,False
+Germany,DEU,2022,5.23916,False
+Ghana,GHA,1971,4.22444,False
+Ghana,GHA,1972,4.6214,False
+Ghana,GHA,1974,3.80271,False
+Ghana,GHA,1975,4.87654,False
+Ghana,GHA,1976,5.82883,False
+Ghana,GHA,1977,6.09528,False
+Ghana,GHA,1979,2.31135,False
+Ghana,GHA,1980,2.70777,False
+Ghana,GHA,1981,1.80812,False
+Ghana,GHA,1982,1.90454,False
+Ghana,GHA,1986,3.35448,False
+Ghana,GHA,1987,3.3067,False
+Ghana,GHA,1988,3.18742,False
+Ghana,GHA,1999,4.11037,False
+Ghana,GHA,2001,5.35444,False
+Ghana,GHA,2004,7.53558,False
+Ghana,GHA,2005,7.42208,False
+Ghana,GHA,2006,5.14794,False
+Ghana,GHA,2007,5.51987,False
+Ghana,GHA,2008,5.75796,False
+Ghana,GHA,2009,5.31744,False
+Ghana,GHA,2010,5.5406,False
+Ghana,GHA,2011,8.14097,False
+Ghana,GHA,2012,7.91914,False
+Ghana,GHA,2013,4.57645,False
+Ghana,GHA,2014,4.39979,False
+Ghana,GHA,2015,4.43404,False
+Ghana,GHA,2016,4.39452,False
+Ghana,GHA,2017,3.53363,False
+Ghana,GHA,2018,3.88613,False
+Ghana,GHA,2019,3.1530712,False
+Ghana,GHA,2020,3.40916,False
+Ghana,GHA,2021,3.4005044,False
+Ghana,GHA,2022,2.9096384,False
+Greece,GRC,1970,1.56831,False
+Greece,GRC,1971,1.32083,False
+Greece,GRC,1973,1.12831,False
+Greece,GRC,1974,1.35493,False
+Greece,GRC,1975,1.48146,False
+Greece,GRC,1976,1.46867,False
+Greece,GRC,1977,1.5148,False
+Greece,GRC,1978,1.70948,False
+Greece,GRC,1981,1.71667,False
+Greece,GRC,1982,1.71063,False
+Greece,GRC,1983,1.7125,False
+Greece,GRC,1984,1.83556,False
+Greece,GRC,1986,1.85922,False
+Greece,GRC,1987,1.86008,False
+Greece,GRC,1988,1.8953,False
+Greece,GRC,1989,2.04389,False
+Greece,GRC,1990,2.07494,False
+Greece,GRC,1991,1.96162,False
+Greece,GRC,1998,2.99233,False
+Greece,GRC,1999,3.14823,False
+Greece,GRC,2000,3.35086,False
+Greece,GRC,2001,3.47309,False
+Greece,GRC,2002,3.52255,False
+Greece,GRC,2003,3.52407,False
+Greece,GRC,2004,3.76059,False
+Greece,GRC,2005,4.05492,False
+Greece,GRC,2015,3.68239,False
+Greece,GRC,2017,3.46778,False
+Greece,GRC,2018,3.57626,False
+Greece,GRC,2019,3.55062,False
+Greece,GRC,2022,3.37548,False
+Grenada,GRD,2003,3.92674,False
+Grenada,GRD,2010,5.0750823,False
+Grenada,GRD,2011,5.4853234,False
+Grenada,GRD,2012,5.072259,False
+Grenada,GRD,2014,4.477566,False
+Grenada,GRD,2015,4.2386103,False
+Grenada,GRD,2017,3.1738,False
+Grenada,GRD,2018,3.5591934,False
+Grenada,GRD,2021,4.0903034,False
+Grenada,GRD,2022,4.037673,False
+Grenada,GRD,2023,5.125448,False
+Guatemala,GTM,1970,1.85872,False
+Guatemala,GTM,1971,2.02554,False
+Guatemala,GTM,1976,1.62729,False
+Guatemala,GTM,1993,1.66575,False
+Guatemala,GTM,1994,1.43998,False
+Guatemala,GTM,1995,1.6048,False
+Guatemala,GTM,1996,1.5637,False
+Guatemala,GTM,2006,3.03285,False
+Guatemala,GTM,2007,3.0881,False
+Guatemala,GTM,2008,3.23686,False
+Guatemala,GTM,2010,2.84865,False
+Guatemala,GTM,2011,2.96865,False
+Guatemala,GTM,2012,3.00525,False
+Guatemala,GTM,2013,2.88809,False
+Guatemala,GTM,2014,2.98563,False
+Guatemala,GTM,2015,3.03033,False
+Guatemala,GTM,2016,2.94474,False
+Guatemala,GTM,2017,2.9501,False
+Guatemala,GTM,2018,3.13194,False
+Guatemala,GTM,2019,3.19297,False
+Guatemala,GTM,2020,3.29485,False
+Guatemala,GTM,2021,3.09189,False
+Guatemala,GTM,2022,3.20787,False
+Guatemala,GTM,2023,3.10878,False
+Guatemala,GTM,2024,3.07588,False
+Guinea,GIN,1984,0.33494,False
+Guinea,GIN,1991,1.38291,False
+Guinea,GIN,1992,1.37601,False
+Guinea,GIN,1993,1.43233,False
+Guinea,GIN,1999,1.61955,False
+Guinea,GIN,2000,1.77865,False
+Guinea,GIN,2001,1.42785,False
+Guinea,GIN,2002,1.77897,False
+Guinea,GIN,2003,1.62613,False
+Guinea,GIN,2004,1.51569,False
+Guinea,GIN,2005,1.26815,False
+Guinea,GIN,2008,1.58112,False
+Guinea,GIN,2009,2.20725,False
+Guinea,GIN,2010,2.55119,False
+Guinea,GIN,2011,2.28742,False
+Guinea,GIN,2012,1.8337,False
+Guinea,GIN,2013,2.63422,False
+Guinea,GIN,2014,2.42281,False
+Guinea,GIN,2015,2.51714,False
+Guinea,GIN,2016,2.5445,False
+Guinea,GIN,2017,2.32034,False
+Guinea,GIN,2018,2.38432,False
+Guinea,GIN,2019,1.85812,False
+Guinea,GIN,2020,2.44806,False
+Guinea,GIN,2021,2.0407481,False
+Guinea,GIN,2022,2.0072231,False
+Guinea,GIN,2023,1.7247088,False
+Guinea-Bissau,GNB,1999,2.03237,False
+Guinea-Bissau,GNB,2010,1.68222,False
+Guinea-Bissau,GNB,2011,1.76593,False
+Guinea-Bissau,GNB,2012,1.88638,False
+Guinea-Bissau,GNB,2013,2.01027,False
+Guyana,GUY,1970,4.32898,False
+Guyana,GUY,1977,7.08873,False
+Guyana,GUY,1979,9.37787,False
+Guyana,GUY,1983,8.25347,False
+Guyana,GUY,1984,7.22748,False
+Guyana,GUY,1994,3.72445,False
+Guyana,GUY,1995,3.60934,False
+Guyana,GUY,1999,8.56106,False
+Guyana,GUY,2000,8.48415,False
+Guyana,GUY,2001,8.39729,False
+Guyana,GUY,2002,8.36554,False
+Guyana,GUY,2003,6.9559,False
+Guyana,GUY,2004,5.51292,False
+Guyana,GUY,2005,8.13973,False
+Guyana,GUY,2006,3.11891,False
+Guyana,GUY,2007,2.39117,False
+Guyana,GUY,2009,2.15058,False
+Guyana,GUY,2010,2.40939,False
+Guyana,GUY,2011,2.50669,False
+Guyana,GUY,2012,2.24132,False
+Guyana,GUY,2014,4.36033,False
+Guyana,GUY,2015,3.8957,False
+Guyana,GUY,2016,4.73775,False
+Guyana,GUY,2017,4.66478,False
+Guyana,GUY,2018,4.45058,False
+Haiti,HTI,1981,1.39374,False
+Haiti,HTI,1982,1.07954,False
+Haiti,HTI,1983,1.02221,False
+Haiti,HTI,1984,0.98619,False
+Haiti,HTI,1985,0.96929,False
+Haiti,HTI,1991,1.07399,False
+Haiti,HTI,2014,1.75227,False
+Haiti,HTI,2015,1.85498,False
+Haiti,HTI,2016,1.38776,False
+Haiti,HTI,2017,1.49847,False
+Haiti,HTI,2018,1.63716,False
+Haiti,HTI,2019,1.0841498,False
+Haiti,HTI,2020,1.1135364,False
+Haiti,HTI,2021,1.2427518,False
+Haiti,HTI,2022,1.0268981,False
+Haiti,HTI,2023,0.964648,False
+Honduras,HND,1978,2.01905,False
+Honduras,HND,1979,2.01299,False
+Honduras,HND,1980,1.93636,False
+Honduras,HND,1994,2.51264,False
+Honduras,HND,1995,2.61745,False
+Honduras,HND,2012,6.299728,False
+Honduras,HND,2013,5.87494,False
+Honduras,HND,2014,7.09011,False
+Honduras,HND,2015,6.41298,False
+Honduras,HND,2016,6.095095,False
+Honduras,HND,2017,5.7443438,False
+Honduras,HND,2018,6.05647,False
+Honduras,HND,2019,5.9819827,False
+Honduras,HND,2020,6.0980134,False
+Honduras,HND,2021,5.881602,False
+Honduras,HND,2022,4.4828005,False
+Honduras,HND,2023,4.54962,False
+Hong Kong,HKG,1971,2.36815,False
+Hong Kong,HKG,1972,2.29561,False
+Hong Kong,HKG,1973,2.18337,False
+Hong Kong,HKG,1974,2.36029,False
+Hong Kong,HKG,1975,2.4492,False
+Hong Kong,HKG,1976,2.43336,False
+Hong Kong,HKG,1977,2.21924,False
+Hong Kong,HKG,1978,2.32255,False
+Hong Kong,HKG,1980,2.19214,False
+Hong Kong,HKG,1981,2.27173,False
+Hong Kong,HKG,1982,1.66983,False
+Hong Kong,HKG,1983,2.5786,False
+Hong Kong,HKG,1984,2.58169,False
+Hong Kong,HKG,1985,2.55897,False
+Hong Kong,HKG,1990,2.46609,False
+Hong Kong,HKG,1992,2.8282,False
+Hong Kong,HKG,1996,2.7283,False
+Hong Kong,HKG,2001,3.9037,False
+Hong Kong,HKG,2002,4.01555,False
+Hong Kong,HKG,2003,4.28531,False
+Hong Kong,HKG,2004,4.55895,False
+Hong Kong,HKG,2005,4.13463,False
+Hong Kong,HKG,2006,3.84278,False
+Hong Kong,HKG,2007,3.45455,False
+Hong Kong,HKG,2008,3.26062,False
+Hong Kong,HKG,2009,4.39212,False
+Hong Kong,HKG,2010,3.51002,False
+Hong Kong,HKG,2011,3.41823,False
+Hong Kong,HKG,2012,3.50961,False
+Hong Kong,HKG,2013,3.76032,False
+Hong Kong,HKG,2014,3.57254,False
+Hong Kong,HKG,2015,3.26211,False
+Hong Kong,HKG,2016,3.29269,False
+Hong Kong,HKG,2017,3.30989,False
+Hong Kong,HKG,2018,3.32624,False
+Hong Kong,HKG,2019,3.81018,False
+Hong Kong,HKG,2020,4.40563,False
+Hong Kong,HKG,2021,4.00031,False
+Hong Kong,HKG,2022,3.72867,False
+Hong Kong,HKG,2023,3.80328,False
+Hong Kong,HKG,2024,3.80552,False
+Hungary,HUN,1970,3.44015,False
+Hungary,HUN,1971,3.42519,False
+Hungary,HUN,1972,3.35006,False
+Hungary,HUN,1973,3.38989,False
+Hungary,HUN,1974,3.59559,False
+Hungary,HUN,1975,3.72014,False
+Hungary,HUN,1976,3.52535,False
+Hungary,HUN,1977,3.59354,False
+Hungary,HUN,1978,3.71507,False
+Hungary,HUN,1979,3.69534,False
+Hungary,HUN,1980,4.28991,False
+Hungary,HUN,1981,4.41857,False
+Hungary,HUN,1982,4.42118,False
+Hungary,HUN,1983,5.18972,False
+Hungary,HUN,1984,4.75838,False
+Hungary,HUN,1985,4.53285,False
+Hungary,HUN,1986,4.73553,False
+Hungary,HUN,1987,4.6308,False
+Hungary,HUN,1988,4.48267,False
+Hungary,HUN,1989,5.04691,False
+Hungary,HUN,1990,5.41419,False
+Hungary,HUN,1991,5.86021,False
+Hungary,HUN,1992,6.05973,False
+Hungary,HUN,1993,5.90029,False
+Hungary,HUN,1994,5.81585,False
+Hungary,HUN,1995,4.83168,False
+Hungary,HUN,1996,4.31855,False
+Hungary,HUN,1998,4.40162,False
+Hungary,HUN,1999,4.559,False
+Hungary,HUN,2000,4.86247,False
+Hungary,HUN,2001,4.92644,False
+Hungary,HUN,2002,5.17711,False
+Hungary,HUN,2003,5.79873,False
+Hungary,HUN,2004,5.33301,False
+Hungary,HUN,2005,5.3254,False
+Hungary,HUN,2006,5.29486,False
+Hungary,HUN,2007,5.13726,False
+Hungary,HUN,2008,4.9707,False
+Hungary,HUN,2009,4.95626,False
+Hungary,HUN,2010,4.73365,False
+Hungary,HUN,2011,4.57057,False
+Hungary,HUN,2012,4.15359,False
+Hungary,HUN,2013,4.1904,False
+Hungary,HUN,2014,4.59878,False
+Hungary,HUN,2015,4.49288,False
+Hungary,HUN,2016,4.60211,False
+Hungary,HUN,2017,4.64035,False
+Hungary,HUN,2018,4.60568,False
+Hungary,HUN,2019,4.20141,False
+Hungary,HUN,2020,4.12265,False
+Hungary,HUN,2021,4.65408,False
+Hungary,HUN,2022,3.8012,False
+Iceland,ISL,1990,4.25863,False
+Iceland,ISL,1993,5.14158,False
+Iceland,ISL,1994,4.75558,False
+Iceland,ISL,1995,4.78062,False
+Iceland,ISL,1996,5.21835,False
+Iceland,ISL,1998,6.78383,False
+Iceland,ISL,1999,6.43401,False
+Iceland,ISL,2000,6.43144,False
+Iceland,ISL,2001,6.70591,False
+Iceland,ISL,2002,7.29892,False
+Iceland,ISL,2003,7.24508,False
+Iceland,ISL,2004,7.16119,False
+Iceland,ISL,2005,7.33843,False
+Iceland,ISL,2006,7.19519,False
+Iceland,ISL,2007,6.94434,False
+Iceland,ISL,2008,7.036,False
+Iceland,ISL,2009,7.18985,False
+Iceland,ISL,2010,6.94422,False
+Iceland,ISL,2011,6.78997,False
+Iceland,ISL,2012,7.58223,False
+Iceland,ISL,2013,7.44867,False
+Iceland,ISL,2014,7.64141,False
+Iceland,ISL,2015,7.45796,False
+Iceland,ISL,2016,7.43222,False
+Iceland,ISL,2017,7.58385,False
+Iceland,ISL,2018,7.56351,False
+Iceland,ISL,2019,7.6013,False
+Iceland,ISL,2020,8.58381,False
+Iceland,ISL,2021,8.22658,False
+Iceland,ISL,2022,7.30798,False
+India,IND,1997,3.36137,False
+India,IND,1998,3.57257,False
+India,IND,1999,4.41538,False
+India,IND,2000,4.3248,False
+India,IND,2003,3.61342,False
+India,IND,2004,3.35254,False
+India,IND,2005,3.18876,False
+India,IND,2006,3.14285,False
+India,IND,2009,3.27825,False
+India,IND,2010,3.37769,False
+India,IND,2011,3.79618,False
+India,IND,2012,3.8675,False
+India,IND,2013,3.84467,False
+India,IND,2014,3.8987803,False
+India,IND,2015,4.11456,False
+India,IND,2016,4.25407,False
+India,IND,2017,4.30544,False
+India,IND,2018,4.36375,False
+India,IND,2019,3.89732,False
+India,IND,2020,4.29335,False
+India,IND,2021,4.6295,False
+India,IND,2022,4.098658,False
+Indonesia,IDN,1972,2.78821,False
+Indonesia,IDN,1989,0.87141,False
+Indonesia,IDN,1994,0.99855,False
+Indonesia,IDN,1995,1.00435,False
+Indonesia,IDN,1996,1.07855,False
+Indonesia,IDN,1997,1.07208,False
+Indonesia,IDN,2001,2.46003,False
+Indonesia,IDN,2002,2.64569,False
+Indonesia,IDN,2003,3.218,False
+Indonesia,IDN,2004,2.74846,False
+Indonesia,IDN,2005,2.87282,False
+Indonesia,IDN,2007,3.04426,False
+Indonesia,IDN,2008,2.9019,False
+Indonesia,IDN,2009,3.52513,False
+Indonesia,IDN,2010,2.81228,False
+Indonesia,IDN,2011,3.18944,False
+Indonesia,IDN,2012,3.40748,False
+Indonesia,IDN,2013,3.35904,False
+Indonesia,IDN,2014,3.28801,False
+Indonesia,IDN,2015,3.58361,False
+Indonesia,IDN,2016,1.2102345,False
+Indonesia,IDN,2017,1.0532439,False
+Indonesia,IDN,2018,0.99443644,False
+Indonesia,IDN,2019,0.9643991,False
+Indonesia,IDN,2020,1.0159322,False
+Indonesia,IDN,2021,1.0322175,False
+Indonesia,IDN,2022,0.86394334,False
+Indonesia,IDN,2023,1.2751709,False
+Iran,IRN,1971,2.77034,False
+Iran,IRN,1972,2.76673,False
+Iran,IRN,1973,2.87669,False
+Iran,IRN,1974,2.69034,False
+Iran,IRN,1975,2.96557,False
+Iran,IRN,1977,5.41626,False
+Iran,IRN,1981,7.1314,False
+Iran,IRN,1982,5.80205,False
+Iran,IRN,1983,4.18054,False
+Iran,IRN,1984,3.80162,False
+Iran,IRN,1985,3.46018,False
+Iran,IRN,1986,3.5699,False
+Iran,IRN,1987,4.14092,False
+Iran,IRN,1988,3.6813,False
+Iran,IRN,1989,3.99721,False
+Iran,IRN,1990,3.7739,False
+Iran,IRN,1991,3.74353,False
+Iran,IRN,1992,3.64046,False
+Iran,IRN,1993,4.31462,False
+Iran,IRN,1995,4.08179,False
+Iran,IRN,1996,3.53777,False
+Iran,IRN,1999,4.22041,False
+Iran,IRN,2000,4.03064,False
+Iran,IRN,2001,4.07168,False
+Iran,IRN,2002,4.48488,False
+Iran,IRN,2003,4.36323,False
+Iran,IRN,2004,4.29663,False
+Iran,IRN,2005,4.05652,False
+Iran,IRN,2006,4.28999,False
+Iran,IRN,2007,4.59682,False
+Iran,IRN,2008,3.91377,False
+Iran,IRN,2009,3.84245,False
+Iran,IRN,2010,3.70917,False
+Iran,IRN,2011,3.48497,False
+Iran,IRN,2012,2.939,False
+Iran,IRN,2013,2.85279,False
+Iran,IRN,2014,2.61669,False
+Iran,IRN,2015,2.62911,False
+Iran,IRN,2016,3.17397,False
+Iran,IRN,2017,3.45957,False
+Iran,IRN,2018,3.6198,False
+Iran,IRN,2019,3.24005,False
+Iran,IRN,2020,3.20495,False
+Iran,IRN,2022,2.66998,False
+Iran,IRN,2023,2.8244328,False
+Iraq,IRQ,1977,3.85705,False
+Iraq,IRQ,1980,2.42379,False
+Iraq,IRQ,1989,3.5515,False
+Ireland,IRL,1971,4.48641,False
+Ireland,IRL,1972,4.6169,False
+Ireland,IRL,1973,4.60856,False
+Ireland,IRL,1974,4.68603,False
+Ireland,IRL,1976,4.29649,False
+Ireland,IRL,1977,5.08532,False
+Ireland,IRL,1978,5.06761,False
+Ireland,IRL,1979,5.28813,False
+Ireland,IRL,1980,5.32221,False
+Ireland,IRL,1981,5.73202,False
+Ireland,IRL,1982,5.38953,False
+Ireland,IRL,1983,5.44654,False
+Ireland,IRL,1984,5.2817,False
+Ireland,IRL,1985,5.24837,False
+Ireland,IRL,1986,5.30121,False
+Ireland,IRL,1987,5.52882,False
+Ireland,IRL,1988,5.01616,False
+Ireland,IRL,1989,4.71302,False
+Ireland,IRL,1990,4.60056,False
+Ireland,IRL,1991,4.78267,False
+Ireland,IRL,1992,5.00563,False
+Ireland,IRL,1993,5.11556,False
+Ireland,IRL,1994,5.18871,False
+Ireland,IRL,1995,4.87162,False
+Ireland,IRL,1996,4.75392,False
+Ireland,IRL,1998,4.28754,False
+Ireland,IRL,1999,4.13379,False
+Ireland,IRL,2000,4.13227,False
+Ireland,IRL,2001,4.0875,False
+Ireland,IRL,2002,4.10488,False
+Ireland,IRL,2003,4.20494,False
+Ireland,IRL,2004,4.48295,False
+Ireland,IRL,2005,4.51897,False
+Ireland,IRL,2006,4.54742,False
+Ireland,IRL,2007,4.71542,False
+Ireland,IRL,2008,5.45828,False
+Ireland,IRL,2009,6.1561,False
+Ireland,IRL,2010,6.04836,False
+Ireland,IRL,2011,5.772,False
+Ireland,IRL,2012,5.70777,False
+Ireland,IRL,2013,5.23177,False
+Ireland,IRL,2014,4.73555,False
+Ireland,IRL,2015,3.62439,False
+Ireland,IRL,2016,3.65882,False
+Ireland,IRL,2017,3.37737,False
+Ireland,IRL,2018,3.30348,False
+Ireland,IRL,2019,3.22984,False
+Ireland,IRL,2020,3.19164,False
+Ireland,IRL,2021,2.90462,False
+Israel,ISR,1973,5.10433,False
+Israel,ISR,1974,5.65004,False
+Israel,ISR,1975,5.74316,False
+Israel,ISR,1976,5.65407,False
+Israel,ISR,1977,5.555,False
+Israel,ISR,1978,6.29782,False
+Israel,ISR,1979,6.37707,False
+Israel,ISR,1980,6.80061,False
+Israel,ISR,1981,6.74821,False
+Israel,ISR,1982,6.34057,False
+Israel,ISR,1983,6.67179,False
+Israel,ISR,1984,6.66072,False
+Israel,ISR,1985,7.62978,False
+Israel,ISR,1986,5.83092,False
+Israel,ISR,1987,5.25565,False
+Israel,ISR,1988,4.29062,False
+Israel,ISR,1989,5.43068,False
+Israel,ISR,1990,5.16003,False
+Israel,ISR,1991,5.17202,False
+Israel,ISR,1992,5.30927,False
+Israel,ISR,1993,5.66681,False
+Israel,ISR,1994,6.12602,False
+Israel,ISR,1998,6.40024,False
+Israel,ISR,1999,6.1956,False
+Israel,ISR,2000,5.93117,False
+Israel,ISR,2001,6.17636,False
+Israel,ISR,2002,6.24924,False
+Israel,ISR,2003,6.13486,False
+Israel,ISR,2004,5.7504,False
+Israel,ISR,2005,5.5649,False
+Israel,ISR,2006,5.58409,False
+Israel,ISR,2007,5.3317,False
+Israel,ISR,2008,5.40717,False
+Israel,ISR,2009,5.34174,False
+Israel,ISR,2010,5.40409,False
+Israel,ISR,2011,5.42929,False
+Israel,ISR,2012,5.56122,False
+Israel,ISR,2013,5.76972,False
+Israel,ISR,2014,5.69226,False
+Israel,ISR,2015,5.79658,False
+Israel,ISR,2016,5.80271,False
+Israel,ISR,2017,6.00425,False
+Israel,ISR,2018,6.06919,False
+Israel,ISR,2019,6.069,False
+Israel,ISR,2020,6.51825,False
+Israel,ISR,2021,6.16727,False
+Israel,ISR,2022,5.93292,False
+Italy,ITA,1970,3.35906,False
+Italy,ITA,1971,2.8921,False
+Italy,ITA,1974,3.82632,False
+Italy,ITA,1975,3.70308,False
+Italy,ITA,1976,3.91051,False
+Italy,ITA,1978,3.77168,False
+Italy,ITA,1979,4.15416,False
+Italy,ITA,1980,4.4,False
+Italy,ITA,1983,4.47775,False
+Italy,ITA,1984,4.7636,False
+Italy,ITA,1985,4.67903,False
+Italy,ITA,1986,4.64419,False
+Italy,ITA,1988,4.58221,False
+Italy,ITA,1993,4.72301,False
+Italy,ITA,1994,4.42311,False
+Italy,ITA,1995,4.30871,False
+Italy,ITA,1996,4.43967,False
+Italy,ITA,1998,4.44094,False
+Italy,ITA,1999,4.50166,False
+Italy,ITA,2000,4.27996,False
+Italy,ITA,2001,4.63416,False
+Italy,ITA,2002,4.41521,False
+Italy,ITA,2003,4.52655,False
+Italy,ITA,2004,4.37003,False
+Italy,ITA,2005,4.22293,False
+Italy,ITA,2006,4.50464,False
+Italy,ITA,2007,4.08764,False
+Italy,ITA,2008,4.37188,False
+Italy,ITA,2009,4.50415,False
+Italy,ITA,2010,4.31627,False
+Italy,ITA,2011,4.09432,False
+Italy,ITA,2012,4.03481,False
+Italy,ITA,2013,4.12192,False
+Italy,ITA,2014,4.04027,False
+Italy,ITA,2015,4.05422,False
+Italy,ITA,2016,3.79549,False
+Italy,ITA,2017,4.02663,False
+Italy,ITA,2018,4.24094,False
+Italy,ITA,2019,4.07843,False
+Italy,ITA,2020,4.41804,False
+Italy,ITA,2021,4.17119,False
+Italy,ITA,2022,4.06776,False
+Jamaica,JAM,1973,3.63144,False
+Jamaica,JAM,1974,4.24897,False
+Jamaica,JAM,1975,5.22879,False
+Jamaica,JAM,1976,5.85833,False
+Jamaica,JAM,1977,6.02652,False
+Jamaica,JAM,1985,5.3919,False
+Jamaica,JAM,1986,4.60398,False
+Jamaica,JAM,1988,3.94086,False
+Jamaica,JAM,1989,5.18398,False
+Jamaica,JAM,1990,4.77916,False
+Jamaica,JAM,1991,4.38307,False
+Jamaica,JAM,1992,3.33666,False
+Jamaica,JAM,1993,3.21403,False
+Jamaica,JAM,1994,4.06419,False
+Jamaica,JAM,1995,3.38908,False
+Jamaica,JAM,1996,3.67773,False
+Jamaica,JAM,1997,4.37954,False
+Jamaica,JAM,2000,4.98347,False
+Jamaica,JAM,2001,5.38103,False
+Jamaica,JAM,2002,5.37523,False
+Jamaica,JAM,2003,4.25685,False
+Jamaica,JAM,2004,3.91255,False
+Jamaica,JAM,2005,4.61642,False
+Jamaica,JAM,2007,5.49022,False
+Jamaica,JAM,2008,6.19132,False
+Jamaica,JAM,2009,6.19848,False
+Jamaica,JAM,2010,6.37058,False
+Jamaica,JAM,2011,6.26664,False
+Jamaica,JAM,2012,6.11247,False
+Jamaica,JAM,2013,6.25106,False
+Jamaica,JAM,2014,6.01584,False
+Jamaica,JAM,2015,5.45523,False
+Jamaica,JAM,2016,5.3146,False
+Jamaica,JAM,2017,5.26016,False
+Jamaica,JAM,2018,5.41379,False
+Jamaica,JAM,2019,5.16364,False
+Jamaica,JAM,2020,5.380658,False
+Jamaica,JAM,2021,5.63123,False
+Jamaica,JAM,2022,5.35435,False
+Jamaica,JAM,2023,5.6545367,False
+Jamaica,JAM,2024,5.51383,False
+Japan,JPN,1971,3.57863,False
+Japan,JPN,1972,3.9261,False
+Japan,JPN,1973,3.95708,False
+Japan,JPN,1974,3.9542,False
+Japan,JPN,1975,4.5698,False
+Japan,JPN,1976,4.74776,False
+Japan,JPN,1977,4.73743,False
+Japan,JPN,1978,4.79045,False
+Japan,JPN,1979,4.95001,False
+Japan,JPN,1980,4.96105,False
+Japan,JPN,1981,4.95682,False
+Japan,JPN,1982,4.93976,False
+Japan,JPN,1983,4.72346,False
+Japan,JPN,1987,5.48794,False
+Japan,JPN,1988,5.45284,False
+Japan,JPN,1989,5.27435,False
+Japan,JPN,1993,3.36711,False
+Japan,JPN,1994,3.56932,False
+Japan,JPN,1995,3.40211,False
+Japan,JPN,1998,3.29797,False
+Japan,JPN,1999,3.37813,False
+Japan,JPN,2000,3.46012,False
+Japan,JPN,2001,3.40082,False
+Japan,JPN,2002,3.40899,False
+Japan,JPN,2003,3.46663,False
+Japan,JPN,2004,3.42611,False
+Japan,JPN,2005,3.31494,False
+Japan,JPN,2006,3.27668,False
+Japan,JPN,2007,3.27934,False
+Japan,JPN,2008,3.27242,False
+Japan,JPN,2010,3.59952,False
+Japan,JPN,2011,3.60527,False
+Japan,JPN,2012,3.41945,False
+Japan,JPN,2013,3.40874,False
+Japan,JPN,2014,3.4153,False
+Japan,JPN,2015,3.31221,False
+Japan,JPN,2016,3.14643,False
+Japan,JPN,2017,3.13058,False
+Japan,JPN,2018,3.07782,False
+Japan,JPN,2019,3.15534,False
+Japan,JPN,2020,3.30629,False
+Japan,JPN,2021,3.33664,False
+Jordan,JOR,1970,3.63004,False
+Jordan,JOR,1971,3.29769,False
+Jordan,JOR,1972,2.38743,False
+Jordan,JOR,1973,2.48694,False
+Jordan,JOR,1974,3.55769,False
+Jordan,JOR,1975,3.76348,False
+Jordan,JOR,1976,3.53456,False
+Jordan,JOR,1977,3.6799,False
+Jordan,JOR,1978,3.68163,False
+Jordan,JOR,1979,5.08173,False
+Jordan,JOR,1981,5.16768,False
+Jordan,JOR,1982,5.08854,False
+Jordan,JOR,1983,4.92796,False
+Jordan,JOR,1984,5.93695,False
+Jordan,JOR,1986,3.28436,False
+Jordan,JOR,1987,3.29667,False
+Jordan,JOR,1988,4.0475,False
+Jordan,JOR,1989,5.64354,False
+Jordan,JOR,1996,7.47691,False
+Jordan,JOR,1997,6.36482,False
+Jordan,JOR,1999,4.94367,False
+Jordan,JOR,2010,3.16851,False
+Jordan,JOR,2011,3.5990057,False
+Jordan,JOR,2012,3.63716,False
+Jordan,JOR,2013,3.7837222,False
+Jordan,JOR,2014,3.7669241,False
+Jordan,JOR,2015,3.7127213,False
+Jordan,JOR,2016,3.45282,False
+Jordan,JOR,2017,3.21306,False
+Jordan,JOR,2018,2.95462,False
+Jordan,JOR,2019,2.98846,False
+Jordan,JOR,2020,3.5530348,False
+Jordan,JOR,2021,3.13837,False
+Jordan,JOR,2022,3.153,False
+Jordan,JOR,2023,3.5148633,False
+Jordan,JOR,2024,3.23356,False
+Kazakhstan,KAZ,1995,4.03445,False
+Kazakhstan,KAZ,1996,3.92371,False
+Kazakhstan,KAZ,1997,4.37344,False
+Kazakhstan,KAZ,1999,3.89256,False
+Kazakhstan,KAZ,2000,3.25663,False
+Kazakhstan,KAZ,2002,3.0297,False
+Kazakhstan,KAZ,2004,2.25591,False
+Kazakhstan,KAZ,2005,2.26353,False
+Kazakhstan,KAZ,2006,2.62679,False
+Kazakhstan,KAZ,2007,2.83139,False
+Kazakhstan,KAZ,2008,2.58947,False
+Kazakhstan,KAZ,2009,3.06073,False
+Kazakhstan,KAZ,2010,3.587355,False
+Kazakhstan,KAZ,2011,3.61434,False
+Kazakhstan,KAZ,2012,3.901637,False
+Kazakhstan,KAZ,2013,3.445649,False
+Kazakhstan,KAZ,2014,3.4290395,False
+Kazakhstan,KAZ,2015,2.78859,False
+Kazakhstan,KAZ,2016,2.97809,False
+Kazakhstan,KAZ,2017,2.75082,False
+Kazakhstan,KAZ,2018,2.61595,False
+Kazakhstan,KAZ,2019,2.85697,False
+Kazakhstan,KAZ,2020,4.4462037,False
+Kazakhstan,KAZ,2021,4.385694,False
+Kazakhstan,KAZ,2022,4.3618536,False
+Kazakhstan,KAZ,2023,4.8647,False
+Kenya,KEN,1971,3.92982,False
+Kenya,KEN,1972,4.47634,False
+Kenya,KEN,1973,4.65052,False
+Kenya,KEN,1974,5.06551,False
+Kenya,KEN,1975,5.60612,False
+Kenya,KEN,1976,5.7441,False
+Kenya,KEN,1977,5.13632,False
+Kenya,KEN,1980,5.38788,False
+Kenya,KEN,1981,5.92373,False
+Kenya,KEN,1982,5.67812,False
+Kenya,KEN,1983,5.4383,False
+Kenya,KEN,1984,4.58096,False
+Kenya,KEN,1985,5.19977,False
+Kenya,KEN,1986,6.01377,False
+Kenya,KEN,1988,6.60054,False
+Kenya,KEN,1989,6.03572,False
+Kenya,KEN,1991,6.57065,False
+Kenya,KEN,1992,6.0759,False
+Kenya,KEN,1993,6.02914,False
+Kenya,KEN,1994,5.92403,False
+Kenya,KEN,1999,5.32325,False
+Kenya,KEN,2000,5.18673,False
+Kenya,KEN,2001,5.20621,False
+Kenya,KEN,2002,6.172,False
+Kenya,KEN,2003,6.49429,False
+Kenya,KEN,2004,6.79694,False
+Kenya,KEN,2005,7.33565,False
+Kenya,KEN,2006,7.04982,False
+Kenya,KEN,2010,4.81549,False
+Kenya,KEN,2011,4.70013,False
+Kenya,KEN,2012,4.93122,False
+Kenya,KEN,2013,4.83721,False
+Kenya,KEN,2014,4.7173,False
+Kenya,KEN,2015,4.74349,False
+Kenya,KEN,2016,4.89518,False
+Kenya,KEN,2017,4.96309,False
+Kenya,KEN,2018,5.10762,False
+Kenya,KEN,2019,5.373592,False
+Kenya,KEN,2020,5.0457487,False
+Kenya,KEN,2021,4.890402,False
+Kenya,KEN,2022,4.511018,False
+Kenya,KEN,2023,3.9622931,False
+Kenya,KEN,2024,4.0224233,False
+Kiribati,KIR,1970,5.92681,False
+Kiribati,KIR,1971,5.27553,False
+Kiribati,KIR,1974,3.87663,False
+Kiribati,KIR,1999,9.70559,False
+Kiribati,KIR,2000,10.04244,False
+Kiribati,KIR,2001,11.64917,False
+Kiribati,KIR,2012,12.499488,False
+Kiribati,KIR,2013,12.090294,False
+Kiribati,KIR,2014,11.513136,False
+Kiribati,KIR,2015,10.768391,False
+Kiribati,KIR,2016,11.646473,False
+Kiribati,KIR,2017,11.476165,False
+Kiribati,KIR,2018,12.92042,False
+Kiribati,KIR,2019,14.519741,False
+Kiribati,KIR,2020,16.230375,False
+Kiribati,KIR,2021,13.987152,False
+Kiribati,KIR,2022,14.786032,False
+Kiribati,KIR,2023,16.39053,False
+Kuwait,KWT,1971,3.28734,False
+Kuwait,KWT,1972,2.81575,False
+Kuwait,KWT,1973,3.30369,False
+Kuwait,KWT,1974,3.5216,False
+Kuwait,KWT,1975,2.13554,False
+Kuwait,KWT,1976,3.11508,False
+Kuwait,KWT,1977,3.36867,False
+Kuwait,KWT,1978,4.08185,False
+Kuwait,KWT,1979,3.42856,False
+Kuwait,KWT,1980,2.79102,False
+Kuwait,KWT,1981,2.71914,False
+Kuwait,KWT,1982,3.03351,False
+Kuwait,KWT,1983,5.09027,False
+Kuwait,KWT,1984,5.14888,False
+Kuwait,KWT,1985,5.00762,False
+Kuwait,KWT,1986,5.40084,False
+Kuwait,KWT,1992,14.19883,False
+Kuwait,KWT,1996,5.85961,False
+Kuwait,KWT,1997,5.58263,False
+Kuwait,KWT,2001,6.58583,False
+Kuwait,KWT,2002,6.55111,False
+Kuwait,KWT,2004,5.53507,False
+Kuwait,KWT,2005,4.73834,False
+Kuwait,KWT,2006,3.75998,False
+Kuwait,KWT,2016,5.95594,False
+Kuwait,KWT,2017,6.354442,False
+Kuwait,KWT,2018,6.3916526,False
+Kuwait,KWT,2019,6.7278957,False
+Kuwait,KWT,2020,6.2451305,False
+Kuwait,KWT,2021,7.762467,False
+Kuwait,KWT,2022,6.582365,False
+Kuwait,KWT,2023,5.026261,False
+Kuwait,KWT,2024,6.435927,False
+Kyrgyzstan,KGZ,1994,5.58819,False
+Kyrgyzstan,KGZ,1995,6.15643,False
+Kyrgyzstan,KGZ,1996,4.90261,False
+Kyrgyzstan,KGZ,1998,4.91963,False
+Kyrgyzstan,KGZ,1999,4.08522,False
+Kyrgyzstan,KGZ,2000,3.50839,False
+Kyrgyzstan,KGZ,2001,3.85418,False
+Kyrgyzstan,KGZ,2002,4.44546,False
+Kyrgyzstan,KGZ,2003,4.47542,False
+Kyrgyzstan,KGZ,2004,4.62244,False
+Kyrgyzstan,KGZ,2005,4.87385,False
+Kyrgyzstan,KGZ,2006,5.54987,False
+Kyrgyzstan,KGZ,2007,6.46698,False
+Kyrgyzstan,KGZ,2008,5.91318,False
+Kyrgyzstan,KGZ,2009,6.23268,False
+Kyrgyzstan,KGZ,2010,5.81884,False
+Kyrgyzstan,KGZ,2011,6.79062,False
+Kyrgyzstan,KGZ,2012,7.38423,False
+Kyrgyzstan,KGZ,2013,6.7802,False
+Kyrgyzstan,KGZ,2014,5.5316,False
+Kyrgyzstan,KGZ,2015,5.98552,False
+Kyrgyzstan,KGZ,2016,6.58616,False
+Kyrgyzstan,KGZ,2017,6.02619,False
+Kyrgyzstan,KGZ,2018,5.55267,False
+Kyrgyzstan,KGZ,2019,5.08027,False
+Kyrgyzstan,KGZ,2020,5.73316,False
+Kyrgyzstan,KGZ,2021,5.16668,False
+Kyrgyzstan,KGZ,2022,7.1688437,False
+Kyrgyzstan,KGZ,2023,6.8269467,False
+Laos,LAO,1992,2.33457,False
+Laos,LAO,1996,2.42975,False
+Laos,LAO,1997,2.1302,False
+Laos,LAO,2000,1.50369,False
+Laos,LAO,2001,1.99028,False
+Laos,LAO,2002,2.82522,False
+Laos,LAO,2004,2.413,False
+Laos,LAO,2005,2.41409,False
+Laos,LAO,2006,2.95879,False
+Laos,LAO,2007,3.07842,False
+Laos,LAO,2008,2.27855,False
+Laos,LAO,2009,1.65485,False
+Laos,LAO,2010,1.70979,False
+Laos,LAO,2011,1.70802,False
+Laos,LAO,2012,1.82147,False
+Laos,LAO,2013,3.23381,False
+Laos,LAO,2014,2.93782,False
+Laos,LAO,2015,2.736898,False
+Laos,LAO,2016,2.7744298,False
+Laos,LAO,2017,2.4979727,False
+Laos,LAO,2018,2.3350122,False
+Laos,LAO,2019,2.122014,False
+Laos,LAO,2020,1.9159727,False
+Laos,LAO,2021,1.8594918,False
+Laos,LAO,2022,1.4608344,False
+Laos,LAO,2023,1.2337517,False
+Latvia,LVA,1990,3.57779,False
+Latvia,LVA,1991,3.86415,False
+Latvia,LVA,1992,4.30135,False
+Latvia,LVA,1996,5.41694,False
+Latvia,LVA,1997,5.66773,False
+Latvia,LVA,1998,5.96775,False
+Latvia,LVA,1999,5.6979,False
+Latvia,LVA,2000,5.40855,False
+Latvia,LVA,2001,5.56102,False
+Latvia,LVA,2002,5.78911,False
+Latvia,LVA,2003,5.29446,False
+Latvia,LVA,2004,5.04684,False
+Latvia,LVA,2006,4.9449,False
+Latvia,LVA,2007,4.89059,False
+Latvia,LVA,2008,5.63671,False
+Latvia,LVA,2009,5.67729,False
+Latvia,LVA,2010,5.14356,False
+Latvia,LVA,2011,5.24316,False
+Latvia,LVA,2012,6.83852,False
+Latvia,LVA,2013,7.24963,False
+Latvia,LVA,2014,5.47479,False
+Latvia,LVA,2015,5.4667,False
+Latvia,LVA,2016,4.8235,False
+Latvia,LVA,2017,4.52906,False
+Latvia,LVA,2018,4.39431,False
+Latvia,LVA,2019,4.58675,False
+Latvia,LVA,2020,4.9975,False
+Latvia,LVA,2021,4.76775,False
+Latvia,LVA,2022,4.31967,False
+Lebanon,LBN,1993,1.66653,False
+Lebanon,LBN,1994,1.93126,False
+Lebanon,LBN,1995,2.22462,False
+Lebanon,LBN,1996,2.08467,False
+Lebanon,LBN,2001,2.84148,False
+Lebanon,LBN,2002,2.55271,False
+Lebanon,LBN,2004,2.64095,False
+Lebanon,LBN,2005,2.6462,False
+Lebanon,LBN,2006,2.77977,False
+Lebanon,LBN,2007,2.58357,False
+Lebanon,LBN,2008,2.01479,False
+Lebanon,LBN,2009,1.76571,False
+Lebanon,LBN,2010,1.61331,False
+Lebanon,LBN,2011,1.65252,False
+Lebanon,LBN,2012,2.14903,False
+Lebanon,LBN,2013,2.43396,False
+Lebanon,LBN,2016,2.1782026,False
+Lebanon,LBN,2017,2.2160685,False
+Lebanon,LBN,2018,2.6165252,False
+Lebanon,LBN,2019,2.5195725,False
+Lebanon,LBN,2020,2.4354186,False
+Lebanon,LBN,2022,1.3315142,False
+Lebanon,LBN,2023,1.5041636,False
+Lebanon,LBN,2024,1.2249087,False
+Lesotho,LSO,1971,4.64155,False
+Lesotho,LSO,1972,4.52651,False
+Lesotho,LSO,1973,4.86656,False
+Lesotho,LSO,1974,4.23424,False
+Lesotho,LSO,1983,10.09694,False
+Lesotho,LSO,1984,6.42841,False
+Lesotho,LSO,1985,7.08858,False
+Lesotho,LSO,1988,7.21664,False
+Lesotho,LSO,1989,6.20228,False
+Lesotho,LSO,1993,8.57703,False
+Lesotho,LSO,1994,7.02543,False
+Lesotho,LSO,1995,8.64097,False
+Lesotho,LSO,1997,11.36401,False
+Lesotho,LSO,1999,12.49935,False
+Lesotho,LSO,2000,10.09155,False
+Lesotho,LSO,2001,9.36505,False
+Lesotho,LSO,2002,10.10045,False
+Lesotho,LSO,2003,13.21957,False
+Lesotho,LSO,2004,11.10901,False
+Lesotho,LSO,2005,12.07966,False
+Lesotho,LSO,2006,11.27128,False
+Lesotho,LSO,2008,12.32874,False
+Lesotho,LSO,2015,7.6427207,False
+Lesotho,LSO,2016,7.552474,False
+Lesotho,LSO,2017,8.15532,False
+Lesotho,LSO,2018,7.28361,False
+Lesotho,LSO,2023,7.2901134,False
+Lesotho,LSO,2024,6.6225305,False
+Liberia,LBR,1978,6.99484,False
+Liberia,LBR,1980,6.25906,False
+Liberia,LBR,2008,1.70166,False
+Liberia,LBR,2012,1.77712,False
+Liberia,LBR,2013,1.69078,False
+Liberia,LBR,2014,2.20005,False
+Liberia,LBR,2015,2.1158748,False
+Liberia,LBR,2016,2.1147969,False
+Liberia,LBR,2017,2.6633,False
+Liberia,LBR,2018,2.50391,False
+Liberia,LBR,2019,2.165082,False
+Liberia,LBR,2020,2.1360142,False
+Liberia,LBR,2021,2.4236,False
+Liberia,LBR,2022,2.276096,False
+Liberia,LBR,2023,2.2665255,False
+Libya,LBY,1976,4.63651,False
+Libya,LBY,1977,4.12383,False
+Libya,LBY,1999,2.26417,False
+Liechtenstein,LIE,2003,2.46014,False
+Liechtenstein,LIE,2004,2.43333,False
+Liechtenstein,LIE,2006,2.05381,False
+Liechtenstein,LIE,2007,1.92119,False
+Liechtenstein,LIE,2008,2.04837,False
+Liechtenstein,LIE,2011,2.55604,False
+Lithuania,LTU,1993,3.91314,False
+Lithuania,LTU,1994,4.76288,False
+Lithuania,LTU,1995,4.73458,False
+Lithuania,LTU,1996,4.81781,False
+Lithuania,LTU,1997,5.42383,False
+Lithuania,LTU,1998,6.08957,False
+Lithuania,LTU,2001,5.83644,False
+Lithuania,LTU,2002,5.79094,False
+Lithuania,LTU,2003,5.10671,False
+Lithuania,LTU,2004,5.14797,False
+Lithuania,LTU,2005,4.87699,False
+Lithuania,LTU,2006,4.83653,False
+Lithuania,LTU,2007,4.5916,False
+Lithuania,LTU,2008,4.83649,False
+Lithuania,LTU,2009,5.56942,False
+Lithuania,LTU,2010,5.3688,False
+Lithuania,LTU,2011,5.1547,False
+Lithuania,LTU,2012,4.78232,False
+Lithuania,LTU,2013,4.62417,False
+Lithuania,LTU,2014,4.50767,False
+Lithuania,LTU,2015,4.21646,False
+Lithuania,LTU,2016,4.01144,False
+Lithuania,LTU,2017,3.81236,False
+Lithuania,LTU,2018,3.85628,False
+Lithuania,LTU,2019,3.94155,False
+Lithuania,LTU,2020,4.47348,False
+Lithuania,LTU,2021,4.23978,False
+Lithuania,LTU,2022,4.25285,False
+Luxembourg,LUX,1970,2.30026,False
+Luxembourg,LUX,1971,2.85506,False
+Luxembourg,LUX,1972,2.7408,False
+Luxembourg,LUX,1973,2.81235,False
+Luxembourg,LUX,1975,3.42303,False
+Luxembourg,LUX,1976,3.61463,False
+Luxembourg,LUX,1977,3.6938,False
+Luxembourg,LUX,1978,4.33933,False
+Luxembourg,LUX,1979,4.40278,False
+Luxembourg,LUX,1980,4.55202,False
+Luxembourg,LUX,1981,4.68798,False
+Luxembourg,LUX,1982,5.27562,False
+Luxembourg,LUX,1983,3.31967,False
+Luxembourg,LUX,1986,3.78982,False
+Luxembourg,LUX,1987,4.08302,False
+Luxembourg,LUX,1988,4.01432,False
+Luxembourg,LUX,1989,3.87238,False
+Luxembourg,LUX,1995,3.65909,False
+Luxembourg,LUX,1996,3.47682,False
+Luxembourg,LUX,2001,3.53973,False
+Luxembourg,LUX,2012,3.87816,False
+Luxembourg,LUX,2014,3.85569,False
+Luxembourg,LUX,2015,3.76792,False
+Luxembourg,LUX,2017,3.48646,False
+Luxembourg,LUX,2018,3.65772,False
+Luxembourg,LUX,2019,3.73705,False
+Luxembourg,LUX,2020,3.85499,False
+Luxembourg,LUX,2021,3.68532,False
+Luxembourg,LUX,2022,3.74452,False
+Macao,MAC,1998,3.35005,False
+Macao,MAC,1999,3.33665,False
+Macao,MAC,2000,3.31439,False
+Macao,MAC,2001,2.71447,False
+Macao,MAC,2002,2.84296,False
+Macao,MAC,2003,2.78017,False
+Macao,MAC,2004,2.23349,False
+Macao,MAC,2005,2.27788,False
+Macao,MAC,2006,2.19386,False
+Macao,MAC,2007,2.04345,False
+Macao,MAC,2008,2.19641,False
+Macao,MAC,2009,2.53323,False
+Macao,MAC,2010,2.61849,False
+Macao,MAC,2011,2.67528,False
+Macao,MAC,2012,3.32516,False
+Macao,MAC,2013,2.05049,False
+Macao,MAC,2014,2.04853,False
+Macao,MAC,2015,3.00247,False
+Macao,MAC,2016,3.09953,False
+Macao,MAC,2017,2.70949,False
+Macao,MAC,2018,2.73341,False
+Macao,MAC,2019,3.06544,False
+Macao,MAC,2020,6.38948,False
+Macao,MAC,2021,5.10698,False
+Macao,MAC,2022,6.05707,False
+Macao,MAC,2023,3.50183,False
+Madagascar,MDG,1972,3.21737,False
+Madagascar,MDG,1973,2.71115,False
+Madagascar,MDG,1974,2.67376,False
+Madagascar,MDG,1975,2.51668,False
+Madagascar,MDG,1976,3.25501,False
+Madagascar,MDG,1977,5.05394,False
+Madagascar,MDG,1979,3.97031,False
+Madagascar,MDG,1980,3.35711,False
+Madagascar,MDG,1981,2.87991,False
+Madagascar,MDG,1982,2.32179,False
+Madagascar,MDG,1983,1.98901,False
+Madagascar,MDG,1984,2.20452,False
+Madagascar,MDG,1985,2.07146,False
+Madagascar,MDG,1993,1.77546,False
+Madagascar,MDG,1997,1.53846,False
+Madagascar,MDG,1998,1.58879,False
+Madagascar,MDG,1999,2.40501,False
+Madagascar,MDG,2000,2.43869,False
+Madagascar,MDG,2001,2.7072,False
+Madagascar,MDG,2002,2.23179,False
+Madagascar,MDG,2003,2.61095,False
+Madagascar,MDG,2004,2.81262,False
+Madagascar,MDG,2005,3.30963,False
+Madagascar,MDG,2006,2.83097,False
+Madagascar,MDG,2007,2.90274,False
+Madagascar,MDG,2008,2.55434,False
+Madagascar,MDG,2009,2.82513,False
+Madagascar,MDG,2010,2.2885616,False
+Madagascar,MDG,2011,2.38168,False
+Madagascar,MDG,2012,2.34067,False
+Madagascar,MDG,2013,1.77695,False
+Madagascar,MDG,2014,2.38123,False
+Madagascar,MDG,2015,2.21012,False
+Madagascar,MDG,2016,2.68719,False
+Madagascar,MDG,2017,2.701374,False
+Madagascar,MDG,2018,2.8441,False
+Madagascar,MDG,2019,3.0133839,False
+Madagascar,MDG,2020,3.2544339,False
+Madagascar,MDG,2021,3.1980755,False
+Madagascar,MDG,2022,3.0677283,False
+Madagascar,MDG,2023,3.047704,False
+Malawi,MWI,1986,2.19796,False
+Malawi,MWI,1987,2.42225,False
+Malawi,MWI,1988,2.17925,False
+Malawi,MWI,1989,2.18262,False
+Malawi,MWI,1990,2.24735,False
+Malawi,MWI,1995,2.75468,False
+Malawi,MWI,1996,3.69773,False
+Malawi,MWI,1999,3.43224,False
+Malawi,MWI,2000,3.60613,False
+Malawi,MWI,2001,3.09834,False
+Malawi,MWI,2003,2.20964,False
+Malawi,MWI,2010,2.43237,False
+Malawi,MWI,2011,2.85346,False
+Malawi,MWI,2012,2.528612,False
+Malawi,MWI,2013,3.7217,False
+Malawi,MWI,2014,3.32569,False
+Malawi,MWI,2015,3.85398,False
+Malawi,MWI,2016,3.28258,False
+Malawi,MWI,2017,2.76899,False
+Malawi,MWI,2018,3.32296,False
+Malawi,MWI,2022,2.7488837,False
+Malaysia,MYS,1971,4.55094,False
+Malaysia,MYS,1979,5.08761,False
+Malaysia,MYS,1980,5.72619,False
+Malaysia,MYS,1981,6.69697,False
+Malaysia,MYS,1982,7.03278,False
+Malaysia,MYS,1984,5.6663,False
+Malaysia,MYS,1985,6.11111,False
+Malaysia,MYS,1986,7.24336,False
+Malaysia,MYS,1987,6.326,False
+Malaysia,MYS,1992,5.11143,False
+Malaysia,MYS,1993,4.65463,False
+Malaysia,MYS,1994,4.70529,False
+Malaysia,MYS,1995,4.34255,False
+Malaysia,MYS,1996,4.91385,False
+Malaysia,MYS,1997,4.62038,False
+Malaysia,MYS,1999,5.68679,False
+Malaysia,MYS,2000,5.97161,False
+Malaysia,MYS,2001,7.48447,False
+Malaysia,MYS,2002,7.65793,False
+Malaysia,MYS,2003,7.50288,False
+Malaysia,MYS,2004,5.92389,False
+Malaysia,MYS,2006,4.48576,False
+Malaysia,MYS,2007,4.37254,False
+Malaysia,MYS,2008,3.95852,False
+Malaysia,MYS,2009,5.97418,False
+Malaysia,MYS,2010,4.96645,False
+Malaysia,MYS,2011,5.76294,False
+Malaysia,MYS,2012,5.73903,False
+Malaysia,MYS,2013,5.48123,False
+Malaysia,MYS,2014,5.21265,False
+Malaysia,MYS,2015,4.89488,False
+Malaysia,MYS,2016,4.75191,False
+Malaysia,MYS,2017,4.67531,False
+Malaysia,MYS,2018,4.47865,False
+Malaysia,MYS,2019,4.15775,False
+Malaysia,MYS,2020,3.91176,False
+Malaysia,MYS,2021,4.261094,False
+Malaysia,MYS,2022,3.499338,False
+Malaysia,MYS,2023,3.51481,False
+Maldives,MDV,2002,5.79186,False
+Maldives,MDV,2003,5.32407,False
+Maldives,MDV,2004,4.6616,False
+Maldives,MDV,2005,5.01684,False
+Maldives,MDV,2006,4.64524,False
+Maldives,MDV,2007,4.41788,False
+Maldives,MDV,2008,4.47029,False
+Maldives,MDV,2009,5.08169,False
+Maldives,MDV,2010,3.63328,False
+Maldives,MDV,2011,3.08073,False
+Maldives,MDV,2012,3.34086,False
+Maldives,MDV,2013,3.3883,False
+Maldives,MDV,2014,3.08859,False
+Maldives,MDV,2015,3.8686,False
+Maldives,MDV,2016,3.66123,False
+Maldives,MDV,2017,3.8226855,False
+Maldives,MDV,2018,3.8568177,False
+Maldives,MDV,2019,4.1235695,False
+Maldives,MDV,2020,5.847608,False
+Maldives,MDV,2021,4.6137977,False
+Maldives,MDV,2022,4.6734433,False
+Maldives,MDV,2023,5.1670637,False
+Mali,MLI,1978,3.55959,False
+Mali,MLI,1980,3.47066,False
+Mali,MLI,1981,3.44794,False
+Mali,MLI,1982,3.27885,False
+Mali,MLI,1986,2.43537,False
+Mali,MLI,1998,2.64959,False
+Mali,MLI,1999,2.23184,False
+Mali,MLI,2000,2.97156,False
+Mali,MLI,2001,2.65845,False
+Mali,MLI,2002,2.89623,False
+Mali,MLI,2003,3.80559,False
+Mali,MLI,2004,2.95919,False
+Mali,MLI,2005,2.74722,False
+Mali,MLI,2008,2.73081,False
+Mali,MLI,2009,3.14385,False
+Mali,MLI,2010,2.70854,False
+Mali,MLI,2011,3.14614,False
+Mali,MLI,2012,2.90707,False
+Mali,MLI,2013,2.75837,False
+Mali,MLI,2014,3.093,False
+Mali,MLI,2015,3.19691,False
+Mali,MLI,2016,2.59245,False
+Mali,MLI,2017,3.18064,False
+Mali,MLI,2018,2.98219,False
+Mali,MLI,2019,3.00001,False
+Mali,MLI,2020,3.33676,False
+Mali,MLI,2021,3.66363,False
+Mali,MLI,2022,4.045122,False
+Mali,MLI,2023,4.184651,False
+Malta,MLT,1971,6.15197,False
+Malta,MLT,1972,5.54999,False
+Malta,MLT,1973,5.2697,False
+Malta,MLT,1974,4.4931,False
+Malta,MLT,1975,4.42221,False
+Malta,MLT,1976,3.83189,False
+Malta,MLT,1977,3.89761,False
+Malta,MLT,1978,3.34883,False
+Malta,MLT,1979,3.15364,False
+Malta,MLT,1981,2.86533,False
+Malta,MLT,1982,2.85408,False
+Malta,MLT,1983,3.31469,False
+Malta,MLT,1984,3.07872,False
+Malta,MLT,1985,3.24834,False
+Malta,MLT,1986,3.10572,False
+Malta,MLT,1987,3.16532,False
+Malta,MLT,1988,3.33824,False
+Malta,MLT,1989,3.58874,False
+Malta,MLT,1990,3.83142,False
+Malta,MLT,1991,3.9203,False
+Malta,MLT,1992,4.3141,False
+Malta,MLT,1998,4.18537,False
+Malta,MLT,2002,4.15744,False
+Malta,MLT,2004,4.43026,False
+Malta,MLT,2007,5.95994,False
+Malta,MLT,2008,5.4743,False
+Malta,MLT,2009,5.04781,False
+Malta,MLT,2010,6.20798,False
+Malta,MLT,2011,7.57771,False
+Malta,MLT,2012,6.24789,False
+Malta,MLT,2013,7.40672,False
+Malta,MLT,2014,6.84973,False
+Malta,MLT,2015,4.91353,False
+Malta,MLT,2016,4.95571,False
+Malta,MLT,2017,4.34281,False
+Malta,MLT,2019,4.79942,False
+Malta,MLT,2021,4.92964,False
+Malta,MLT,2022,4.71258,False
+Marshall Islands,MHL,1999,13.84985,False
+Marshall Islands,MHL,2002,8.19519,False
+Marshall Islands,MHL,2003,11.84413,False
+Marshall Islands,MHL,2019,9.88209,False
+Marshall Islands,MHL,2020,13.835037,False
+Marshall Islands,MHL,2021,15.182441,False
+Marshall Islands,MHL,2022,7.70088,False
+Mauritania,MRT,1997,1.5858,False
+Mauritania,MRT,1999,1.72203,False
+Mauritania,MRT,2001,2.10684,False
+Mauritania,MRT,2002,2.27715,False
+Mauritania,MRT,2003,2.36501,False
+Mauritania,MRT,2004,1.9508,False
+Mauritania,MRT,2006,1.9585,False
+Mauritania,MRT,2011,2.33102,False
+Mauritania,MRT,2012,2.15821,False
+Mauritania,MRT,2013,2.29353,False
+Mauritania,MRT,2014,2.5579643,False
+Mauritania,MRT,2015,2.829566,False
+Mauritania,MRT,2016,1.94406,False
+Mauritania,MRT,2019,1.82318,False
+Mauritania,MRT,2020,1.80264,False
+Mauritania,MRT,2021,1.89197,False
+Mauritania,MRT,2022,1.38966,False
+Mauritania,MRT,2023,4.71522,False
+Mauritania,MRT,2024,7.61008,False
+Mauritius,MUS,1971,3.11274,False
+Mauritius,MUS,1972,3.07092,False
+Mauritius,MUS,1973,2.78133,False
+Mauritius,MUS,1975,2.51991,False
+Mauritius,MUS,1977,4.3819,False
+Mauritius,MUS,1978,5.49202,False
+Mauritius,MUS,1981,4.98684,False
+Mauritius,MUS,1982,4.54262,False
+Mauritius,MUS,1983,4.39456,False
+Mauritius,MUS,1984,4.03252,False
+Mauritius,MUS,1985,3.91044,False
+Mauritius,MUS,1986,3.43729,False
+Mauritius,MUS,1987,3.01674,False
+Mauritius,MUS,1988,3.08985,False
+Mauritius,MUS,1989,3.46896,False
+Mauritius,MUS,1990,3.12822,False
+Mauritius,MUS,1991,3.46326,False
+Mauritius,MUS,1999,3.88744,False
+Mauritius,MUS,2000,3.71903,False
+Mauritius,MUS,2001,3.07348,False
+Mauritius,MUS,2002,3.02024,False
+Mauritius,MUS,2003,4.35718,False
+Mauritius,MUS,2004,4.25576,False
+Mauritius,MUS,2005,4.02402,False
+Mauritius,MUS,2006,3.6484,False
+Mauritius,MUS,2007,3.1854,False
+Mauritius,MUS,2008,3.06307,False
+Mauritius,MUS,2009,3.04731,False
+Mauritius,MUS,2010,3.55147,False
+Mauritius,MUS,2011,3.33207,False
+Mauritius,MUS,2012,3.4182,False
+Mauritius,MUS,2013,3.56776,False
+Mauritius,MUS,2014,4.81515,False
+Mauritius,MUS,2015,4.75847,False
+Mauritius,MUS,2016,4.88207,False
+Mauritius,MUS,2017,4.87887,False
+Mauritius,MUS,2018,4.67448,False
+Mauritius,MUS,2019,4.54195,False
+Mauritius,MUS,2020,4.35244,False
+Mauritius,MUS,2021,4.67151,False
+Mauritius,MUS,2022,4.84086,False
+Mauritius,MUS,2023,4.57479,False
+Mauritius,MUS,2024,4.24739,False
+Mexico,MEX,1989,2.28201,False
+Mexico,MEX,1990,2.32498,False
+Mexico,MEX,1991,2.548,False
+Mexico,MEX,1992,3.00501,False
+Mexico,MEX,1994,3.47706,False
+Mexico,MEX,1995,3.49747,False
+Mexico,MEX,1998,3.17838,False
+Mexico,MEX,1999,3.36165,False
+Mexico,MEX,2000,3.8087,False
+Mexico,MEX,2001,4.03134,False
+Mexico,MEX,2002,4.24307,False
+Mexico,MEX,2003,4.83262,False
+Mexico,MEX,2004,4.51204,False
+Mexico,MEX,2005,4.63395,False
+Mexico,MEX,2006,4.49318,False
+Mexico,MEX,2007,4.4792,False
+Mexico,MEX,2008,4.60607,False
+Mexico,MEX,2009,4.94935,False
+Mexico,MEX,2010,4.93697,False
+Mexico,MEX,2011,4.90407,False
+Mexico,MEX,2012,4.88349,False
+Mexico,MEX,2013,4.50858,False
+Mexico,MEX,2014,5.06808,False
+Mexico,MEX,2015,5.05088,False
+Mexico,MEX,2016,4.75796,False
+Mexico,MEX,2017,4.39752,False
+Mexico,MEX,2018,4.13944,False
+Mexico,MEX,2020,4.49966,False
+Mexico,MEX,2021,4.23824,False
+Mexico,MEX,2022,4.05988,False
+Micronesia (country),FSM,1972,66.90031,True
+Micronesia (country),FSM,1999,6.42491,False
+Micronesia (country),FSM,2000,6.70687,False
+Micronesia (country),FSM,2012,11.719229,False
+Micronesia (country),FSM,2013,12.3438835,False
+Micronesia (country),FSM,2014,12.2281685,False
+Micronesia (country),FSM,2015,12.40792,False
+Micronesia (country),FSM,2016,13.814728,False
+Micronesia (country),FSM,2017,12.681582,False
+Micronesia (country),FSM,2018,9.942744,False
+Micronesia (country),FSM,2019,10.693169,False
+Micronesia (country),FSM,2020,11.55914,False
+Moldova,MDA,1996,9.89664,False
+Moldova,MDA,1999,4.66256,False
+Moldova,MDA,2000,4.48639,False
+Moldova,MDA,2001,4.84685,False
+Moldova,MDA,2002,5.49791,False
+Moldova,MDA,2003,5.42489,False
+Moldova,MDA,2004,6.77104,False
+Moldova,MDA,2005,7.1627,False
+Moldova,MDA,2006,7.49899,False
+Moldova,MDA,2007,8.29337,False
+Moldova,MDA,2008,8.23727,False
+Moldova,MDA,2009,9.50976,False
+Moldova,MDA,2010,7.5923,False
+Moldova,MDA,2011,7.13638,False
+Moldova,MDA,2012,6.98341,False
+Moldova,MDA,2013,5.909755,False
+Moldova,MDA,2014,6.33808,False
+Moldova,MDA,2015,5.766654,False
+Moldova,MDA,2016,5.6721,False
+Moldova,MDA,2017,5.71018,False
+Moldova,MDA,2018,5.53887,False
+Moldova,MDA,2019,6.22578,False
+Moldova,MDA,2020,6.60125,False
+Moldova,MDA,2021,5.82406,False
+Moldova,MDA,2022,6.1043,False
+Moldova,MDA,2023,6.5571,False
+Monaco,MCO,1988,0.88102,False
+Monaco,MCO,1989,0.95754,False
+Monaco,MCO,1992,0.91361,False
+Monaco,MCO,1995,1.06456,False
+Monaco,MCO,1996,1.08223,False
+Monaco,MCO,1997,1.21241,False
+Monaco,MCO,1998,1.20882,False
+Monaco,MCO,1999,1.19527,False
+Monaco,MCO,2000,1.25537,False
+Monaco,MCO,2004,1.26668,False
+Monaco,MCO,2009,1.35431,False
+Monaco,MCO,2010,1.31735,False
+Monaco,MCO,2011,1.58989,False
+Monaco,MCO,2012,1.78004,False
+Monaco,MCO,2013,1.3344,False
+Monaco,MCO,2014,1.02186,False
+Monaco,MCO,2016,1.37126,False
+Monaco,MCO,2017,1.45816,False
+Monaco,MCO,2019,1.15897,False
+Monaco,MCO,2021,1.41926,False
+Monaco,MCO,2022,1.17106,False
+Monaco,MCO,2023,1.73224,False
+Mongolia,MNG,1997,3.94897,False
+Mongolia,MNG,1998,5.49302,False
+Mongolia,MNG,1999,5.14567,False
+Mongolia,MNG,2000,5.55038,False
+Mongolia,MNG,2002,7.21078,False
+Mongolia,MNG,2004,4.32573,False
+Mongolia,MNG,2007,4.69013,False
+Mongolia,MNG,2009,5.14484,False
+Mongolia,MNG,2010,4.6451,False
+Mongolia,MNG,2011,4.60902,False
+Mongolia,MNG,2012,5.19522,False
+Mongolia,MNG,2013,4.94078,False
+Mongolia,MNG,2014,4.71484,False
+Mongolia,MNG,2015,4.22362,False
+Mongolia,MNG,2016,5.18311,False
+Mongolia,MNG,2017,4.06898,False
+Mongolia,MNG,2023,3.65765,False
+Mongolia,MNG,2024,5.2123,False
+Montserrat,MSR,2010,5.517214,False
+Montserrat,MSR,2011,6.076581,False
+Montserrat,MSR,2012,5.8049135,False
+Montserrat,MSR,2013,5.5011206,False
+Montserrat,MSR,2014,5.271191,False
+Montserrat,MSR,2015,6.4431877,False
+Montserrat,MSR,2016,6.3891625,False
+Montserrat,MSR,2017,6.724777,False
+Montserrat,MSR,2019,8.999225,False
+Montserrat,MSR,2020,6.4277434,False
+Montserrat,MSR,2021,6.650665,False
+Montserrat,MSR,2022,7.720796,False
+Montserrat,MSR,2023,7.1902003,False
+Morocco,MAR,1973,4.67169,False
+Morocco,MAR,1974,4.27549,False
+Morocco,MAR,1975,5.21271,False
+Morocco,MAR,1976,6.02712,False
+Morocco,MAR,1977,6.08425,False
+Morocco,MAR,1978,6.20183,False
+Morocco,MAR,1979,6.31548,False
+Morocco,MAR,1980,5.10486,False
+Morocco,MAR,1981,5.68926,False
+Morocco,MAR,1982,6.12268,False
+Morocco,MAR,1983,6.17467,False
+Morocco,MAR,1984,5.19014,False
+Morocco,MAR,1985,5.10218,False
+Morocco,MAR,1986,5.2593,False
+Morocco,MAR,1987,5.16214,False
+Morocco,MAR,1988,4.57783,False
+Morocco,MAR,1989,4.75734,False
+Morocco,MAR,1990,4.51048,False
+Morocco,MAR,1991,4.30316,False
+Morocco,MAR,1993,4.82498,False
+Morocco,MAR,1995,4.7348,False
+Morocco,MAR,1998,4.5994,False
+Morocco,MAR,1999,4.62528,False
+Morocco,MAR,2008,4.85339,False
+Morocco,MAR,2009,4.83119,False
+Morocco,MAR,2012,5.5529485,False
+Morocco,MAR,2014,5.4827604,False
+Morocco,MAR,2015,5.133369,False
+Morocco,MAR,2016,5.085302,False
+Morocco,MAR,2017,4.7356496,False
+Morocco,MAR,2018,4.960227,False
+Morocco,MAR,2019,5.003257,False
+Morocco,MAR,2020,6.2842827,False
+Morocco,MAR,2021,5.642734,False
+Morocco,MAR,2022,5.9122467,False
+Morocco,MAR,2023,6.0209694,False
+Mozambique,MOZ,1998,1.80137,False
+Mozambique,MOZ,1999,2.64153,False
+Mozambique,MOZ,2004,3.19838,False
+Mozambique,MOZ,2005,3.85834,False
+Mozambique,MOZ,2006,3.73593,False
+Mozambique,MOZ,2010,5.245398,False
+Mozambique,MOZ,2011,5.5305247,False
+Mozambique,MOZ,2012,5.55751,False
+Mozambique,MOZ,2013,6.03576,False
+Mozambique,MOZ,2014,6.3992085,False
+Mozambique,MOZ,2015,5.915157,False
+Mozambique,MOZ,2016,5.80087,False
+Mozambique,MOZ,2017,5.48665,False
+Mozambique,MOZ,2018,5.38976,False
+Mozambique,MOZ,2019,5.9996953,False
+Mozambique,MOZ,2020,6.1705956,False
+Mozambique,MOZ,2021,6.340636,False
+Mozambique,MOZ,2022,5.9760733,False
+Myanmar,MMR,1972,2.8651,False
+Myanmar,MMR,1973,3.27381,False
+Myanmar,MMR,1975,1.98739,False
+Myanmar,MMR,1976,1.72619,False
+Myanmar,MMR,1977,1.63782,False
+Myanmar,MMR,1978,1.64366,False
+Myanmar,MMR,1995,1.20248,False
+Myanmar,MMR,2011,0.78744,False
+Myanmar,MMR,2017,2.16653,False
+Myanmar,MMR,2018,1.99249,False
+Myanmar,MMR,2019,1.99976,False
+Namibia,NAM,1999,7.13076,False
+Namibia,NAM,2000,6.90178,False
+Namibia,NAM,2001,6.88887,False
+Namibia,NAM,2002,6.74233,False
+Namibia,NAM,2003,6.13714,False
+Namibia,NAM,2006,6.03171,False
+Namibia,NAM,2008,6.40343,False
+Namibia,NAM,2010,8.2433,False
+Namibia,NAM,2011,8.021379,False
+Namibia,NAM,2012,9.242812,False
+Namibia,NAM,2013,8.595417,False
+Namibia,NAM,2014,3.6671116,False
+Namibia,NAM,2015,9.850768,False
+Namibia,NAM,2016,10.592794,False
+Namibia,NAM,2017,1.3952453,False
+Namibia,NAM,2018,8.881123,False
+Namibia,NAM,2019,9.322532,False
+Namibia,NAM,2020,9.277999,False
+Namibia,NAM,2021,10.391448,False
+Namibia,NAM,2022,9.391947,False
+Namibia,NAM,2024,9.084408,False
+Nauru,NRU,2002,15.86347,False
+Nauru,NRU,2007,4.24859,False
+Nauru,NRU,2014,4.472784,False
+Nauru,NRU,2015,6.252603,False
+Nauru,NRU,2016,4.8221464,False
+Nauru,NRU,2017,6.2739754,False
+Nauru,NRU,2018,5.052966,False
+Nauru,NRU,2019,5.7182817,False
+Nauru,NRU,2020,5.905029,False
+Nauru,NRU,2021,5.16034,False
+Nauru,NRU,2022,5.9182796,False
+Nauru,NRU,2023,5.77715,False
+Nepal,NPL,1998,2.89288,False
+Nepal,NPL,1999,2.89331,False
+Nepal,NPL,2000,2.97515,False
+Nepal,NPL,2001,3.70838,False
+Nepal,NPL,2002,3.15283,False
+Nepal,NPL,2003,3.11435,False
+Nepal,NPL,2004,3.17194,False
+Nepal,NPL,2005,3.36464,False
+Nepal,NPL,2006,3.60536,False
+Nepal,NPL,2007,3.51721,False
+Nepal,NPL,2008,3.80517,False
+Nepal,NPL,2009,4.66376,False
+Nepal,NPL,2010,3.63172,False
+Nepal,NPL,2011,3.84264,False
+Nepal,NPL,2012,3.29738,False
+Nepal,NPL,2013,3.01811,False
+Nepal,NPL,2014,3.47214,False
+Nepal,NPL,2015,3.25901,False
+Nepal,NPL,2016,3.90321,False
+Nepal,NPL,2017,4.76723,False
+Nepal,NPL,2018,4.43446,False
+Nepal,NPL,2019,3.892129,False
+Nepal,NPL,2020,4.2435565,False
+Nepal,NPL,2021,4.4280105,False
+Nepal,NPL,2022,4.136451,False
+Nepal,NPL,2023,3.9564114,False
+Nepal,NPL,2024,3.6884918,False
+Netherlands,NLD,1970,6.21201,False
+Netherlands,NLD,1971,6.3189,False
+Netherlands,NLD,1972,6.30921,False
+Netherlands,NLD,1973,5.83436,False
+Netherlands,NLD,1974,6.32657,False
+Netherlands,NLD,1975,6.36228,False
+Netherlands,NLD,1976,6.30303,False
+Netherlands,NLD,1977,6.17342,False
+Netherlands,NLD,1978,6.17534,False
+Netherlands,NLD,1979,6.08137,False
+Netherlands,NLD,1980,5.88415,False
+Netherlands,NLD,1981,5.74091,False
+Netherlands,NLD,1982,5.68664,False
+Netherlands,NLD,1983,5.49269,False
+Netherlands,NLD,1984,5.08263,False
+Netherlands,NLD,1985,5.46485,False
+Netherlands,NLD,1986,5.55338,False
+Netherlands,NLD,1987,5.88926,False
+Netherlands,NLD,1988,5.46342,False
+Netherlands,NLD,1990,5.2211,False
+Netherlands,NLD,1991,5.15407,False
+Netherlands,NLD,1993,4.74961,False
+Netherlands,NLD,1994,4.65639,False
+Netherlands,NLD,1995,4.57215,False
+Netherlands,NLD,1996,4.4854,False
+Netherlands,NLD,1998,4.53431,False
+Netherlands,NLD,1999,4.49966,False
+Netherlands,NLD,2000,4.58325,False
+Netherlands,NLD,2001,4.68933,False
+Netherlands,NLD,2002,4.78904,False
+Netherlands,NLD,2003,5.01995,False
+Netherlands,NLD,2004,5.04119,False
+Netherlands,NLD,2005,5.08872,False
+Netherlands,NLD,2006,5.01914,False
+Netherlands,NLD,2007,4.85854,False
+Netherlands,NLD,2008,4.99738,False
+Netherlands,NLD,2009,5.38561,False
+Netherlands,NLD,2010,5.45635,False
+Netherlands,NLD,2011,5.41596,False
+Netherlands,NLD,2012,5.36694,False
+Netherlands,NLD,2013,5.48418,False
+Netherlands,NLD,2014,5.40205,False
+Netherlands,NLD,2015,5.27803,False
+Netherlands,NLD,2016,5.38952,False
+Netherlands,NLD,2017,5.08747,False
+Netherlands,NLD,2018,5.26723,False
+Netherlands,NLD,2019,5.05594,False
+Netherlands,NLD,2020,5.2914,False
+Netherlands,NLD,2021,5.37662,False
+Netherlands,NLD,2022,5.17918,False
+New Zealand,NZL,1973,4.75323,False
+New Zealand,NZL,1974,4.7468,False
+New Zealand,NZL,1975,5.16753,False
+New Zealand,NZL,1976,5.45474,False
+New Zealand,NZL,1977,4.45267,False
+New Zealand,NZL,1978,4.53253,False
+New Zealand,NZL,1979,4.46766,False
+New Zealand,NZL,1980,4.23265,False
+New Zealand,NZL,1981,4.44055,False
+New Zealand,NZL,1982,4.5327,False
+New Zealand,NZL,1984,4.04568,False
+New Zealand,NZL,1985,3.5463,False
+New Zealand,NZL,1986,3.43031,False
+New Zealand,NZL,1987,3.91739,False
+New Zealand,NZL,1988,4.42586,False
+New Zealand,NZL,1989,4.81824,False
+New Zealand,NZL,1993,7.3,False
+New Zealand,NZL,1994,5.92605,False
+New Zealand,NZL,1995,5.74213,False
+New Zealand,NZL,1996,6.38372,False
+New Zealand,NZL,1997,6.15722,False
+New Zealand,NZL,1999,6.63621,False
+New Zealand,NZL,2000,5.60442,False
+New Zealand,NZL,2013,5.8854,False
+New Zealand,NZL,2014,5.80333,False
+New Zealand,NZL,2015,5.70351,False
+New Zealand,NZL,2016,5.49972,False
+New Zealand,NZL,2017,5.27543,False
+New Zealand,NZL,2018,5.18968,False
+New Zealand,NZL,2019,5.17411,False
+New Zealand,NZL,2020,5.64268,False
+New Zealand,NZL,2021,5.54092,False
+New Zealand,NZL,2022,5.16742,False
+New Zealand,NZL,2023,5.21326,False
+Nicaragua,NIC,1970,2.03859,False
+Nicaragua,NIC,1971,2.49203,False
+Nicaragua,NIC,1987,5.35175,False
+Nicaragua,NIC,1992,2.98497,False
+Nicaragua,NIC,1998,2.22585,False
+Nicaragua,NIC,1999,2.92365,False
+Nicaragua,NIC,2000,3.0016,False
+Nicaragua,NIC,2002,2.39101,False
+Nicaragua,NIC,2003,2.42201,False
+Nicaragua,NIC,2010,4.48422,False
+Nicaragua,NIC,2014,4.08329,False
+Nicaragua,NIC,2015,4.07843,False
+Nicaragua,NIC,2016,4.08114,False
+Nicaragua,NIC,2017,4.35769,False
+Nicaragua,NIC,2018,4.473807,False
+Nicaragua,NIC,2019,4.59992,False
+Nicaragua,NIC,2020,4.5803404,False
+Nicaragua,NIC,2021,4.087175,False
+Nicaragua,NIC,2022,3.800015,False
+Nicaragua,NIC,2023,2.86955,False
+Niger,NER,1971,1.05227,False
+Niger,NER,1990,2.07437,False
+Niger,NER,1991,2.30833,False
+Niger,NER,1992,2.24298,False
+Niger,NER,1993,2.06512,False
+Niger,NER,1994,2.26539,False
+Niger,NER,1995,2.32975,False
+Niger,NER,1996,2.14417,False
+Niger,NER,1999,2.56854,False
+Niger,NER,2000,2.56502,False
+Niger,NER,2001,2.27982,False
+Niger,NER,2002,2.40135,False
+Niger,NER,2003,1.93706,False
+Niger,NER,2006,2.55851,False
+Niger,NER,2007,3.01462,False
+Niger,NER,2008,2.72312,False
+Niger,NER,2009,3.33588,False
+Niger,NER,2010,2.72195,False
+Niger,NER,2011,3.07762,False
+Niger,NER,2012,3.18682,False
+Niger,NER,2013,3.68954,False
+Niger,NER,2014,5.10368,False
+Niger,NER,2015,4.48669,False
+Niger,NER,2016,2.95843,False
+Niger,NER,2017,2.57818,False
+Niger,NER,2018,3.44957,False
+Niger,NER,2019,3.5335863,False
+Niger,NER,2020,3.819068,False
+Niger,NER,2021,3.8217583,False
+Niger,NER,2022,3.7123184,False
+Niger,NER,2023,4.074127,False
+Nigeria,NGA,1974,3.21017,False
+Nigeria,NGA,1975,3.06369,False
+Nigeria,NGA,2012,0.5492331,False
+Nigeria,NGA,2013,0.53420675,False
+Nigeria,NGA,2014,0.47074255,False
+Nigeria,NGA,2015,0.43695492,False
+Nigeria,NGA,2016,0.39304563,False
+Nigeria,NGA,2017,0.39635402,False
+Nigeria,NGA,2018,0.4199985,False
+Nigeria,NGA,2019,0.358479,False
+Nigeria,NGA,2020,0.35963765,False
+Nigeria,NGA,2021,0.38191912,False
+Nigeria,NGA,2022,0.3485167,False
+Nigeria,NGA,2023,0.31906906,False
+North Macedonia,MKD,1992,4.73345,False
+North Macedonia,MKD,1993,4.63057,False
+North Macedonia,MKD,1994,4.52629,False
+North Macedonia,MKD,1995,4.27123,False
+North Macedonia,MKD,1996,4.30311,False
+North Macedonia,MKD,2002,3.30015,False
+Norway,NOR,1972,5.90406,False
+Norway,NOR,1973,5.89172,False
+Norway,NOR,1974,5.67366,False
+Norway,NOR,1975,5.55022,False
+Norway,NOR,1976,6.1636,False
+Norway,NOR,1977,5.97281,False
+Norway,NOR,1978,6.44438,False
+Norway,NOR,1980,5.78015,False
+Norway,NOR,1981,5.54364,False
+Norway,NOR,1982,5.67885,False
+Norway,NOR,1983,5.6463,False
+Norway,NOR,1984,5.42937,False
+Norway,NOR,1985,5.25567,False
+Norway,NOR,1986,5.53984,False
+Norway,NOR,1987,5.78808,False
+Norway,NOR,1988,5.86597,False
+Norway,NOR,1989,6.29985,False
+Norway,NOR,1990,6.31037,False
+Norway,NOR,1991,6.37322,False
+Norway,NOR,1992,6.63614,False
+Norway,NOR,1993,7.67663,False
+Norway,NOR,1994,7.83044,False
+Norway,NOR,1995,7.69568,False
+Norway,NOR,1996,7.13806,False
+Norway,NOR,1997,7.30343,False
+Norway,NOR,1998,7.35761,False
+Norway,NOR,1999,6.96224,False
+Norway,NOR,2000,6.45935,False
+Norway,NOR,2001,6.82015,False
+Norway,NOR,2002,7.42243,False
+Norway,NOR,2003,7.3993,False
+Norway,NOR,2004,7.27745,False
+Norway,NOR,2005,6.84082,False
+Norway,NOR,2006,6.35823,False
+Norway,NOR,2007,6.50672,False
+Norway,NOR,2008,6.24914,False
+Norway,NOR,2009,7.07068,False
+Norway,NOR,2010,6.71042,False
+Norway,NOR,2011,6.4149,False
+Norway,NOR,2012,7.32766,False
+Norway,NOR,2013,7.43905,False
+Norway,NOR,2014,7.64402,False
+Norway,NOR,2015,7.52336,False
+Norway,NOR,2016,7.98444,False
+Norway,NOR,2017,7.84599,False
+Norway,NOR,2018,7.59564,False
+Norway,NOR,2019,7.86455,False
+Norway,NOR,2020,8.37281,False
+Norway,NOR,2021,6.96022,False
+Norway,NOR,2022,5.43234,False
+Oman,OMN,1986,3.79283,False
+Oman,OMN,1987,3.65626,False
+Oman,OMN,1988,3.38989,False
+Oman,OMN,1989,2.97824,False
+Oman,OMN,1990,2.49228,False
+Oman,OMN,1991,2.62322,False
+Oman,OMN,1992,2.74142,False
+Oman,OMN,1993,3.07992,False
+Oman,OMN,1994,3.024,False
+Oman,OMN,1995,2.99651,False
+Oman,OMN,1996,2.79577,False
+Oman,OMN,1997,2.947,False
+Oman,OMN,1998,3.61026,False
+Oman,OMN,1999,3.52913,False
+Oman,OMN,2000,2.80457,False
+Oman,OMN,2001,3.52176,False
+Oman,OMN,2002,3.77701,False
+Oman,OMN,2003,3.40857,False
+Oman,OMN,2004,3.51518,False
+Oman,OMN,2005,3.07889,False
+Oman,OMN,2006,3.37333,False
+Oman,OMN,2009,3.65416,False
+Oman,OMN,2013,4.35384,False
+Oman,OMN,2017,5.99594,False
+Oman,OMN,2018,4.58566,False
+Oman,OMN,2019,5.06363,False
+Oman,OMN,2020,6.87769,False
+Oman,OMN,2022,4.38311,False
+Pakistan,PAK,1971,1.65422,False
+Pakistan,PAK,1972,1.56882,False
+Pakistan,PAK,1973,1.83042,False
+Pakistan,PAK,1974,1.88065,False
+Pakistan,PAK,1975,1.98008,False
+Pakistan,PAK,1976,2.23794,False
+Pakistan,PAK,1977,2.14983,False
+Pakistan,PAK,1978,2.20418,False
+Pakistan,PAK,1979,2.19807,False
+Pakistan,PAK,1980,2.13095,False
+Pakistan,PAK,1981,1.97245,False
+Pakistan,PAK,1982,2.01367,False
+Pakistan,PAK,1983,1.99577,False
+Pakistan,PAK,1984,2.06985,False
+Pakistan,PAK,1985,2.43543,False
+Pakistan,PAK,1986,2.67813,False
+Pakistan,PAK,1987,2.97746,False
+Pakistan,PAK,1989,2.36382,False
+Pakistan,PAK,1990,2.51681,False
+Pakistan,PAK,1991,2.56676,False
+Pakistan,PAK,1992,2.54968,False
+Pakistan,PAK,1993,2.38643,False
+Pakistan,PAK,1994,2.58931,False
+Pakistan,PAK,1995,2.79531,False
+Pakistan,PAK,1996,2.81057,False
+Pakistan,PAK,1997,3.0223,False
+Pakistan,PAK,1999,2.61148,False
+Pakistan,PAK,2000,1.83782,False
+Pakistan,PAK,2004,1.44338,False
+Pakistan,PAK,2005,1.67058,False
+Pakistan,PAK,2006,1.98056,False
+Pakistan,PAK,2007,2.23466,False
+Pakistan,PAK,2008,2.27265,False
+Pakistan,PAK,2009,2.17917,False
+Pakistan,PAK,2010,2.05268,False
+Pakistan,PAK,2011,2.00101,False
+Pakistan,PAK,2012,1.9788,False
+Pakistan,PAK,2013,2.23699,False
+Pakistan,PAK,2014,2.20434,False
+Pakistan,PAK,2015,2.38609,False
+Pakistan,PAK,2016,2.66805,False
+Pakistan,PAK,2017,2.57618,False
+Pakistan,PAK,2018,2.3321695,False
+Pakistan,PAK,2019,2.21492,False
+Pakistan,PAK,2020,2.0571823,False
+Pakistan,PAK,2021,1.6874613,False
+Pakistan,PAK,2022,1.9730095,False
+Pakistan,PAK,2023,1.94658,False
+Palau,PLW,2000,7.84435,False
+Palau,PLW,2001,7.58416,False
+Palau,PLW,2002,7.54601,False
+Palau,PLW,2020,3.4711807,False
+Palau,PLW,2021,3.944171,False
+Palau,PLW,2022,3.5762014,False
+Palau,PLW,2023,3.4372647,False
+Palestine,PSE,2010,6.19168,False
+Palestine,PSE,2011,5.33528,False
+Palestine,PSE,2012,4.74211,False
+Palestine,PSE,2013,4.89467,False
+Palestine,PSE,2015,4.66322,False
+Palestine,PSE,2016,4.98296,False
+Palestine,PSE,2017,4.72154,False
+Palestine,PSE,2021,5.43442,False
+Panama,PAN,1970,4.04328,False
+Panama,PAN,1971,3.35392,False
+Panama,PAN,1972,3.98282,False
+Panama,PAN,1973,3.48575,False
+Panama,PAN,1974,3.8198,False
+Panama,PAN,1975,4.15451,False
+Panama,PAN,1976,4.31273,False
+Panama,PAN,1977,4.28096,False
+Panama,PAN,1978,3.60598,False
+Panama,PAN,1979,3.64255,False
+Panama,PAN,1980,3.53567,False
+Panama,PAN,1981,3.4318,False
+Panama,PAN,1982,3.41851,False
+Panama,PAN,1983,3.55091,False
+Panama,PAN,1984,3.46871,False
+Panama,PAN,1985,3.52146,False
+Panama,PAN,1986,3.34574,False
+Panama,PAN,1987,3.87012,False
+Panama,PAN,1994,3.47054,False
+Panama,PAN,1995,3.94781,False
+Panama,PAN,1996,4.39391,False
+Panama,PAN,1997,4.08364,False
+Panama,PAN,1999,4.75114,False
+Panama,PAN,2000,4.89397,False
+Panama,PAN,2001,4.18935,False
+Panama,PAN,2002,4.25499,False
+Panama,PAN,2003,4.19644,False
+Panama,PAN,2004,3.55808,False
+Panama,PAN,2008,3.42529,False
+Panama,PAN,2011,3.07035,False
+Panama,PAN,2014,3.08108,False
+Panama,PAN,2015,3.26552,False
+Panama,PAN,2016,3.32279,False
+Panama,PAN,2017,3.37834,False
+Panama,PAN,2018,3.45242,False
+Panama,PAN,2019,3.2812202,False
+Panama,PAN,2020,4.30487,False
+Panama,PAN,2021,3.71198,False
+Panama,PAN,2022,3.37781,False
+Panama,PAN,2023,2.47226,False
+Papua New Guinea,PNG,1972,5.24716,False
+Papua New Guinea,PNG,1977,7.38971,False
+Papua New Guinea,PNG,2015,1.6251569,False
+Papua New Guinea,PNG,2016,0.8538064,False
+Papua New Guinea,PNG,2017,1.96493,False
+Papua New Guinea,PNG,2018,1.87483,False
+Papua New Guinea,PNG,2019,0.7617611,False
+Papua New Guinea,PNG,2020,0.89801854,False
+Papua New Guinea,PNG,2021,0.7139849,False
+Papua New Guinea,PNG,2022,0.64337695,False
+Papua New Guinea,PNG,2023,0.7821228,False
+Paraguay,PRY,1970,2.10519,False
+Paraguay,PRY,1971,2.26544,False
+Paraguay,PRY,1985,1.39584,False
+Paraguay,PRY,1990,1.04071,False
+Paraguay,PRY,1998,4.19834,False
+Paraguay,PRY,1999,4.23088,False
+Paraguay,PRY,2000,4.23021,False
+Paraguay,PRY,2001,3.83356,False
+Paraguay,PRY,2002,3.40773,False
+Paraguay,PRY,2003,3.38276,False
+Paraguay,PRY,2004,2.8699,False
+Paraguay,PRY,2007,2.73951,False
+Paraguay,PRY,2010,2.77072,False
+Paraguay,PRY,2011,3.69283,False
+Paraguay,PRY,2012,3.66877,False
+Paraguay,PRY,2013,2.678712,False
+Paraguay,PRY,2014,2.596559,False
+Paraguay,PRY,2015,3.3337781,False
+Paraguay,PRY,2016,3.43499,False
+Paraguay,PRY,2017,3.0906208,False
+Paraguay,PRY,2018,3.296196,False
+Paraguay,PRY,2019,3.4898303,False
+Paraguay,PRY,2020,3.93615,False
+Paraguay,PRY,2021,3.4107,False
+Paraguay,PRY,2022,3.3962,False
+Paraguay,PRY,2023,3.39371,False
+Paraguay,PRY,2024,3.5341,False
+Peru,PER,1973,3.39172,False
+Peru,PER,1996,3.1188,False
+Peru,PER,1998,3.27818,False
+Peru,PER,1999,3.44134,False
+Peru,PER,2000,3.22803,False
+Peru,PER,2001,3.03712,False
+Peru,PER,2002,2.82057,False
+Peru,PER,2003,2.9378,False
+Peru,PER,2004,2.95787,False
+Peru,PER,2005,2.83903,False
+Peru,PER,2006,2.65281,False
+Peru,PER,2007,2.6294,False
+Peru,PER,2008,2.86775,False
+Peru,PER,2009,3.13994,False
+Peru,PER,2010,2.8673,False
+Peru,PER,2011,2.6635,False
+Peru,PER,2012,2.92276,False
+Peru,PER,2013,3.29729,False
+Peru,PER,2014,3.69599,False
+Peru,PER,2015,3.96933,False
+Peru,PER,2016,3.81317,False
+Peru,PER,2017,3.93131,False
+Peru,PER,2018,3.71392,False
+Peru,PER,2019,3.82243,False
+Peru,PER,2020,4.25938,False
+Peru,PER,2021,3.92766,False
+Peru,PER,2022,3.83975,False
+Peru,PER,2023,4.24539,False
+Peru,PER,2024,4.35779,False
+Philippines,PHL,1980,1.51272,False
+Philippines,PHL,1982,1.82589,False
+Philippines,PHL,1983,1.48303,False
+Philippines,PHL,1986,1.51702,False
+Philippines,PHL,1995,2.664,False
+Philippines,PHL,1996,2.94358,False
+Philippines,PHL,1997,3.07756,False
+Philippines,PHL,1998,3.69746,False
+Philippines,PHL,2000,3.1644,False
+Philippines,PHL,2001,2.92464,False
+Philippines,PHL,2002,2.89222,False
+Philippines,PHL,2003,2.93518,False
+Philippines,PHL,2004,2.46983,False
+Philippines,PHL,2005,2.32807,False
+Philippines,PHL,2006,2.42579,False
+Philippines,PHL,2007,2.48519,False
+Philippines,PHL,2008,2.58283,False
+Philippines,PHL,2009,2.53777,False
+Philippines,PHL,2014,2.6645424,False
+Philippines,PHL,2015,2.830523,False
+Philippines,PHL,2016,3.301281,False
+Philippines,PHL,2017,3.963841,False
+Philippines,PHL,2018,3.8550277,False
+Philippines,PHL,2019,3.4074864,False
+Philippines,PHL,2020,3.8582904,False
+Philippines,PHL,2021,3.8724976,False
+Philippines,PHL,2022,3.5796008,False
+Philippines,PHL,2023,3.6236863,False
+Philippines,PHL,2024,3.925011,False
+Philippines,PHL,2025,3.9692264,False
+Poland,POL,1991,3.89145,False
+Poland,POL,1992,4.18793,False
+Poland,POL,1993,4.18276,False
+Poland,POL,1995,4.31375,False
+Poland,POL,1996,6.23327,False
+Poland,POL,1998,4.92519,False
+Poland,POL,1999,4.57369,False
+Poland,POL,2000,4.96281,False
+Poland,POL,2001,5.29358,False
+Poland,POL,2002,5.37052,False
+Poland,POL,2003,5.30664,False
+Poland,POL,2004,5.3313,False
+Poland,POL,2005,5.41066,False
+Poland,POL,2006,5.18849,False
+Poland,POL,2007,4.86087,False
+Poland,POL,2008,5.02345,False
+Poland,POL,2009,4.97666,False
+Poland,POL,2010,5.08126,False
+Poland,POL,2011,4.82901,False
+Poland,POL,2012,4.83312,False
+Poland,POL,2013,4.9978,False
+Poland,POL,2014,4.93858,False
+Poland,POL,2015,4.78749,False
+Poland,POL,2016,4.62726,False
+Poland,POL,2017,4.54247,False
+Poland,POL,2018,4.55985,False
+Poland,POL,2019,4.62737,False
+Poland,POL,2020,4.80082,False
+Poland,POL,2021,4.61999,False
+Poland,POL,2022,4.31373,False
+Portugal,PRT,1973,1.63392,False
+Portugal,PRT,1974,1.93536,False
+Portugal,PRT,1975,3.06246,False
+Portugal,PRT,1976,3.07873,False
+Portugal,PRT,1978,2.90048,False
+Portugal,PRT,1979,2.6993,False
+Portugal,PRT,1980,3.06743,False
+Portugal,PRT,1981,3.18575,False
+Portugal,PRT,1982,3.3291,False
+Portugal,PRT,1983,3.23281,False
+Portugal,PRT,1984,3.14254,False
+Portugal,PRT,1985,3.26249,False
+Portugal,PRT,1986,3.04925,False
+Portugal,PRT,1987,3.15798,False
+Portugal,PRT,1988,3.38753,False
+Portugal,PRT,1989,3.47524,False
+Portugal,PRT,1990,3.56972,False
+Portugal,PRT,1991,4.07133,False
+Portugal,PRT,1992,4.33747,False
+Portugal,PRT,1993,4.84095,False
+Portugal,PRT,1994,4.6713,False
+Portugal,PRT,1995,4.61331,False
+Portugal,PRT,1996,5.06511,False
+Portugal,PRT,1999,5.04687,False
+Portugal,PRT,2000,5.16387,False
+Portugal,PRT,2001,5.33713,False
+Portugal,PRT,2002,5.25873,False
+Portugal,PRT,2003,5.28153,False
+Portugal,PRT,2004,5.0464,False
+Portugal,PRT,2005,5.07394,False
+Portugal,PRT,2006,4.90769,False
+Portugal,PRT,2007,4.92149,False
+Portugal,PRT,2008,4.69608,False
+Portugal,PRT,2009,5.56316,False
+Portugal,PRT,2010,5.40499,False
+Portugal,PRT,2011,5.11689,False
+Portugal,PRT,2012,4.94227,False
+Portugal,PRT,2013,5.26529,False
+Portugal,PRT,2014,5.12006,False
+Portugal,PRT,2015,4.89426,False
+Portugal,PRT,2017,5.02685,False
+Portugal,PRT,2018,4.6794,False
+Portugal,PRT,2019,4.62752,False
+Portugal,PRT,2020,4.86408,False
+Portugal,PRT,2021,4.77342,False
+Portugal,PRT,2022,4.55161,False
+Puerto Rico,PRI,1971,7.25052,False
+Puerto Rico,PRI,1972,7.21458,False
+Puerto Rico,PRI,1973,6.47993,False
+Puerto Rico,PRI,1974,7.2869,False
+Puerto Rico,PRI,1975,6.22974,False
+Puerto Rico,PRI,1976,7.14049,False
+Puerto Rico,PRI,1977,6.38757,False
+Puerto Rico,PRI,1978,6.68103,False
+Puerto Rico,PRI,2013,6.48106,False
+Puerto Rico,PRI,2014,6.07266,False
+Puerto Rico,PRI,2015,3.3403225,False
+Puerto Rico,PRI,2016,2.7835844,False
+Puerto Rico,PRI,2017,2.7253888,False
+Puerto Rico,PRI,2018,2.603887,False
+Puerto Rico,PRI,2019,3.32791,False
+Puerto Rico,PRI,2020,4.286632,False
+Puerto Rico,PRI,2021,3.72967,False
+Puerto Rico,PRI,2022,3.8612993,False
+Puerto Rico,PRI,2023,4.2689877,False
+Puerto Rico,PRI,2024,4.2710195,False
+Qatar,QAT,1971,3.00028,False
+Qatar,QAT,1972,2.69144,False
+Qatar,QAT,1973,2.86783,False
+Qatar,QAT,1976,1.74697,False
+Qatar,QAT,1977,1.97006,False
+Qatar,QAT,1978,2.77697,False
+Qatar,QAT,1998,3.57767,False
+Qatar,QAT,1999,4.3453,False
+Qatar,QAT,2000,3.72598,False
+Qatar,QAT,2001,3.20019,False
+Qatar,QAT,2002,3.84656,False
+Qatar,QAT,2003,3.37394,False
+Qatar,QAT,2004,3.46259,False
+Qatar,QAT,2005,3.97188,False
+Qatar,QAT,2008,4.22755,False
+Qatar,QAT,2009,3.41315,False
+Qatar,QAT,2010,4.53966,False
+Qatar,QAT,2011,4.01224,False
+Qatar,QAT,2012,3.50744,False
+Qatar,QAT,2013,4.07384,False
+Qatar,QAT,2014,3.60535,False
+Qatar,QAT,2017,2.96746,False
+Qatar,QAT,2019,2.80378,False
+Qatar,QAT,2020,3.23368,False
+Romania,ROU,1996,3.24122,False
+Romania,ROU,2000,2.86863,False
+Romania,ROU,2001,3.2663,False
+Romania,ROU,2002,3.50411,False
+Romania,ROU,2003,3.54397,False
+Romania,ROU,2004,3.31273,False
+Romania,ROU,2005,3.50038,False
+Romania,ROU,2006,4.30651,False
+Romania,ROU,2007,4.14954,False
+Romania,ROU,2008,4.09723,False
+Romania,ROU,2009,4.00193,False
+Romania,ROU,2010,3.41647,False
+Romania,ROU,2011,2.9136,False
+Romania,ROU,2012,2.82346,False
+Romania,ROU,2013,3.06785,False
+Romania,ROU,2014,3.12495,False
+Romania,ROU,2015,3.10693,False
+Romania,ROU,2016,3.02554,False
+Romania,ROU,2017,3.11819,False
+Romania,ROU,2018,3.3171,False
+Romania,ROU,2019,3.55761,False
+Romania,ROU,2020,3.57969,False
+Romania,ROU,2021,3.31563,False
+Romania,ROU,2022,3.27882,False
+Russia,RUS,2000,2.93979,False
+Russia,RUS,2001,3.10602,False
+Russia,RUS,2002,3.83502,False
+Russia,RUS,2003,3.67855,False
+Russia,RUS,2004,3.54786,False
+Russia,RUS,2005,3.77193,False
+Russia,RUS,2006,3.86626,False
+Russia,RUS,2008,4.10175,False
+Russia,RUS,2010,4.089742,False
+Russia,RUS,2011,3.7126126,False
+Russia,RUS,2012,3.7931,False
+Russia,RUS,2013,3.76383,False
+Russia,RUS,2014,4.01388,False
+Russia,RUS,2015,3.83403,False
+Russia,RUS,2016,3.76044,False
+Russia,RUS,2017,4.68991,False
+Russia,RUS,2018,4.67819,False
+Russia,RUS,2019,3.6956143,False
+Russia,RUS,2020,4.0164185,False
+Russia,RUS,2021,3.994807,False
+Russia,RUS,2022,4.0540276,False
+Russia,RUS,2023,4.1645484,False
+Rwanda,RWA,1977,2.15021,False
+Rwanda,RWA,1978,2.23247,False
+Rwanda,RWA,1979,2.44128,False
+Rwanda,RWA,1980,2.66633,False
+Rwanda,RWA,1981,4.39297,False
+Rwanda,RWA,1987,3.50578,False
+Rwanda,RWA,1988,3.33534,False
+Rwanda,RWA,1989,3.74663,False
+Rwanda,RWA,1999,3.85799,False
+Rwanda,RWA,2000,3.43418,False
+Rwanda,RWA,2001,4.82502,False
+Rwanda,RWA,2007,3.98503,False
+Rwanda,RWA,2008,3.50215,False
+Rwanda,RWA,2010,4.63127,False
+Rwanda,RWA,2011,4.38346,False
+Rwanda,RWA,2012,4.42103,False
+Rwanda,RWA,2013,4.74215,False
+Rwanda,RWA,2014,4.19644,False
+Rwanda,RWA,2015,3.64713,False
+Rwanda,RWA,2016,3.43483,False
+Rwanda,RWA,2017,3.12474,False
+Rwanda,RWA,2018,3.07376,False
+Rwanda,RWA,2019,3.238212,False
+Rwanda,RWA,2020,3.3330975,False
+Rwanda,RWA,2021,5.58985,False
+Rwanda,RWA,2022,4.74214,False
+Rwanda,RWA,2023,4.92002,False
+Rwanda,RWA,2024,4.61477,False
+Saint Kitts and Nevis,KNA,1985,3.96503,False
+Saint Kitts and Nevis,KNA,1987,2.64113,False
+Saint Kitts and Nevis,KNA,1989,2.19796,False
+Saint Kitts and Nevis,KNA,1991,1.99845,False
+Saint Kitts and Nevis,KNA,1992,2.30387,False
+Saint Kitts and Nevis,KNA,1995,2.57641,False
+Saint Kitts and Nevis,KNA,1998,4.02057,False
+Saint Kitts and Nevis,KNA,1999,3.32267,False
+Saint Kitts and Nevis,KNA,2000,4.74039,False
+Saint Kitts and Nevis,KNA,2001,4.42155,False
+Saint Kitts and Nevis,KNA,2002,3.92051,False
+Saint Kitts and Nevis,KNA,2003,3.79099,False
+Saint Kitts and Nevis,KNA,2004,3.97135,False
+Saint Kitts and Nevis,KNA,2005,3.83145,False
+Saint Kitts and Nevis,KNA,2006,4.05926,False
+Saint Kitts and Nevis,KNA,2007,4.19381,False
+Saint Kitts and Nevis,KNA,2010,2.54554,False
+Saint Kitts and Nevis,KNA,2011,2.4970653,False
+Saint Kitts and Nevis,KNA,2012,2.4920015,False
+Saint Kitts and Nevis,KNA,2013,3.2620585,False
+Saint Kitts and Nevis,KNA,2014,2.853075,False
+Saint Kitts and Nevis,KNA,2015,2.54938,False
+Saint Kitts and Nevis,KNA,2016,3.0007615,False
+Saint Kitts and Nevis,KNA,2017,2.7710032,False
+Saint Kitts and Nevis,KNA,2018,3.03525,False
+Saint Kitts and Nevis,KNA,2019,2.7288957,False
+Saint Kitts and Nevis,KNA,2020,3.1056864,False
+Saint Kitts and Nevis,KNA,2021,2.78379,False
+Saint Kitts and Nevis,KNA,2022,3.5579615,False
+Saint Kitts and Nevis,KNA,2023,3.4972618,False
+Saint Lucia,LCA,1982,5.53879,False
+Saint Lucia,LCA,1986,4.15468,False
+Saint Lucia,LCA,1994,6.53238,False
+Saint Lucia,LCA,1998,5.52894,False
+Saint Lucia,LCA,1999,5.44994,False
+Saint Lucia,LCA,2001,5.70733,False
+Saint Lucia,LCA,2003,3.53449,False
+Saint Lucia,LCA,2004,3.43646,False
+Saint Lucia,LCA,2005,4.23896,False
+Saint Lucia,LCA,2006,4.69669,False
+Saint Lucia,LCA,2008,4.48353,False
+Saint Lucia,LCA,2009,3.06766,False
+Saint Lucia,LCA,2010,3.4829,False
+Saint Lucia,LCA,2011,3.59882,False
+Saint Lucia,LCA,2012,3.29098,False
+Saint Lucia,LCA,2013,3.87661,False
+Saint Lucia,LCA,2014,3.89103,False
+Saint Lucia,LCA,2015,3.88088,False
+Saint Lucia,LCA,2016,5.20955,False
+Saint Lucia,LCA,2017,3.6273153,False
+Saint Lucia,LCA,2018,3.33278,False
+Saint Lucia,LCA,2019,3.27267,False
+Saint Lucia,LCA,2020,3.61522,False
+Saint Lucia,LCA,2021,5.8619776,False
+Saint Lucia,LCA,2022,4.64235,False
+Saint Lucia,LCA,2023,2.74211,False
+Saint Lucia,LCA,2024,3.8470001,False
+Saint Vincent and the Grenadines,VCT,1986,4.42911,False
+Saint Vincent and the Grenadines,VCT,1989,4.46869,False
+Saint Vincent and the Grenadines,VCT,1991,4.87377,False
+Saint Vincent and the Grenadines,VCT,1998,4.03337,False
+Saint Vincent and the Grenadines,VCT,1999,5.75269,False
+Saint Vincent and the Grenadines,VCT,2000,7.32788,False
+Saint Vincent and the Grenadines,VCT,2002,7.38802,False
+Saint Vincent and the Grenadines,VCT,2003,8.17489,False
+Saint Vincent and the Grenadines,VCT,2005,6.03083,False
+Saint Vincent and the Grenadines,VCT,2007,5.43937,False
+Saint Vincent and the Grenadines,VCT,2009,5.37611,False
+Saint Vincent and the Grenadines,VCT,2010,4.80839,False
+Saint Vincent and the Grenadines,VCT,2015,4.9561462,False
+Saint Vincent and the Grenadines,VCT,2016,5.45265,False
+Saint Vincent and the Grenadines,VCT,2017,5.37975,False
+Saint Vincent and the Grenadines,VCT,2018,5.22358,False
+Saint Vincent and the Grenadines,VCT,2020,5.463763,False
+Saint Vincent and the Grenadines,VCT,2022,7.0757504,False
+Saint Vincent and the Grenadines,VCT,2023,6.458269,False
+Samoa,WSM,1999,4.01625,False
+Samoa,WSM,2000,3.63096,False
+Samoa,WSM,2001,3.97652,False
+Samoa,WSM,2002,3.93932,False
+Samoa,WSM,2008,5.11659,False
+Samoa,WSM,2011,4.7742634,False
+Samoa,WSM,2012,4.8917074,False
+Samoa,WSM,2013,4.6148605,False
+Samoa,WSM,2014,5.413922,False
+Samoa,WSM,2015,4.4245214,False
+Samoa,WSM,2016,3.98115,False
+Samoa,WSM,2017,4.1887155,False
+Samoa,WSM,2018,4.4721484,False
+Samoa,WSM,2019,4.5840473,False
+Samoa,WSM,2020,4.5031686,False
+Samoa,WSM,2021,5.2162848,False
+Samoa,WSM,2022,6.1597877,False
+Samoa,WSM,2023,6.10963,False
+Samoa,WSM,2024,5.4561663,False
+San Marino,SMR,2010,2.62884,False
+San Marino,SMR,2011,2.70296,False
+San Marino,SMR,2013,3.2672353,False
+San Marino,SMR,2014,3.1935763,False
+San Marino,SMR,2015,3.1191428,False
+San Marino,SMR,2016,3.0269797,False
+San Marino,SMR,2017,3.36997,False
+San Marino,SMR,2018,3.55516,False
+San Marino,SMR,2019,3.3797,False
+San Marino,SMR,2020,3.42462,False
+San Marino,SMR,2021,3.10892,False
+San Marino,SMR,2022,2.89753,False
+Sao Tome and Principe,STP,2002,2.72058,False
+Sao Tome and Principe,STP,2003,3.24693,False
+Sao Tome and Principe,STP,2004,3.23471,False
+Sao Tome and Principe,STP,2005,4.85645,False
+Sao Tome and Principe,STP,2006,4.27118,False
+Sao Tome and Principe,STP,2007,6.28683,False
+Sao Tome and Principe,STP,2008,5.55449,False
+Sao Tome and Principe,STP,2009,9.99429,False
+Sao Tome and Principe,STP,2010,9.98827,False
+Sao Tome and Principe,STP,2011,8.794103,False
+Sao Tome and Principe,STP,2012,6.92846,False
+Sao Tome and Principe,STP,2013,6.68509,False
+Sao Tome and Principe,STP,2014,4.43217,False
+Sao Tome and Principe,STP,2015,4.69795,False
+Sao Tome and Principe,STP,2016,6.11516,False
+Sao Tome and Principe,STP,2017,5.8749,False
+Sao Tome and Principe,STP,2018,5.62455,False
+Sao Tome and Principe,STP,2019,6.105739,False
+Sao Tome and Principe,STP,2020,5.0293117,False
+Sao Tome and Principe,STP,2021,5.53985,False
+Sao Tome and Principe,STP,2022,5.193921,False
+Sao Tome and Principe,STP,2023,5.0288577,False
+Saudi Arabia,SAU,1981,3.89025,False
+Saudi Arabia,SAU,1982,4.14255,False
+Saudi Arabia,SAU,1983,5.97797,False
+Saudi Arabia,SAU,1984,6.10957,False
+Saudi Arabia,SAU,1986,6.25535,False
+Saudi Arabia,SAU,1991,5.77947,False
+Saudi Arabia,SAU,1992,5.14464,False
+Saudi Arabia,SAU,1993,5.99929,False
+Saudi Arabia,SAU,1994,6.34382,False
+Saudi Arabia,SAU,1995,5.69247,False
+Saudi Arabia,SAU,1996,4.94374,False
+Saudi Arabia,SAU,1997,4.37707,False
+Saudi Arabia,SAU,1998,8.28131,False
+Saudi Arabia,SAU,1999,7.07227,False
+Saudi Arabia,SAU,2000,5.90982,False
+Saudi Arabia,SAU,2001,7.71887,False
+Saudi Arabia,SAU,2002,7.63689,False
+Saudi Arabia,SAU,2003,7.10509,False
+Saudi Arabia,SAU,2004,6.27747,False
+Saudi Arabia,SAU,2005,5.43093,False
+Saudi Arabia,SAU,2006,5.89117,False
+Saudi Arabia,SAU,2008,5.13781,False
+Saudi Arabia,SAU,2023,4.48088,False
+Senegal,SEN,1998,2.47458,False
+Senegal,SEN,1999,2.45981,False
+Senegal,SEN,2000,2.46335,False
+Senegal,SEN,2001,2.47151,False
+Senegal,SEN,2002,2.59442,False
+Senegal,SEN,2003,2.75125,False
+Senegal,SEN,2004,3.07778,False
+Senegal,SEN,2005,4.06443,False
+Senegal,SEN,2006,3.82139,False
+Senegal,SEN,2008,4.02568,False
+Senegal,SEN,2009,4.92072,False
+Senegal,SEN,2010,0.54477,False
+Senegal,SEN,2011,4.90303,False
+Senegal,SEN,2012,4.77699,False
+Senegal,SEN,2013,5.68656,False
+Senegal,SEN,2014,5.72907,False
+Senegal,SEN,2015,5.45635,False
+Senegal,SEN,2016,5.11309,False
+Senegal,SEN,2017,4.74008,False
+Senegal,SEN,2018,5.1102,False
+Senegal,SEN,2019,5.03525,False
+Senegal,SEN,2020,5.68698,False
+Senegal,SEN,2021,5.61201,False
+Senegal,SEN,2022,5.95223,False
+Senegal,SEN,2023,6.1627703,False
+Serbia,SRB,2007,4.04881,False
+Serbia,SRB,2009,4.31275,False
+Serbia,SRB,2011,4.07355,False
+Serbia,SRB,2016,3.50276,False
+Serbia,SRB,2017,3.56539,False
+Serbia,SRB,2018,3.43663,False
+Serbia,SRB,2019,3.45866,False
+Serbia,SRB,2021,3.14616,False
+Serbia,SRB,2022,3.08255,False
+Serbia,SRB,2023,3.40378,False
+Seychelles,SYC,1970,4.18848,False
+Seychelles,SYC,1971,4.06639,False
+Seychelles,SYC,1972,4.24694,False
+Seychelles,SYC,1974,4.28333,False
+Seychelles,SYC,1975,4.34502,False
+Seychelles,SYC,1976,4.74596,False
+Seychelles,SYC,1984,11.30569,False
+Seychelles,SYC,1985,9.61779,False
+Seychelles,SYC,1986,9.12957,False
+Seychelles,SYC,1988,7.79334,False
+Seychelles,SYC,1989,7.73472,False
+Seychelles,SYC,1994,8.47928,False
+Seychelles,SYC,1995,7.24051,False
+Seychelles,SYC,1996,7.31149,False
+Seychelles,SYC,1998,5.63179,False
+Seychelles,SYC,1999,4.94468,False
+Seychelles,SYC,2002,4.88109,False
+Seychelles,SYC,2003,5.05177,False
+Seychelles,SYC,2006,4.48331,False
+Seychelles,SYC,2011,3.62995,False
+Seychelles,SYC,2012,2.54216,False
+Seychelles,SYC,2013,3.6184,False
+Seychelles,SYC,2014,3.95247,False
+Seychelles,SYC,2015,4.91461,False
+Seychelles,SYC,2016,4.02131,False
+Seychelles,SYC,2017,3.3461733,False
+Seychelles,SYC,2018,3.5944693,False
+Seychelles,SYC,2019,3.5588555,False
+Seychelles,SYC,2020,4.1870484,False
+Seychelles,SYC,2021,4.8654737,False
+Seychelles,SYC,2022,3.6585891,False
+Seychelles,SYC,2023,4.4540997,False
+Sierra Leone,SLE,2000,4.94937,False
+Sierra Leone,SLE,2001,2.22618,False
+Sierra Leone,SLE,2002,2.29767,False
+Sierra Leone,SLE,2003,2.10887,False
+Sierra Leone,SLE,2004,2.01167,False
+Sierra Leone,SLE,2005,1.81371,False
+Sierra Leone,SLE,2007,1.52012,False
+Sierra Leone,SLE,2008,1.45413,False
+Sierra Leone,SLE,2009,1.72441,False
+Sierra Leone,SLE,2010,1.56554,False
+Sierra Leone,SLE,2011,1.61538,False
+Sierra Leone,SLE,2012,1.77787,False
+Sierra Leone,SLE,2013,1.56069,False
+Sierra Leone,SLE,2014,1.73754,False
+Sierra Leone,SLE,2015,3.2178628,False
+Sierra Leone,SLE,2016,1.84832,False
+Sierra Leone,SLE,2017,3.01501,False
+Sierra Leone,SLE,2018,4.46809,False
+Sierra Leone,SLE,2019,4.65177,False
+Sierra Leone,SLE,2020,5.34702,False
+Sierra Leone,SLE,2021,5.59322,False
+Sierra Leone,SLE,2022,4.90763,False
+Sierra Leone,SLE,2023,2.6245527,False
+Singapore,SGP,1971,3.10976,False
+Singapore,SGP,1972,2.86827,False
+Singapore,SGP,1973,2.48882,False
+Singapore,SGP,1974,2.38852,False
+Singapore,SGP,1975,2.43949,False
+Singapore,SGP,1976,2.69239,False
+Singapore,SGP,1977,2.4508,False
+Singapore,SGP,1978,2.291,False
+Singapore,SGP,1979,2.24925,False
+Singapore,SGP,1980,2.55967,False
+Singapore,SGP,1981,2.58366,False
+Singapore,SGP,1982,3.26776,False
+Singapore,SGP,1983,3.94772,False
+Singapore,SGP,1988,3.65207,False
+Singapore,SGP,2000,3.32129,False
+Singapore,SGP,2001,3.5425,False
+Singapore,SGP,2002,3.87852,False
+Singapore,SGP,2003,3.98194,False
+Singapore,SGP,2004,3.65276,False
+Singapore,SGP,2005,3.19596,False
+Singapore,SGP,2006,2.85912,False
+Singapore,SGP,2007,2.94674,False
+Singapore,SGP,2008,2.7646,False
+Singapore,SGP,2009,3.01013,False
+Singapore,SGP,2010,3.08044,False
+Singapore,SGP,2011,3.03077,False
+Singapore,SGP,2012,3.07085,False
+Singapore,SGP,2013,2.85435,False
+Singapore,SGP,2014,3.0135868,False
+Singapore,SGP,2015,2.9916186,False
+Singapore,SGP,2016,2.9446626,False
+Singapore,SGP,2017,2.8791637,False
+Singapore,SGP,2018,2.85314,False
+Singapore,SGP,2019,2.72784,False
+Singapore,SGP,2020,2.69227,False
+Singapore,SGP,2021,2.82732,False
+Singapore,SGP,2022,2.47478,False
+Singapore,SGP,2023,2.10377,False
+Singapore,SGP,2024,2.1909986,False
+Sint Maarten (Dutch part),SXM,2012,4.6183486,False
+Sint Maarten (Dutch part),SXM,2014,3.067595,False
+Sint Maarten (Dutch part),SXM,2022,4.274205,False
+Sint Maarten (Dutch part),SXM,2023,3.9236383,False
+Slovakia,SVK,1992,5.2874,False
+Slovakia,SVK,1993,4.39184,False
+Slovakia,SVK,1994,3.6643,False
+Slovakia,SVK,1995,4.24179,False
+Slovakia,SVK,1996,4.08451,False
+Slovakia,SVK,1997,4.1018,False
+Slovakia,SVK,1999,4.10291,False
+Slovakia,SVK,2000,3.86823,False
+Slovakia,SVK,2001,3.94237,False
+Slovakia,SVK,2002,4.25193,False
+Slovakia,SVK,2003,4.237,False
+Slovakia,SVK,2004,4.11748,False
+Slovakia,SVK,2005,3.77565,False
+Slovakia,SVK,2006,3.70851,False
+Slovakia,SVK,2007,3.52224,False
+Slovakia,SVK,2008,3.52339,False
+Slovakia,SVK,2009,4.00893,False
+Slovakia,SVK,2010,4.04705,False
+Slovakia,SVK,2011,3.90687,False
+Slovakia,SVK,2012,3.85491,False
+Slovakia,SVK,2013,4.06078,False
+Slovakia,SVK,2014,4.20446,False
+Slovakia,SVK,2015,4.56417,False
+Slovakia,SVK,2016,3.88376,False
+Slovakia,SVK,2017,3.91876,False
+Slovakia,SVK,2018,3.93535,False
+Slovakia,SVK,2019,4.2678,False
+Slovakia,SVK,2020,4.72029,False
+Slovakia,SVK,2021,4.71767,False
+Slovakia,SVK,2022,4.65689,False
+Slovenia,SVN,1991,4.07292,False
+Slovenia,SVN,1992,4.72125,False
+Slovenia,SVN,1993,4.95702,False
+Slovenia,SVN,1994,4.69972,False
+Slovenia,SVN,1995,4.9021,False
+Slovenia,SVN,2001,5.81461,False
+Slovenia,SVN,2002,5.74014,False
+Slovenia,SVN,2003,5.75658,False
+Slovenia,SVN,2004,5.68693,False
+Slovenia,SVN,2005,5.64437,False
+Slovenia,SVN,2006,5.62208,False
+Slovenia,SVN,2007,5.1366,False
+Slovenia,SVN,2008,5.13439,False
+Slovenia,SVN,2009,5.62079,False
+Slovenia,SVN,2010,5.59363,False
+Slovenia,SVN,2011,5.5829,False
+Slovenia,SVN,2012,5.67023,False
+Slovenia,SVN,2013,5.46768,False
+Slovenia,SVN,2014,5.34329,False
+Slovenia,SVN,2015,4.95529,False
+Slovenia,SVN,2016,4.84419,False
+Slovenia,SVN,2017,4.82381,False
+Slovenia,SVN,2018,4.97949,False
+Slovenia,SVN,2019,4.93479,False
+Slovenia,SVN,2020,5.41901,False
+Slovenia,SVN,2021,5.39167,False
+Slovenia,SVN,2022,5.28065,False
+Solomon Islands,SLB,1971,3.4,False
+Solomon Islands,SLB,1991,3.87719,False
+Solomon Islands,SLB,1998,2.3155,False
+Solomon Islands,SLB,2007,7.33327,False
+Solomon Islands,SLB,2008,6.89515,False
+Solomon Islands,SLB,2009,6.65859,False
+Solomon Islands,SLB,2010,7.47837,False
+Solomon Islands,SLB,2020,9.643546,False
+Solomon Islands,SLB,2021,8.332327,False
+Solomon Islands,SLB,2022,8.487378,False
+Solomon Islands,SLB,2023,8.29349,False
+Somalia,SOM,1972,1.10284,False
+Somalia,SOM,1973,1.33888,False
+Somalia,SOM,2018,4.0099085e-06,True
+Somalia,SOM,2019,5.7328125e-06,True
+Somalia,SOM,2020,6.1205437e-06,True
+Somalia,SOM,2021,6.7530837e-06,True
+Somalia,SOM,2022,7.2167477e-06,True
+Somalia,SOM,2023,8.142624e-06,True
+South Africa,ZAF,1987,4.75367,False
+South Africa,ZAF,1988,4.85424,False
+South Africa,ZAF,1989,4.44185,False
+South Africa,ZAF,1990,4.69768,False
+South Africa,ZAF,1991,5.25961,False
+South Africa,ZAF,1993,5.3889,False
+South Africa,ZAF,1994,5.29778,False
+South Africa,ZAF,1996,5.04735,False
+South Africa,ZAF,1999,5.29117,False
+South Africa,ZAF,2000,4.90882,False
+South Africa,ZAF,2001,4.63618,False
+South Africa,ZAF,2002,4.54569,False
+South Africa,ZAF,2003,4.3521,False
+South Africa,ZAF,2004,4.50898,False
+South Africa,ZAF,2005,4.52451,False
+South Africa,ZAF,2006,4.52653,False
+South Africa,ZAF,2007,4.44668,False
+South Africa,ZAF,2008,4.37425,False
+South Africa,ZAF,2009,4.76119,False
+South Africa,ZAF,2010,5.13496,False
+South Africa,ZAF,2011,5.28899,False
+South Africa,ZAF,2012,5.52322,False
+South Africa,ZAF,2013,5.35071,False
+South Africa,ZAF,2014,5.48978,False
+South Africa,ZAF,2015,5.48285,False
+South Africa,ZAF,2016,5.44424,False
+South Africa,ZAF,2017,5.59868,False
+South Africa,ZAF,2018,5.64401,False
+South Africa,ZAF,2019,5.91159,False
+South Africa,ZAF,2020,6.17067,False
+South Africa,ZAF,2021,6.55517,False
+South Africa,ZAF,2022,6.15599,False
+South Africa,ZAF,2023,6.12348,False
+South Africa,ZAF,2024,6.0211,False
+South Korea,KOR,1970,3.38403,False
+South Korea,KOR,1971,3.70118,False
+South Korea,KOR,1972,3.18316,False
+South Korea,KOR,1973,2.64382,False
+South Korea,KOR,1975,2.05698,False
+South Korea,KOR,1976,2.71207,False
+South Korea,KOR,1977,2.38804,False
+South Korea,KOR,1979,2.96842,False
+South Korea,KOR,1980,3.39899,False
+South Korea,KOR,1981,2.84581,False
+South Korea,KOR,1982,6.20589,False
+South Korea,KOR,1983,4.22579,False
+South Korea,KOR,1984,3.91542,False
+South Korea,KOR,1985,3.89163,False
+South Korea,KOR,1986,3.54107,False
+South Korea,KOR,1987,3.27912,False
+South Korea,KOR,1988,2.66867,False
+South Korea,KOR,1989,2.97461,False
+South Korea,KOR,1990,2.94824,False
+South Korea,KOR,1991,3.38479,False
+South Korea,KOR,1992,3.46677,False
+South Korea,KOR,1993,3.57816,False
+South Korea,KOR,1994,2.92029,False
+South Korea,KOR,1995,2.83677,False
+South Korea,KOR,1998,3.24975,False
+South Korea,KOR,1999,3.25049,False
+South Korea,KOR,2015,4.24248,False
+South Korea,KOR,2016,4.11503,False
+South Korea,KOR,2017,4.10776,False
+South Korea,KOR,2018,4.21645,False
+South Korea,KOR,2019,4.41814,False
+South Korea,KOR,2020,4.52706,False
+South Korea,KOR,2021,4.5559,False
+South Korea,KOR,2022,5.4091,False
+South Sudan,SSD,2010,1.04533,False
+South Sudan,SSD,2011,0.96289,False
+South Sudan,SSD,2012,1.5767493,False
+South Sudan,SSD,2013,1.0245,False
+South Sudan,SSD,2014,1.23246,False
+South Sudan,SSD,2015,1.46556,False
+South Sudan,SSD,2016,1.5653923,False
+Spain,ESP,1970,1.83432,False
+Spain,ESP,1971,1.89063,False
+Spain,ESP,1972,2.06612,False
+Spain,ESP,1974,1.4606,False
+Spain,ESP,1976,1.90075,False
+Spain,ESP,1977,2.07865,False
+Spain,ESP,1978,2.23232,False
+Spain,ESP,1979,2.33973,False
+Spain,ESP,1980,2.6,False
+Spain,ESP,1987,3.13041,False
+Spain,ESP,1988,3.33068,False
+Spain,ESP,1989,3.55431,False
+Spain,ESP,1990,3.63619,False
+Spain,ESP,1991,3.74502,False
+Spain,ESP,1992,3.83991,False
+Spain,ESP,1993,4.24793,False
+Spain,ESP,1994,4.48788,False
+Spain,ESP,1995,4.4378,False
+Spain,ESP,1996,4.4598,False
+Spain,ESP,1998,4.29121,False
+Spain,ESP,1999,4.26388,False
+Spain,ESP,2000,4.16786,False
+Spain,ESP,2001,4.11147,False
+Spain,ESP,2002,4.13351,False
+Spain,ESP,2003,4.17127,False
+Spain,ESP,2004,4.15485,False
+Spain,ESP,2005,4.1409,False
+Spain,ESP,2006,4.18,False
+Spain,ESP,2007,4.24615,False
+Spain,ESP,2008,4.5163,False
+Spain,ESP,2009,4.89521,False
+Spain,ESP,2010,4.83606,False
+Spain,ESP,2011,4.71898,False
+Spain,ESP,2012,4.46012,False
+Spain,ESP,2013,4.32853,False
+Spain,ESP,2014,4.27525,False
+Spain,ESP,2015,4.24903,False
+Spain,ESP,2016,4.19327,False
+Spain,ESP,2017,4.17846,False
+Spain,ESP,2018,4.15045,False
+Spain,ESP,2019,4.20256,False
+Spain,ESP,2020,4.85118,False
+Spain,ESP,2021,4.81317,False
+Spain,ESP,2022,4.58554,False
+Sri Lanka,LKA,1973,3.3164,False
+Sri Lanka,LKA,1975,2.74455,False
+Sri Lanka,LKA,1979,2.56743,False
+Sri Lanka,LKA,1980,2.70417,False
+Sri Lanka,LKA,1981,2.44221,False
+Sri Lanka,LKA,1982,2.5585,False
+Sri Lanka,LKA,1983,2.39061,False
+Sri Lanka,LKA,1984,2.16526,False
+Sri Lanka,LKA,1985,2.57614,False
+Sri Lanka,LKA,1986,2.80542,False
+Sri Lanka,LKA,1987,2.64433,False
+Sri Lanka,LKA,1988,2.82636,False
+Sri Lanka,LKA,1989,2.75516,False
+Sri Lanka,LKA,1990,2.41093,False
+Sri Lanka,LKA,1991,2.91558,False
+Sri Lanka,LKA,1994,3.10853,False
+Sri Lanka,LKA,1995,2.9576,False
+Sri Lanka,LKA,1996,3.3436,False
+Sri Lanka,LKA,1998,3.05141,False
+Sri Lanka,LKA,2009,2.0559,False
+Sri Lanka,LKA,2010,1.66177,False
+Sri Lanka,LKA,2011,1.74292,False
+Sri Lanka,LKA,2012,1.45343,False
+Sri Lanka,LKA,2013,1.56459,False
+Sri Lanka,LKA,2014,1.85859,False
+Sri Lanka,LKA,2015,2.10998,False
+Sri Lanka,LKA,2016,3.22929,False
+Sri Lanka,LKA,2017,2.59317,False
+Sri Lanka,LKA,2018,1.98781,False
+Sri Lanka,LKA,2020,1.5579239,False
+Sri Lanka,LKA,2021,1.5065058,False
+Sri Lanka,LKA,2022,1.2039722,False
+Sri Lanka,LKA,2023,1.8277457,False
+Sudan,SDN,2000,1.01218,False
+Sudan,SDN,2002,1.16425,False
+Sudan,SDN,2004,1.31255,False
+Sudan,SDN,2005,1.17843,False
+Sudan,SDN,2006,1.55354,False
+Sudan,SDN,2008,1.8515,False
+Sudan,SDN,2009,2.02213,False
+Suriname,SUR,2015,5.534796,False
+Suriname,SUR,2016,5.640519,False
+Suriname,SUR,2017,5.458613,False
+Suriname,SUR,2018,4.9225936,False
+Suriname,SUR,2019,6.778573,False
+Suriname,SUR,2020,4.584257,False
+Suriname,SUR,2021,4.13155,False
+Suriname,SUR,2022,3.4346085,False
+Suriname,SUR,2023,2.8662333,False
+Sweden,SWE,1979,6.38156,False
+Sweden,SWE,1980,6.54646,False
+Sweden,SWE,1981,6.79097,False
+Sweden,SWE,1990,5.2197,False
+Sweden,SWE,1991,5.45164,False
+Sweden,SWE,1992,5.26609,False
+Sweden,SWE,1993,5.51495,False
+Sweden,SWE,1995,6.15396,False
+Sweden,SWE,1996,6.83374,False
+Sweden,SWE,1998,7.05913,False
+Sweden,SWE,1999,6.84251,False
+Sweden,SWE,2000,6.73836,False
+Sweden,SWE,2001,6.61482,False
+Sweden,SWE,2002,6.91078,False
+Sweden,SWE,2003,6.79678,False
+Sweden,SWE,2004,6.673,False
+Sweden,SWE,2005,6.51516,False
+Sweden,SWE,2006,6.37278,False
+Sweden,SWE,2007,6.18674,False
+Sweden,SWE,2008,6.38264,False
+Sweden,SWE,2009,6.78426,False
+Sweden,SWE,2010,6.56319,False
+Sweden,SWE,2011,6.40656,False
+Sweden,SWE,2012,7.57456,False
+Sweden,SWE,2013,7.64658,False
+Sweden,SWE,2014,7.62924,False
+Sweden,SWE,2015,7.49442,False
+Sweden,SWE,2016,7.63991,False
+Sweden,SWE,2017,7.63849,False
+Sweden,SWE,2018,7.69826,False
+Sweden,SWE,2019,7.66307,False
+Sweden,SWE,2020,7.95333,False
+Sweden,SWE,2021,7.60224,False
+Sweden,SWE,2022,7.3191,False
+Switzerland,CHE,1970,3.39252,False
+Switzerland,CHE,1971,3.49645,False
+Switzerland,CHE,1972,3.65762,False
+Switzerland,CHE,1973,3.91472,False
+Switzerland,CHE,1974,4.11416,False
+Switzerland,CHE,1975,4.37445,False
+Switzerland,CHE,1976,4.4736,False
+Switzerland,CHE,1977,4.49636,False
+Switzerland,CHE,1978,4.37053,False
+Switzerland,CHE,1979,4.3477,False
+Switzerland,CHE,1980,4.23402,False
+Switzerland,CHE,1981,4.19692,False
+Switzerland,CHE,1982,4.26316,False
+Switzerland,CHE,1983,4.36718,False
+Switzerland,CHE,1984,4.22712,False
+Switzerland,CHE,1985,4.17463,False
+Switzerland,CHE,1986,4.21008,False
+Switzerland,CHE,1987,4.16636,False
+Switzerland,CHE,1988,4.2308,False
+Switzerland,CHE,1989,4.14317,False
+Switzerland,CHE,1990,4.39194,False
+Switzerland,CHE,1991,4.54507,False
+Switzerland,CHE,1993,4.94459,False
+Switzerland,CHE,1994,4.90889,False
+Switzerland,CHE,1995,4.9129,False
+Switzerland,CHE,1996,4.92261,False
+Switzerland,CHE,1998,4.75152,False
+Switzerland,CHE,1999,4.75953,False
+Switzerland,CHE,2000,4.65878,False
+Switzerland,CHE,2001,4.82219,False
+Switzerland,CHE,2002,5.17882,False
+Switzerland,CHE,2003,5.38401,False
+Switzerland,CHE,2004,5.31429,False
+Switzerland,CHE,2005,5.08472,False
+Switzerland,CHE,2006,4.84121,False
+Switzerland,CHE,2007,4.58396,False
+Switzerland,CHE,2008,4.75725,False
+Switzerland,CHE,2009,4.92561,False
+Switzerland,CHE,2010,4.8021,False
+Switzerland,CHE,2011,4.85664,False
+Switzerland,CHE,2012,4.89862,False
+Switzerland,CHE,2013,4.91393,False
+Switzerland,CHE,2014,4.93057,False
+Switzerland,CHE,2015,4.9956,False
+Switzerland,CHE,2016,4.98165,False
+Switzerland,CHE,2017,5.01765,False
+Switzerland,CHE,2018,4.93008,False
+Switzerland,CHE,2019,5.01439,False
+Switzerland,CHE,2020,5.27676,False
+Switzerland,CHE,2021,5.02535,False
+Switzerland,CHE,2022,4.86427,False
+Syria,SYR,1972,3.58356,False
+Syria,SYR,1973,3.68991,False
+Syria,SYR,1975,3.93451,False
+Syria,SYR,1976,5.83146,False
+Syria,SYR,1977,5.71442,False
+Syria,SYR,1978,5.51426,False
+Syria,SYR,1979,4.96617,False
+Syria,SYR,1980,4.57553,False
+Syria,SYR,1981,5.38392,False
+Syria,SYR,1982,5.89761,False
+Syria,SYR,1984,6.13389,False
+Syria,SYR,1985,6.07005,False
+Syria,SYR,1986,5.62294,False
+Syria,SYR,1987,4.56184,False
+Syria,SYR,1988,3.61586,False
+Syria,SYR,1989,4.03414,False
+Syria,SYR,1996,3.69905,False
+Syria,SYR,2001,4.5464,False
+Syria,SYR,2002,5.26984,False
+Syria,SYR,2003,6.48086,False
+Syria,SYR,2004,5.37148,False
+Syria,SYR,2006,5.27966,False
+Syria,SYR,2007,4.8647,False
+Syria,SYR,2008,4.59525,False
+Syria,SYR,2009,5.13013,False
+Tajikistan,TJK,1993,8.18559,False
+Tajikistan,TJK,1995,2.0659,False
+Tajikistan,TJK,1996,2.04345,False
+Tajikistan,TJK,1998,2.52849,False
+Tajikistan,TJK,1999,2.07652,False
+Tajikistan,TJK,2000,2.32871,False
+Tajikistan,TJK,2001,2.37659,False
+Tajikistan,TJK,2002,2.77579,False
+Tajikistan,TJK,2003,2.42079,False
+Tajikistan,TJK,2004,2.77203,False
+Tajikistan,TJK,2005,3.51213,False
+Tajikistan,TJK,2006,3.4035,False
+Tajikistan,TJK,2007,3.41327,False
+Tajikistan,TJK,2008,3.45983,False
+Tajikistan,TJK,2009,4.09831,False
+Tajikistan,TJK,2010,4.00675,False
+Tajikistan,TJK,2011,3.93511,False
+Tajikistan,TJK,2012,4.01803,False
+Tajikistan,TJK,2013,5.2939763,False
+Tajikistan,TJK,2014,5.593989,False
+Tajikistan,TJK,2015,4.96774,False
+Tajikistan,TJK,2016,5.7309413,False
+Tajikistan,TJK,2017,5.544718,False
+Tajikistan,TJK,2018,5.3850875,False
+Tajikistan,TJK,2019,5.4842763,False
+Tajikistan,TJK,2020,5.135168,False
+Tajikistan,TJK,2021,4.3825307,False
+Tajikistan,TJK,2022,5.398298,False
+Tajikistan,TJK,2023,5.436821,False
+Tanzania,TZA,1971,1.7237,False
+Tanzania,TZA,1972,1.74755,False
+Tanzania,TZA,1973,1.87658,False
+Tanzania,TZA,1974,1.91419,False
+Tanzania,TZA,1980,2.62532,False
+Tanzania,TZA,1989,1.54892,False
+Tanzania,TZA,1990,1.47233,False
+Tanzania,TZA,1996,1.74417,False
+Tanzania,TZA,1997,1.69306,False
+Tanzania,TZA,1998,1.49839,False
+Tanzania,TZA,2004,3.56246,False
+Tanzania,TZA,2005,3.54747,False
+Tanzania,TZA,2006,3.00992,False
+Tanzania,TZA,2007,4.03343,False
+Tanzania,TZA,2008,4.18591,False
+Tanzania,TZA,2009,3.96075,False
+Tanzania,TZA,2010,4.5417,False
+Tanzania,TZA,2011,4.577899,False
+Tanzania,TZA,2012,4.229643,False
+Tanzania,TZA,2013,4.6376944,False
+Tanzania,TZA,2014,3.38488,False
+Tanzania,TZA,2015,4.1948657,False
+Tanzania,TZA,2016,4.1019673,False
+Tanzania,TZA,2017,4.43052,False
+Tanzania,TZA,2018,3.69962,False
+Tanzania,TZA,2019,3.5968363,False
+Tanzania,TZA,2020,3.2309725,False
+Tanzania,TZA,2021,3.1151533,False
+Tanzania,TZA,2022,3.238245,False
+Tanzania,TZA,2023,3.2585323,False
+Tanzania,TZA,2024,3.1550443,False
+Thailand,THA,1971,3.06622,False
+Thailand,THA,1972,3.02915,False
+Thailand,THA,1973,2.55425,False
+Thailand,THA,1974,2.14687,False
+Thailand,THA,1975,2.38088,False
+Thailand,THA,1976,3.01672,False
+Thailand,THA,1977,3.21512,False
+Thailand,THA,1979,2.84529,False
+Thailand,THA,1980,2.57454,False
+Thailand,THA,1981,2.88314,False
+Thailand,THA,1982,3.27388,False
+Thailand,THA,1983,3.46387,False
+Thailand,THA,1984,3.43722,False
+Thailand,THA,1986,3.40797,False
+Thailand,THA,1987,3.11583,False
+Thailand,THA,1988,2.75343,False
+Thailand,THA,1989,2.50244,False
+Thailand,THA,1991,3.0886,False
+Thailand,THA,1992,3.04542,False
+Thailand,THA,1994,3.40523,False
+Thailand,THA,1995,3.14498,False
+Thailand,THA,1996,3.49961,False
+Thailand,THA,1997,4.57719,False
+Thailand,THA,1998,4.6257,False
+Thailand,THA,1999,4.83267,False
+Thailand,THA,2000,5.25346,False
+Thailand,THA,2001,4.81787,False
+Thailand,THA,2002,3.86492,False
+Thailand,THA,2003,3.72561,False
+Thailand,THA,2004,4.03089,False
+Thailand,THA,2005,3.93859,False
+Thailand,THA,2006,4.05038,False
+Thailand,THA,2007,3.60315,False
+Thailand,THA,2008,3.5085,False
+Thailand,THA,2009,3.86194,False
+Thailand,THA,2010,3.50846,False
+Thailand,THA,2011,4.80556,False
+Thailand,THA,2012,4.53673,False
+Thailand,THA,2013,4.12401,False
+Thailand,THA,2014,3.9191775,False
+Thailand,THA,2015,3.8639762,False
+Thailand,THA,2016,3.7676175,False
+Thailand,THA,2017,3.4653215,False
+Thailand,THA,2018,3.197694,False
+Thailand,THA,2019,3.0222142,False
+Thailand,THA,2020,3.1531417,False
+Thailand,THA,2021,2.9821243,False
+Thailand,THA,2022,2.6118703,False
+Thailand,THA,2023,2.521222,False
+Togo,TGO,1970,1.49681,False
+Togo,TGO,1979,4.72961,False
+Togo,TGO,1981,4.16519,False
+Togo,TGO,1984,3.81928,False
+Togo,TGO,1987,3.34063,False
+Togo,TGO,1992,4.01865,False
+Togo,TGO,1996,3.12452,False
+Togo,TGO,1998,2.82129,False
+Togo,TGO,1999,2.96397,False
+Togo,TGO,2000,2.77645,False
+Togo,TGO,2001,2.6675,False
+Togo,TGO,2002,2.46951,False
+Togo,TGO,2003,2.35526,False
+Togo,TGO,2004,2.20198,False
+Togo,TGO,2005,2.23749,False
+Togo,TGO,2006,2.43237,False
+Togo,TGO,2007,2.48604,False
+Togo,TGO,2008,2.38472,False
+Togo,TGO,2009,2.76808,False
+Togo,TGO,2010,2.95977,False
+Togo,TGO,2011,3.0775,False
+Togo,TGO,2012,3.37652,False
+Togo,TGO,2013,3.17475,False
+Togo,TGO,2014,3.42377,False
+Togo,TGO,2015,3.71097,False
+Togo,TGO,2016,3.66248,False
+Togo,TGO,2017,3.76527,False
+Togo,TGO,2018,4.09163,False
+Togo,TGO,2019,4.201642,False
+Togo,TGO,2020,4.08528,False
+Togo,TGO,2021,4.2270246,False
+Togo,TGO,2022,3.7781107,False
+Togo,TGO,2023,4.142819,False
+Tonga,TON,1984,10.34651,False
+Tonga,TON,1998,5.51713,False
+Tonga,TON,1999,5.38056,False
+Tonga,TON,2000,4.87808,False
+Tonga,TON,2001,4.47756,False
+Tonga,TON,2002,3.795,False
+Tonga,TON,2003,4.15951,False
+Tonga,TON,2004,3.91377,False
+Tonga,TON,2017,4.636268,False
+Tonga,TON,2018,4.715144,False
+Tonga,TON,2019,4.861704,False
+Tonga,TON,2020,5.0488353,False
+Tonga,TON,2021,5.1625443,False
+Tonga,TON,2022,5.3101625,False
+Trinidad and Tobago,TTO,1980,3.76808,False
+Trinidad and Tobago,TTO,1982,5.4574,False
+Trinidad and Tobago,TTO,1983,5.7666,False
+Trinidad and Tobago,TTO,1984,5.87391,False
+Trinidad and Tobago,TTO,1985,5.76775,False
+Trinidad and Tobago,TTO,1989,4.19987,False
+Trinidad and Tobago,TTO,1990,3.65413,False
+Trinidad and Tobago,TTO,1994,3.43181,False
+Trinidad and Tobago,TTO,1995,3.55855,False
+Trinidad and Tobago,TTO,1996,3.24877,False
+Trinidad and Tobago,TTO,1997,3.32521,False
+Trinidad and Tobago,TTO,1998,2.43892,False
+Trinidad and Tobago,TTO,1999,2.75612,False
+Trinidad and Tobago,TTO,2000,2.75565,False
+Trinidad and Tobago,TTO,2001,3.06529,False
+Trinidad and Tobago,TTO,2002,3.54301,False
+Trinidad and Tobago,TTO,2003,3.1366,False
+Trinidad and Tobago,TTO,2010,4.2115545,False
+Trinidad and Tobago,TTO,2011,3.8507884,False
+Trinidad and Tobago,TTO,2012,3.57398,False
+Trinidad and Tobago,TTO,2013,3.7527587,False
+Trinidad and Tobago,TTO,2014,3.590138,False
+Trinidad and Tobago,TTO,2015,4.4245934,False
+Trinidad and Tobago,TTO,2016,4.2142825,False
+Trinidad and Tobago,TTO,2017,3.3293688,False
+Trinidad and Tobago,TTO,2018,3.4714177,False
+Trinidad and Tobago,TTO,2019,3.5538611,False
+Trinidad and Tobago,TTO,2020,4.22042,False
+Trinidad and Tobago,TTO,2021,3.04398,False
+Trinidad and Tobago,TTO,2022,2.81801,False
+Trinidad and Tobago,TTO,2023,3.23358,False
+Tunisia,TUN,1980,5.23516,False
+Tunisia,TUN,1981,4.88936,False
+Tunisia,TUN,1982,5.28605,False
+Tunisia,TUN,1983,5.45763,False
+Tunisia,TUN,1984,5.51745,False
+Tunisia,TUN,1985,5.53972,False
+Tunisia,TUN,1986,5.87949,False
+Tunisia,TUN,1990,5.79086,False
+Tunisia,TUN,1991,6.02747,False
+Tunisia,TUN,1992,5.75489,False
+Tunisia,TUN,1993,5.98377,False
+Tunisia,TUN,1994,6.17647,False
+Tunisia,TUN,1995,6.42976,False
+Tunisia,TUN,1996,6.28781,False
+Tunisia,TUN,1997,6.67903,False
+Tunisia,TUN,1999,6.27099,False
+Tunisia,TUN,2000,6.20196,False
+Tunisia,TUN,2001,6.20185,False
+Tunisia,TUN,2002,5.79006,False
+Tunisia,TUN,2003,6.81675,False
+Tunisia,TUN,2004,6.72079,False
+Tunisia,TUN,2005,6.45157,False
+Tunisia,TUN,2006,6.4388,False
+Tunisia,TUN,2007,6.46452,False
+Tunisia,TUN,2008,6.27157,False
+Tunisia,TUN,2009,6.52848,False
+Tunisia,TUN,2010,5.96307,False
+Tunisia,TUN,2012,5.95086,False
+Tunisia,TUN,2015,6.22045,False
+Tunisia,TUN,2019,6.1737323,False
+Tunisia,TUN,2020,7.2650757,False
+Tunisia,TUN,2021,6.679847,False
+Tunisia,TUN,2022,6.80499,False
+Tunisia,TUN,2023,6.733989,False
+Turkey,TUR,1978,4.34774,False
+Turkey,TUR,1979,2.9152,False
+Turkey,TUR,1981,2.2083,False
+Turkey,TUR,1982,1.75491,False
+Turkey,TUR,1983,2.6476,False
+Turkey,TUR,1984,2.02923,False
+Turkey,TUR,1985,1.73811,False
+Turkey,TUR,1986,1.50957,False
+Turkey,TUR,1993,3.36547,False
+Turkey,TUR,1994,3.42483,False
+Turkey,TUR,1995,2.25111,False
+Turkey,TUR,2011,4.22151,False
+Turkey,TUR,2012,4.38722,False
+Turkey,TUR,2013,4.3448,False
+Turkey,TUR,2014,4.41257,False
+Turkey,TUR,2015,4.3055,False
+Turkey,TUR,2016,4.62774,False
+Turkey,TUR,2017,4.3237,False
+Turkey,TUR,2018,4.2973,False
+Turkey,TUR,2019,4.44776,False
+Turkey,TUR,2020,4.03382,False
+Turkey,TUR,2021,3.53788,False
+Turkey,TUR,2022,3.09571,False
+Turkmenistan,TKM,2012,3.04925,False
+Turkmenistan,TKM,2019,3.12055,False
+Turkmenistan,TKM,2020,3.76267,False
+Turkmenistan,TKM,2021,3.84891,False
+Turkmenistan,TKM,2022,3.58005,False
+Turkmenistan,TKM,2023,2.71292,False
+Turkmenistan,TKM,2024,4.28878,False
+Turks and Caicos Islands,TCA,2000,4.71883,False
+Turks and Caicos Islands,TCA,2001,4.84301,False
+Turks and Caicos Islands,TCA,2002,5.06914,False
+Turks and Caicos Islands,TCA,2003,4.72878,False
+Turks and Caicos Islands,TCA,2005,2.541,False
+Turks and Caicos Islands,TCA,2011,3.1666336,False
+Turks and Caicos Islands,TCA,2012,2.6974933,False
+Turks and Caicos Islands,TCA,2013,2.804787,False
+Turks and Caicos Islands,TCA,2014,2.7465463,False
+Turks and Caicos Islands,TCA,2015,3.09094,False
+Turks and Caicos Islands,TCA,2016,2.9074457,False
+Turks and Caicos Islands,TCA,2017,2.4727821,False
+Turks and Caicos Islands,TCA,2018,2.74377,False
+Turks and Caicos Islands,TCA,2019,2.1217,False
+Turks and Caicos Islands,TCA,2020,2.462138,False
+Turks and Caicos Islands,TCA,2021,3.27759,False
+Turks and Caicos Islands,TCA,2022,2.7764,False
+Turks and Caicos Islands,TCA,2023,2.6876547,False
+Turks and Caicos Islands,TCA,2024,2.9499812,False
+Tuvalu,TUV,1990,6.98569,False
+Tuvalu,TUV,1997,3.45019,False
+Tuvalu,TUV,2020,14.548278,False
+Tuvalu,TUV,2021,15.5155115,False
+Tuvalu,TUV,2022,13.762191,False
+Tuvalu,TUV,2023,12.84569,False
+Uganda,UGA,1971,3.16105,False
+Uganda,UGA,1973,3.35023,False
+Uganda,UGA,1974,3.39092,False
+Uganda,UGA,1975,3.22103,False
+Uganda,UGA,1976,2.67659,False
+Uganda,UGA,1982,2.51552,False
+Uganda,UGA,1983,1.68909,False
+Uganda,UGA,1984,2.42836,False
+Uganda,UGA,1985,3.43196,False
+Uganda,UGA,1988,5.10366,False
+Uganda,UGA,2000,2.46167,False
+Uganda,UGA,2004,4.95237,False
+Uganda,UGA,2010,1.7274,False
+Uganda,UGA,2011,2.29891,False
+Uganda,UGA,2012,1.79747,False
+Uganda,UGA,2013,1.87114,False
+Uganda,UGA,2014,1.91472,False
+Uganda,UGA,2015,2.32152,False
+Uganda,UGA,2016,2.13789,False
+Uganda,UGA,2017,2.25363,False
+Uganda,UGA,2018,2.13052,False
+Uganda,UGA,2019,2.3082807,False
+Uganda,UGA,2020,2.5722218,False
+Uganda,UGA,2021,2.635936,False
+Uganda,UGA,2022,2.5610502,False
+Ukraine,UKR,1970,4.57293,False
+Ukraine,UKR,1997,5.45601,False
+Ukraine,UKR,1998,4.44884,False
+Ukraine,UKR,1999,3.61808,False
+Ukraine,UKR,2000,4.02293,False
+Ukraine,UKR,2001,4.52568,False
+Ukraine,UKR,2002,5.24007,False
+Ukraine,UKR,2003,5.40019,False
+Ukraine,UKR,2004,5.12376,False
+Ukraine,UKR,2005,5.8482,False
+Ukraine,UKR,2006,5.97946,False
+Ukraine,UKR,2007,5.90244,False
+Ukraine,UKR,2008,6.15242,False
+Ukraine,UKR,2009,7.05075,False
+Ukraine,UKR,2011,5.9377,False
+Ukraine,UKR,2012,6.44268,False
+Ukraine,UKR,2013,6.41988,False
+Ukraine,UKR,2014,5.87492,False
+Ukraine,UKR,2015,5.339517,False
+Ukraine,UKR,2016,5.00977,False
+Ukraine,UKR,2017,5.41707,False
+Ukraine,UKR,2018,5.31992,False
+Ukraine,UKR,2019,5.4413,False
+Ukraine,UKR,2020,5.38231,False
+Ukraine,UKR,2021,5.1401,False
+United Arab Emirates,ARE,2019,3.8602,False
+United Arab Emirates,ARE,2020,3.98418,False
+United Arab Emirates,ARE,2021,3.89404,False
+United Kingdom,GBR,1971,5.03205,False
+United Kingdom,GBR,1972,5.15938,False
+United Kingdom,GBR,1973,5.44861,False
+United Kingdom,GBR,1974,5.391,False
+United Kingdom,GBR,1975,6.26878,False
+United Kingdom,GBR,1976,6.42422,False
+United Kingdom,GBR,1977,6.06335,False
+United Kingdom,GBR,1980,5.07012,False
+United Kingdom,GBR,1981,5.28842,False
+United Kingdom,GBR,1982,5.1887,False
+United Kingdom,GBR,1983,5.0615,False
+United Kingdom,GBR,1984,4.89906,False
+United Kingdom,GBR,1985,4.59409,False
+United Kingdom,GBR,1986,4.38084,False
+United Kingdom,GBR,1987,4.37181,False
+United Kingdom,GBR,1988,4.26831,False
+United Kingdom,GBR,1989,4.12511,False
+United Kingdom,GBR,1990,4.05552,False
+United Kingdom,GBR,1991,4.12248,False
+United Kingdom,GBR,1992,4.33449,False
+United Kingdom,GBR,1993,5.4,False
+United Kingdom,GBR,1994,4.85083,False
+United Kingdom,GBR,1995,4.83926,False
+United Kingdom,GBR,1996,4.37826,False
+United Kingdom,GBR,1998,4.20708,False
+United Kingdom,GBR,1999,3.98845,False
+United Kingdom,GBR,2000,4.01821,False
+United Kingdom,GBR,2001,4.10015,False
+United Kingdom,GBR,2002,4.61191,False
+United Kingdom,GBR,2003,4.80129,False
+United Kingdom,GBR,2004,4.73556,False
+United Kingdom,GBR,2005,4.92976,False
+United Kingdom,GBR,2006,4.97648,False
+United Kingdom,GBR,2007,4.92445,False
+United Kingdom,GBR,2008,4.90973,False
+United Kingdom,GBR,2009,5.06263,False
+United Kingdom,GBR,2010,5.69869,False
+United Kingdom,GBR,2011,5.5722,False
+United Kingdom,GBR,2013,5.52529,False
+United Kingdom,GBR,2014,5.60135,False
+United Kingdom,GBR,2015,5.55453,False
+United Kingdom,GBR,2016,5.42796,False
+United Kingdom,GBR,2017,5.45255,False
+United Kingdom,GBR,2018,5.20438,False
+United Kingdom,GBR,2019,5.26117,False
+United Kingdom,GBR,2020,5.43936,False
+United Kingdom,GBR,2021,5.90682,False
+United States,USA,1993,5.5,False
+United States,USA,2015,4.93064,False
+United States,USA,2016,4.78328,False
+United States,USA,2017,5.09297,False
+United States,USA,2018,4.89502,False
+United States,USA,2019,4.95747,False
+United States,USA,2020,5.39531,False
+United States,USA,2021,5.42038,False
+Uruguay,URY,1979,1.98713,False
+Uruguay,URY,1980,2.15951,False
+Uruguay,URY,1984,2.37339,False
+Uruguay,URY,1985,2.56679,False
+Uruguay,URY,1986,3.10283,False
+Uruguay,URY,1991,2.47908,False
+Uruguay,URY,1992,2.41153,False
+Uruguay,URY,1994,2.27172,False
+Uruguay,URY,1995,2.5214,False
+Uruguay,URY,1996,2.86986,False
+Uruguay,URY,1998,2.24337,False
+Uruguay,URY,2000,2.42255,False
+Uruguay,URY,2001,2.80096,False
+Uruguay,URY,2002,2.3222,False
+Uruguay,URY,2003,2.06821,False
+Uruguay,URY,2004,2.49954,False
+Uruguay,URY,2005,2.71476,False
+Uruguay,URY,2006,2.85664,False
+Uruguay,URY,2011,4.14937,False
+Uruguay,URY,2012,4.0935335,False
+Uruguay,URY,2013,4.23893,False
+Uruguay,URY,2014,4.26735,False
+Uruguay,URY,2015,4.20637,False
+Uruguay,URY,2016,4.3642,False
+Uruguay,URY,2017,4.41787,False
+Uruguay,URY,2018,4.60361,False
+Uruguay,URY,2019,4.62835,False
+Uruguay,URY,2020,4.55218,False
+Uruguay,URY,2021,4.46211,False
+Uruguay,URY,2022,4.47953,False
+Uruguay,URY,2023,4.76462,False
+Uzbekistan,UZB,2013,5.74192,False
+Uzbekistan,UZB,2014,5.71325,False
+Uzbekistan,UZB,2015,5.49444,False
+Uzbekistan,UZB,2016,5.3809,False
+Uzbekistan,UZB,2017,4.48249,False
+Uzbekistan,UZB,2018,4.835893,False
+Uzbekistan,UZB,2019,6.2953467,False
+Uzbekistan,UZB,2020,4.44022,False
+Uzbekistan,UZB,2021,4.13581,False
+Uzbekistan,UZB,2022,5.2347717,False
+Uzbekistan,UZB,2023,5.472876,False
+Vanuatu,VUT,1994,4.11688,False
+Vanuatu,VUT,1998,7.64105,False
+Vanuatu,VUT,1999,6.16265,False
+Vanuatu,VUT,2000,7.00363,False
+Vanuatu,VUT,2001,8.95115,False
+Vanuatu,VUT,2002,8.13198,False
+Vanuatu,VUT,2003,8.44151,False
+Vanuatu,VUT,2008,5.95151,False
+Vanuatu,VUT,2009,5.16051,False
+Vanuatu,VUT,2014,5.17257,False
+Vanuatu,VUT,2015,5.39081,False
+Vanuatu,VUT,2016,7.677426,False
+Vanuatu,VUT,2017,4.53353,False
+Vanuatu,VUT,2018,8.606347,False
+Vanuatu,VUT,2019,1.77407,False
+Vanuatu,VUT,2020,2.17359,False
+Vanuatu,VUT,2021,10.110241,False
+Vanuatu,VUT,2022,10.703345,False
+Vanuatu,VUT,2023,7.58136,False
+Vanuatu,VUT,2024,7.63695,False
+Venezuela,VEN,1970,4.16287,False
+Venezuela,VEN,1971,4.17992,False
+Venezuela,VEN,1972,4.83729,False
+Venezuela,VEN,1974,3.94796,False
+Venezuela,VEN,1975,5.19851,False
+Venezuela,VEN,1977,5.25666,False
+Venezuela,VEN,1980,4.40072,False
+Venezuela,VEN,1981,5.18744,False
+Venezuela,VEN,1982,5.00895,False
+Venezuela,VEN,1983,6.05982,False
+Venezuela,VEN,1984,4.06373,False
+Venezuela,VEN,1987,3.92751,False
+Venezuela,VEN,1988,3.62941,False
+Venezuela,VEN,1990,2.44671,False
+Venezuela,VEN,1992,4.31068,False
+Venezuela,VEN,1993,3.81783,False
+Venezuela,VEN,1994,5.00603,False
+Venezuela,VEN,2006,3.66906,False
+Venezuela,VEN,2007,3.62732,False
+Venezuela,VEN,2009,6.87467,False
+Vietnam,VNM,2008,4.88673,False
+Vietnam,VNM,2009,4.8165,False
+Vietnam,VNM,2010,4.04595,False
+Vietnam,VNM,2011,3.78023,False
+Vietnam,VNM,2012,4.40817,False
+Vietnam,VNM,2013,4.52834,False
+Vietnam,VNM,2014,3.5401232,False
+Vietnam,VNM,2015,3.4166045,False
+Vietnam,VNM,2016,3.46907,False
+Vietnam,VNM,2017,3.4186568,False
+Vietnam,VNM,2018,3.29537,False
+Vietnam,VNM,2019,3.0849984,False
+Vietnam,VNM,2020,3.216529,False
+Vietnam,VNM,2021,2.945175,False
+Vietnam,VNM,2022,2.8873868,False
+Yemen,YEM,2000,9.66163,False
+Yemen,YEM,2001,9.24471,False
+Yemen,YEM,2008,5.15144,False
+Zambia,ZMB,1970,4.38781,False
+Zambia,ZMB,1971,6.09535,False
+Zambia,ZMB,1972,5.94579,False
+Zambia,ZMB,1973,5.48807,False
+Zambia,ZMB,1974,4.87801,False
+Zambia,ZMB,1975,6.23854,False
+Zambia,ZMB,1976,6.02694,False
+Zambia,ZMB,1977,5.69251,False
+Zambia,ZMB,1978,4.74075,False
+Zambia,ZMB,1979,4.15494,False
+Zambia,ZMB,1980,4.12671,False
+Zambia,ZMB,1981,4.00072,False
+Zambia,ZMB,1982,5.15487,False
+Zambia,ZMB,1983,5.38802,False
+Zambia,ZMB,1984,4.98856,False
+Zambia,ZMB,1985,4.14584,False
+Zambia,ZMB,1986,3.33899,False
+Zambia,ZMB,1987,2.66226,False
+Zambia,ZMB,1991,2.74057,False
+Zambia,ZMB,1992,2.0916,False
+Zambia,ZMB,1993,1.94208,False
+Zambia,ZMB,1994,1.79352,False
+Zambia,ZMB,1995,1.83853,False
+Zambia,ZMB,1998,2.11823,False
+Zambia,ZMB,1999,1.77495,False
+Zambia,ZMB,2000,1.78819,False
+Zambia,ZMB,2004,2.46343,False
+Zambia,ZMB,2005,1.73553,False
+Zambia,ZMB,2007,1.24076,False
+Zambia,ZMB,2008,1.09972,False
+Zambia,ZMB,2010,3.4160044,False
+Zambia,ZMB,2011,3.3577228,False
+Zambia,ZMB,2012,3.6950023,False
+Zambia,ZMB,2013,3.7182071,False
+Zambia,ZMB,2014,5.152257,False
+Zambia,ZMB,2015,4.62433,False
+Zambia,ZMB,2016,3.74792,False
+Zambia,ZMB,2017,3.72964,False
+Zambia,ZMB,2018,4.73974,False
+Zambia,ZMB,2019,4.41824,False
+Zambia,ZMB,2020,3.943741,False
+Zambia,ZMB,2021,3.1136346,False
+Zambia,ZMB,2022,3.658841,False
+Zambia,ZMB,2023,4.0737495,False
+Zimbabwe,ZWE,2010,1.5440557,False
+Zimbabwe,ZWE,2012,6.070214,False
+Zimbabwe,ZWE,2013,5.995981,False
+Zimbabwe,ZWE,2014,6.138354,False
+Zimbabwe,ZWE,2023,0.3847713,False
