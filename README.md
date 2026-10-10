@@ -70,8 +70,6 @@ The tests use one row per country because the same country appears in many years
 └── README.md
 ```
 
-Adjust the notebook list to match the files in your `notebooks/` folder.
-
 ## Run it locally
 
 This project uses [uv](https://docs.astral.sh/uv/).
