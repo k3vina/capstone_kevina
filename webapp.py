@@ -9,9 +9,9 @@ import analysis as A
 import charts as C
 
 
-REPO_URL = ""
-SLIDES_URL = ""
-ARTICLE_URL = ""
+LIVE_APP_URL = "https://pydata-capstone.streamlit.app/"
+SLIDES_URL = "https://1drv.ms/p/c/0c4589f2251de4da/IQAm5bbFdFX1SI8Qsle-Us2cAahCJXLVEThddCQkLw19sl8?e=syckQW"
+ARTICLE_URL = "https://medium.com/@kevinajepkonga/does-spending-more-on-education-put-more-children-in-school-3a1056176edb"
 
 st.set_page_config(page_title="Education spending and school enrolment", page_icon="📚", layout="centered")
 
@@ -184,7 +184,7 @@ with st.expander("About the data and method"):
         "Dropout is 100 minus the share of pupils who reach the last primary grade."
     )
 
-links = [(n, u) for n, u in [("GitHub repository", REPO_URL), ("Slides", SLIDES_URL), ("Article", ARTICLE_URL)] if u]
+links = [(n, u) for n, u in [("Live app", LIVE_APP_URL), ("Slides", SLIDES_URL), ("Article", ARTICLE_URL)] if u]
 if links:
     st.divider()
     st.markdown(" | ".join(f"[{n}]({u})" for n, u in links))

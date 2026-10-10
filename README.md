@@ -12,9 +12,9 @@ PyData Data Science Foundations, Week 5 capstone, organised by the six CRISP-DM 
 
 | Deliverable | Link |
 | --- | --- |
-| Live app (Streamlit Community Cloud) | [ADD APP LINK] |
-| Slides (one per CRISP-DM phase) | [ADD SLIDES LINK] |
-| Article | [ADD SUBSTACK OR MEDIUM LINK] |
+| Live app (Streamlit Community Cloud) | https://pydata-capstone.streamlit.app/ |
+| Slides (one per CRISP-DM phase) | https://1drv.ms/p/c/0c4589f2251de4da/IQAm5bbFdFX1SI8Qsle-Us2cAahCJXLVEThddCQkLw19sl8?e=x6BTF9 |
+| Article | https://medium.com/@kevinajepkonga/does-spending-more-on-education-put-more-children-in-school-3a1056176edb?postPublishedType=repub |
 
 ## Short answer
 
