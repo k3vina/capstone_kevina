@@ -10,7 +10,7 @@ import charts as C
 
 # Fill these in once the article, slides and repo exist. Empty strings are not shown.
 REPO_URL = "https://github.com/k3vina/capstone_kevina/tree/main"
-SLIDES_URL = "https://1drv.ms/p/c/0c4589f2251de4da/IQAm5bbFdFX1SI8Qsle-Us2cAahCJXLVEThddCQkLw19sl8?e=x6BTF9"
+SLIDES_URL = "https://powerpoint.cloud.microsoft/open/onedrive/?docId=C4589F2251DE4DA%21s46d987816fcb4f8a84f3c01dd57e4451&driveId=0C4589F2251DE4DA"
 ARTICLE_URL = "https://medium.com/@kevinajepkonga/does-spending-more-on-education-put-more-children-in-school-3a1056176edb?postPublishedType=repub"
 
 st.set_page_config(page_title="Education spending and school enrolment", page_icon="📚",
