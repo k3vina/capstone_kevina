@@ -49,8 +49,12 @@ def country_table(joined: pd.DataFrame) -> pd.DataFrame:
             .reset_index())
     median_in_group = ctry.groupby("income")["spend"].transform("median")
     ctry["spend_group"] = np.where(ctry["spend"] > median_in_group, "high", "low")
-    bands = ctry.groupby("income")["spend"].transform(
-        lambda s: pd.qcut(s, 3, labels=["low", "middle", "high"]).astype(str))
+    def _bands(s):
+        if len(s) < 3:
+            return pd.Series("middle", index=s.index)
+        return pd.qcut(s.rank(method="first"), 3, labels=["low", "middle", "high"]).astype(str)
+
+    bands = ctry.groupby("income")["spend"].transform(_bands)
     ctry["spend_band"] = pd.Categorical(bands, categories=["low", "middle", "high"], ordered=True)
     ctry["high_primary"] = (ctry["primary"] >= 90).astype("Int8").where(ctry["primary"].notna())
     ctry["income"] = pd.Categorical(ctry["income"], categories=INCOME_ORDER, ordered=True)
@@ -141,34 +145,54 @@ def two_prop(x1, n1, x0, n0):
 
 
 def run_tests(ctry: pd.DataFrame) -> pd.DataFrame:
-    """The four hypothesis tests of Phase 5, in plain language."""
+    """The four hypothesis tests of Phase 5, in plain language.
+
+    A test that cannot run on the current selection (too few countries) is left out.
+    """
     rows = []
-    w = welch(ctry, "dropout")
-    rows.append(("Do high-spending countries lose fewer pupils before the last primary grade?",
-                 "Welch t-test", f"t = {w['t']:.2f}", w["p"],
-                 f"About {abs(w['diff']):.0f} points less dropout in high-spending countries"))
+    try:
+        w = welch(ctry, "dropout")
+        if len(w["a"]) >= 5 and len(w["b"]) >= 5:
+            rows.append(("Do high-spending countries lose fewer pupils before the last primary grade?",
+                         "Welch t-test", f"t = {w['t']:.2f}", w["p"],
+                         f"About {abs(w['diff']):.0f} points {'less' if w['diff'] < 0 else 'more'} dropout in high-spending countries"))
+    except (ValueError, KeyError, ZeroDivisionError):
+        pass
 
     d2 = ctry.dropna(subset=["high_primary"])
-    g = d2.groupby("spend_group")["high_primary"].agg(["sum", "count"]).astype(int)
-    p1, p0, z, p = two_prop(g.loc["high", "sum"], g.loc["high", "count"], g.loc["low", "sum"], g.loc["low", "count"])
-    rows.append(("Are high-spending countries more likely to reach 90% primary enrolment?",
-                 "Two-proportion Z-test", f"z = {z:.2f}", p,
-                 f"{p1 * 100:.0f}% of high spenders against {p0 * 100:.0f}% of low spenders"))
+    try:
+        g = d2.groupby("spend_group")["high_primary"].agg(["sum", "count"]).astype(int)
+        if {"high", "low"} <= set(g.index) and g["count"].min() >= 5:
+            p1, p0, z, p = two_prop(g.loc["high", "sum"], g.loc["high", "count"], g.loc["low", "sum"], g.loc["low", "count"])
+            if np.isfinite(z):
+                rows.append(("Are high-spending countries more likely to reach 90% primary enrolment?",
+                             "Two-proportion Z-test", f"z = {z:.2f}", p,
+                             f"{p1 * 100:.0f}% of high spenders against {p0 * 100:.0f}% of low spenders"))
+    except (ValueError, KeyError, ZeroDivisionError):
+        pass
 
-    d3 = ctry.dropna(subset=["secondary"])
-    groups = [d3.loc[d3["spend_band"] == b, "secondary"] for b in ["low", "middle", "high"]]
-    F, p = stats.f_oneway(*groups)
-    rows.append(("Does secondary enrolment differ between low, middle and high spenders?",
-                 "ANOVA (F-test)", f"F = {F:.2f}", p,
-                 f"Averages of {groups[0].mean():.0f}%, {groups[1].mean():.0f}% and {groups[2].mean():.0f}%"))
+    try:
+        d3 = ctry.dropna(subset=["secondary"])
+        groups = [d3.loc[d3["spend_band"] == b, "secondary"] for b in ["low", "middle", "high"]]
+        if all(len(x) >= 3 for x in groups):
+            F, p = stats.f_oneway(*groups)
+            rows.append(("Does secondary enrolment differ between low, middle and high spenders?",
+                         "ANOVA (F-test)", f"F = {F:.2f}", p,
+                         f"Averages of {groups[0].mean():.0f}%, {groups[1].mean():.0f}% and {groups[2].mean():.0f}%"))
+    except (ValueError, KeyError):
+        pass
 
-    d4 = ctry.dropna(subset=["high_primary"])
-    ct = pd.crosstab(d4["spend_band"], d4["high_primary"])
-    chi2, p, dof, _ = stats.chi2_contingency(ct)
-    rows.append(("Is reaching 90% primary enrolment independent of spending level?",
-                 "Chi-square test", f"chi-square = {chi2:.2f}", p,
-                 "Share reaching 90%: " + ", ".join(
-                     f"{b} {ct.loc[b, 1] / ct.loc[b].sum() * 100:.0f}%" for b in ["low", "middle", "high"])))
+    try:
+        d4 = ctry.dropna(subset=["high_primary"])
+        ct = pd.crosstab(d4["spend_band"], d4["high_primary"])
+        if ct.shape == (3, 2) and ct.to_numpy().sum() >= 30:
+            chi2, p, dof, _ = stats.chi2_contingency(ct)
+            rows.append(("Is reaching 90% primary enrolment independent of spending level?",
+                         "Chi-square test", f"chi-square = {chi2:.2f}", p,
+                         "Share reaching 90%: " + ", ".join(
+                             f"{b} {ct.loc[b, 1] / ct.loc[b].sum() * 100:.0f}%" for b in ["low", "middle", "high"])))
+    except (ValueError, KeyError):
+        pass
 
     out = pd.DataFrame(rows, columns=["Question", "Test", "Statistic", "p-value", "What we saw"])
 

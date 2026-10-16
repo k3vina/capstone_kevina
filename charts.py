@@ -84,12 +84,14 @@ def fig_enrolment_by_spending(df):
 def fig_high_enrolment_by_income(df):
     """df from analysis.high_enrolment_by_income."""
     fig, ax = _base()
-    x = np.arange(len(INCOME_ORDER))
+    present = set(df["income"].astype(str))
+    order = [i for i in INCOME_ORDER if i in present]
+    x = np.arange(len(order))
     w = 0.34
     series = [("high", "Higher-spending half", BLUE, +w / 2), ("low", "Lower-spending half", ORANGE, -w / 2)]
     for grp, label, color, off in series:
         vals, ns = [], []
-        for inc in INCOME_ORDER:
+        for inc in order:
             r = df[(df["income"] == inc) & (df["spend_group"] == grp)]
             vals.append(float(r["share"].iloc[0]) * 100 if len(r) else np.nan)
             ns.append(int(r["countries"].iloc[0]) if len(r) else 0)
@@ -97,9 +99,9 @@ def fig_high_enrolment_by_income(df):
         for xi, v in zip(x + off, vals):
             ax.annotate(f"{v:.0f}%", (xi, v), xytext=(0, 4), textcoords="offset points", ha="center",
                         fontsize=10, color=INK)
-    totals = [int(df[df["income"] == inc]["countries"].sum()) for inc in INCOME_ORDER]
+    totals = [int(df[df["income"] == inc]["countries"].sum()) for inc in order]
     ax.set_xticks(x)
-    ax.set_xticklabels([f"{inc} income\n({n} countries)" for inc, n in zip(INCOME_ORDER, totals)])
+    ax.set_xticklabels([f"{inc} income\n({n} countries)" for inc, n in zip(order, totals)])
     ax.set_ylim(0, 118)
     ax.set_yticks([0, 25, 50, 75, 100])
     ax.set_ylabel("Share of countries")
@@ -193,8 +195,12 @@ def fig_dropout_groups(w):
     ax.set_xlim(-0.6, 1.9)
     ax.set_ylabel("Pupils not reaching last grade (%)")
     lo, hi = w["ci"]
-    _titles(fig, "Dropout is somewhat lower in higher-spending countries, but the evidence is not conclusive",
-            f"Each dot is one country. The gap is about {abs(w['diff']):.0f} points. Allowing for chance, the true gap could be "
-            f"anywhere between {abs(lo):.0f} points lower and {max(hi, 0):.1f} points higher (test result p = {w['p']:.2f}).")
+    sig = w["p"] < 0.05
+    direction = "lower" if w["diff"] < 0 else "higher"
+    title = (f"Dropout is {direction} in higher-spending countries" if sig else
+             f"Dropout is somewhat {direction} in higher-spending countries, but the evidence is not conclusive")
+    _titles(fig, title,
+            f"Each dot is one country. The gap is about {abs(w['diff']):.0f} points. Allowing for chance, the true gap "
+            f"(higher minus lower spenders) is likely between {lo:+.1f} and {hi:+.1f} points (test result p = {w['p']:.2f}).")
     _source(fig, "Sources: Our World in Data, World Bank. Dropout is 100 minus the share of pupils who reach the last primary grade.")
     return fig
