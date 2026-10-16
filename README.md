@@ -52,7 +52,7 @@ The tests use one row per country because the same country appears in many years
 
 ```
 .
-├── app.py                  Streamlit app
+├── webapp.py                  Streamlit app
 ├── analysis.py             data loading and statistics (used by the app and notebooks)
 ├── charts.py               labelled charts (used by the app and notebooks)
 ├── .streamlit/config.toml  app theme
@@ -60,15 +60,15 @@ The tests use one row per country because the same country appears in many years
 │   ├── raw/                original downloads
 │   └── cleaned/            cleaned tables and joined.csv
 ├── notebooks/              one notebook per phase, including:
-│   ├── 09_phase4_modeling.ipynb
-│   ├── 10_phase5_hypothesis_tests.ipynb
-│   └── 11_phase6_charts.ipynb
+│   ├── modeling.ipynb
+│   ├── hypothesis_tests.ipynb
+|   |-- deployment.ipynb
+|   |-- join_datasets.ipynb
+│   └── notebook.ipynb
 ├── pyproject.toml
 ├── uv.lock
 └── README.md
 ```
-
-Adjust the notebook list to match the files in your `notebooks/` folder.
 
 ## Run it locally
 
